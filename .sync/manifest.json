@@ -540,6 +540,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP105_Relatives.mp4"
   },
+  "handwriting/EP106_More_Fruits": {
+   "asset": "EP106_More_Fruits.mp4",
+   "dir": "EP106 More Fruits",
+   "duration": 18.933333,
+   "ep": "EP106_More_Fruits",
+   "mb": 4.710607,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "68d12628a1bc4cfd160a2834fc6fdea750279e5f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP106_More_Fruits.mp4"
+  },
+  "handwriting/EP107_More_Vegetables": {
+   "asset": "EP107_More_Vegetables.mp4",
+   "dir": "EP107 More Vegetables",
+   "duration": 19.566667,
+   "ep": "EP107_More_Vegetables",
+   "mb": 4.895522,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "17244b7a84527d09e1912f1d8bd3cc3c8e93b188",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP107_More_Vegetables.mp4"
+  },
+  "handwriting/EP108_At_the_Cafe": {
+   "asset": "EP108_At_the_Cafe.mp4",
+   "dir": "EP108 At the Cafe",
+   "duration": 22.966667,
+   "ep": "EP108_At_the_Cafe",
+   "mb": 5.155694,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f56622e63e0e9ee1ce0a70521ddc2218f4c9d3d0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP108_At_the_Cafe.mp4"
+  },
+  "handwriting/EP109_Body_Parts": {
+   "asset": "EP109_Body_Parts.mp4",
+   "dir": "EP109 Body Parts",
+   "duration": 18.066667,
+   "ep": "EP109_Body_Parts",
+   "mb": 4.612843,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f10153d92a8ab5a381b12d4f62df85eaee0c6a9d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP109_Body_Parts.mp4"
+  },
   "handwriting/EP10_Wild_Animals": {
    "asset": "EP10_Wild_Animals.mp4",
    "dir": "EP10 Wild Animals",
@@ -554,6 +614,126 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP10_Wild_Animals.mp4"
+  },
+  "handwriting/EP110_Pets": {
+   "asset": "EP110_Pets.mp4",
+   "dir": "EP110 Pets",
+   "duration": 19.133333,
+   "ep": "EP110_Pets",
+   "mb": 4.569691,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c62a5c51513ee4656c4503d271103cace3cdb0df",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP110_Pets.mp4"
+  },
+  "handwriting/EP111_More_Feelings": {
+   "asset": "EP111_More_Feelings.mp4",
+   "dir": "EP111 More Feelings",
+   "duration": 19.333333,
+   "ep": "EP111_More_Feelings",
+   "mb": 4.789686,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "35c8dc4411f65cd91c2ab1296e43441696dfbf7a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP111_More_Feelings.mp4"
+  },
+  "handwriting/EP112_In_Class": {
+   "asset": "EP112_In_Class.mp4",
+   "dir": "EP112 In Class",
+   "duration": 24.733333,
+   "ep": "EP112_In_Class",
+   "mb": 5.778498,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b549cdc9c4b74733ef03077dd6d21e386f556eab",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP112_In_Class.mp4"
+  },
+  "handwriting/EP113_Parts_of_the_Day": {
+   "asset": "EP113_Parts_of_the_Day.mp4",
+   "dir": "EP113 Parts of the Day",
+   "duration": 19.666667,
+   "ep": "EP113_Parts_of_the_Day",
+   "mb": 4.650784,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b16eed5e0377b6372d12e3b8c661c9f46eeb83d4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP113_Parts_of_the_Day.mp4"
+  },
+  "handwriting/EP114_Ordinals": {
+   "asset": "EP114_Ordinals.mp4",
+   "dir": "EP114 Ordinals",
+   "duration": 18.333333,
+   "ep": "EP114_Ordinals",
+   "mb": 4.584122,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2a313b3a537aa2ce5f5cf197429b64b66fa55031",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP114_Ordinals.mp4"
+  },
+  "handwriting/EP115_Accessories": {
+   "asset": "EP115_Accessories.mp4",
+   "dir": "EP115 Accessories",
+   "duration": 18.9,
+   "ep": "EP115_Accessories",
+   "mb": 4.713211,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "5d72c6f538d47a3d35b63a78f2f6ce3fdae95d8c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP115_Accessories.mp4"
+  },
+  "handwriting/EP116_At_the_Shop": {
+   "asset": "EP116_At_the_Shop.mp4",
+   "dir": "EP116 At the Shop",
+   "duration": 24.4,
+   "ep": "EP116_At_the_Shop",
+   "mb": 5.660345,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1f2a9461e8de3ce5ea5fd9f81a3123d2e89e6e45",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP116_At_the_Shop.mp4"
+  },
+  "handwriting/EP117_Bakery": {
+   "asset": "EP117_Bakery.mp4",
+   "dir": "EP117 Bakery",
+   "duration": 19.8,
+   "ep": "EP117_Bakery",
+   "mb": 4.657613,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "92c676d927f30d618f9243b6aad19509ede4cf20",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP117_Bakery.mp4"
   },
   "handwriting/EP11_Birds": {
    "asset": "EP11_Birds.mp4",
