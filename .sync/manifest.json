@@ -630,6 +630,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP21_Kitchen.mp4"
   },
+  "handwriting/EP22_Utensils": {
+   "asset": "EP22_Utensils.mp4",
+   "dir": "EP22 Utensils",
+   "duration": 17.766667,
+   "ep": "EP22_Utensils",
+   "mb": 4.477992,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "6acf7b28a1932c43fc0d24dd10b6f4cfc8798d1c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP22_Utensils.mp4"
+  },
+  "handwriting/EP23_Breakfast": {
+   "asset": "EP23_Breakfast.mp4",
+   "dir": "EP23 Breakfast",
+   "duration": 18.133333,
+   "ep": "EP23_Breakfast",
+   "mb": 4.603382,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "70fcb874ceabb1d4fc1168afaf74f6e24de650a6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP23_Breakfast.mp4"
+  },
+  "handwriting/EP24_Drinks": {
+   "asset": "EP24_Drinks.mp4",
+   "dir": "EP24 Drinks",
+   "duration": 18.333333,
+   "ep": "EP24_Drinks",
+   "mb": 4.534758,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "42620ff883472cdf3f3d09de0156952fe4855747",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP24_Drinks.mp4"
+  },
+  "handwriting/EP25_Desserts": {
+   "asset": "EP25_Desserts.mp4",
+   "dir": "EP25 Desserts",
+   "duration": 19.3,
+   "ep": "EP25_Desserts",
+   "mb": 4.758512,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "902ae285712cc9268aec5d6c7deed61022c23c31",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP25_Desserts.mp4"
+  },
+  "handwriting/EP26_Spices": {
+   "asset": "EP26_Spices.mp4",
+   "dir": "EP26 Spices",
+   "duration": 18.166667,
+   "ep": "EP26_Spices",
+   "mb": 4.479688,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "65e327da2b3b5ceadf01d5cb670c3a8b6c87610d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP26_Spices.mp4"
+  },
+  "handwriting/EP27_Dairy": {
+   "asset": "EP27_Dairy.mp4",
+   "dir": "EP27 Dairy",
+   "duration": 19.033333,
+   "ep": "EP27_Dairy",
+   "mb": 4.705536,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "62bfafb6b8fae68542d416b9f284e1969c11d5d6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP27_Dairy.mp4"
+  },
+  "handwriting/EP28_Meat_and_Fish": {
+   "asset": "EP28_Meat_and_Fish.mp4",
+   "dir": "EP28 Meat and Fish",
+   "duration": 18.233333,
+   "ep": "EP28_Meat_and_Fish",
+   "mb": 4.586299,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b8d834da305f2b5a04b0e6a4f8734c688ee102d3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP28_Meat_and_Fish.mp4"
+  },
+  "handwriting/EP29_Fast_Food": {
+   "asset": "EP29_Fast_Food.mp4",
+   "dir": "EP29 Fast Food",
+   "duration": 18.633333,
+   "ep": "EP29_Fast_Food",
+   "mb": 4.518696,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "86916c6c80dee0bcb8ff386b8466b6b769fd6f31",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP29_Fast_Food.mp4"
+  },
+  "handwriting/EP30_Restaurant": {
+   "asset": "EP30_Restaurant.mp4",
+   "dir": "EP30 Restaurant",
+   "duration": 23.366667,
+   "ep": "EP30_Restaurant",
+   "mb": 5.283749,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2bd33ac1f41d05dc3290572605dc354ecd041b84",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP30_Restaurant.mp4"
+  },
+  "handwriting/EP31_Living_Room": {
+   "asset": "EP31_Living_Room.mp4",
+   "dir": "EP31 Living Room",
+   "duration": 18.033333,
+   "ep": "EP31_Living_Room",
+   "mb": 4.560882,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9819e2d4f8e9c0f03e1e34a1d437297becac29fc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP31_Living_Room.mp4"
+  },
+  "handwriting/EP32_Bedroom": {
+   "asset": "EP32_Bedroom.mp4",
+   "dir": "EP32 Bedroom",
+   "duration": 19.666667,
+   "ep": "EP32_Bedroom",
+   "mb": 4.875984,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "eb9b73baeb684b6b092149a567dcb0d7b87ab9fe",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP32_Bedroom.mp4"
+  },
+  "handwriting/EP33_Bathroom": {
+   "asset": "EP33_Bathroom.mp4",
+   "dir": "EP33 Bathroom",
+   "duration": 18.333333,
+   "ep": "EP33_Bathroom",
+   "mb": 4.469408,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "34ce4172c1336f94e7c5d92ef3410b8b0d5fbe40",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP33_Bathroom.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
