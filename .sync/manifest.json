@@ -450,6 +450,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP09_Farm.mp4"
   },
+  "handwriting/EP10_Wild_Animals": {
+   "asset": "EP10_Wild_Animals.mp4",
+   "dir": "EP10 Wild Animals",
+   "duration": 18.7,
+   "ep": "EP10_Wild_Animals",
+   "mb": 4.774547,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "cc415df47f1d4014e3b481c7cc065840cd2aabea",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP10_Wild_Animals.mp4"
+  },
+  "handwriting/EP11_Birds": {
+   "asset": "EP11_Birds.mp4",
+   "dir": "EP11 Birds",
+   "duration": 18.533333,
+   "ep": "EP11_Birds",
+   "mb": 4.598153,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d2e17aeddb960bdd8a5d468fd201c52c0a994ed3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP11_Birds.mp4"
+  },
+  "handwriting/EP12_Sea_Life": {
+   "asset": "EP12_Sea_Life.mp4",
+   "dir": "EP12 Sea Life",
+   "duration": 18.733333,
+   "ep": "EP12_Sea_Life",
+   "mb": 4.598925,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e8696de79d2805668890701d5310eaa63094c738",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP12_Sea_Life.mp4"
+  },
+  "handwriting/EP13_Insects": {
+   "asset": "EP13_Insects.mp4",
+   "dir": "EP13 Insects",
+   "duration": 18.333333,
+   "ep": "EP13_Insects",
+   "mb": 4.621636,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "584cc6f1e2dcc808d630659d96fe808dd190925e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP13_Insects.mp4"
+  },
+  "handwriting/EP14_Weather": {
+   "asset": "EP14_Weather.mp4",
+   "dir": "EP14 Weather",
+   "duration": 18.366667,
+   "ep": "EP14_Weather",
+   "mb": 4.54571,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b0765d6f6bb714dd220ffc266f4b2538b4a31830",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP14_Weather.mp4"
+  },
+  "handwriting/EP15_Seasons": {
+   "asset": "EP15_Seasons.mp4",
+   "dir": "EP15 Seasons",
+   "duration": 15.833333,
+   "ep": "EP15_Seasons",
+   "mb": 3.362038,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bf29b48c994007bdff2e4a900ff34268f5637695",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP15_Seasons.mp4"
+  },
+  "handwriting/EP16_Days": {
+   "asset": "EP16_Days.mp4",
+   "dir": "EP16 Days",
+   "duration": 21.333333,
+   "ep": "EP16_Days",
+   "mb": 5.134613,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "995b60cdf34e9896eee8856ea1d9665ef1be9dc5",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP16_Days.mp4"
+  },
+  "handwriting/EP17_Months": {
+   "asset": "EP17_Months.mp4",
+   "dir": "EP17 Months",
+   "duration": 18.666667,
+   "ep": "EP17_Months",
+   "mb": 4.785669,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7e7a860cb9402d76256dcd7e97ecf1bc73397165",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP17_Months.mp4"
+  },
+  "handwriting/EP18_Numbers_1-6": {
+   "asset": "EP18_Numbers_1-6.mp4",
+   "dir": "EP18 Numbers 1-6",
+   "duration": 17.3,
+   "ep": "EP18_Numbers_1-6",
+   "mb": 4.284264,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a539f453607dd43e6d374414f33fcaba923b9e2d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP18_Numbers_1-6.mp4"
+  },
+  "handwriting/EP19_Numbers_7-12": {
+   "asset": "EP19_Numbers_7-12.mp4",
+   "dir": "EP19 Numbers 7-12",
+   "duration": 18.066667,
+   "ep": "EP19_Numbers_7-12",
+   "mb": 4.508785,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "0c49bfea4ebf86b78c9d906bb2b5b4319a7e5322",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP19_Numbers_7-12.mp4"
+  },
+  "handwriting/EP20_Time": {
+   "asset": "EP20_Time.mp4",
+   "dir": "EP20 Time",
+   "duration": 23.466667,
+   "ep": "EP20_Time",
+   "mb": 5.307874,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ddb6392053d915e21a6096dd81582dbf35bcd548",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP20_Time.mp4"
+  },
+  "handwriting/EP21_Kitchen": {
+   "asset": "EP21_Kitchen.mp4",
+   "dir": "EP21 Kitchen",
+   "duration": 17.766667,
+   "ep": "EP21_Kitchen",
+   "mb": 4.505554,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "09c9df5d31f9b586fbcbdbb5291d6a0530729b7d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP21_Kitchen.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
