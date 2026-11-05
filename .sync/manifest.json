@@ -2325,6 +2325,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP213_Chip_and_Change.mp4"
   },
+  "handwriting/EP214_Hand_and_Train": {
+   "asset": "EP214_Hand_and_Train.mp4",
+   "dir": "EP214 Hand and Train",
+   "duration": 14.8,
+   "ep": "EP214_Hand_and_Train",
+   "mb": 2.974394,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "70e03558e3657692034c5d5118b8f4288647a40c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP214_Hand_and_Train.mp4"
+  },
+  "handwriting/EP215_Fall_and_Present": {
+   "asset": "EP215_Fall_and_Present.mp4",
+   "dir": "EP215 Fall and Present",
+   "duration": 14.966667,
+   "ep": "EP215_Fall_and_Present",
+   "mb": 3.274346,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ad522280f2aefe7e3f75abb63ff71e6372efcb06",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP215_Fall_and_Present.mp4"
+  },
+  "handwriting/EP216_Can_and_Well": {
+   "asset": "EP216_Can_and_Well.mp4",
+   "dir": "EP216 Can and Well",
+   "duration": 14.166667,
+   "ep": "EP216_Can_and_Well",
+   "mb": 3.018664,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b8692dc9ee94e32ccc5092dabf8d1d44bfbb66ba",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP216_Can_and_Well.mp4"
+  },
+  "handwriting/EP217_Match_and_Pupil": {
+   "asset": "EP217_Match_and_Pupil.mp4",
+   "dir": "EP217 Match and Pupil",
+   "duration": 15.0,
+   "ep": "EP217_Match_and_Pupil",
+   "mb": 3.18878,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8417748e57bad6c07aef309528b95788ab464440",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP217_Match_and_Pupil.mp4"
+  },
+  "handwriting/EP218_Coach_and_Capital": {
+   "asset": "EP218_Coach_and_Capital.mp4",
+   "dir": "EP218 Coach and Capital",
+   "duration": 15.466667,
+   "ep": "EP218_Coach_and_Capital",
+   "mb": 3.28505,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b7e94cc5c32a6313243cc849992c644c6bbf4f44",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP218_Coach_and_Capital.mp4"
+  },
+  "handwriting/EP219_Kind_and_Mean": {
+   "asset": "EP219_Kind_and_Mean.mp4",
+   "dir": "EP219 Kind and Mean",
+   "duration": 14.7,
+   "ep": "EP219_Kind_and_Mean",
+   "mb": 3.213372,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "4de559daf8667fa86ef11af1d5b81eaf592b3651",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP219_Kind_and_Mean.mp4"
+  },
   "handwriting/EP21_Kitchen": {
    "asset": "EP21_Kitchen.mp4",
    "dir": "EP21 Kitchen",
@@ -2339,6 +2429,96 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP21_Kitchen.mp4"
+  },
+  "handwriting/EP220_Cell_and_Pen": {
+   "asset": "EP220_Cell_and_Pen.mp4",
+   "dir": "EP220 Cell and Pen",
+   "duration": 13.866667,
+   "ep": "EP220_Cell_and_Pen",
+   "mb": 2.821907,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "41ff2899283c8d0f541b73b03efb30fa9c5e393f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP220_Cell_and_Pen.mp4"
+  },
+  "handwriting/EP221_Seal_and_Bark": {
+   "asset": "EP221_Seal_and_Bark.mp4",
+   "dir": "EP221 Seal and Bark",
+   "duration": 14.4,
+   "ep": "EP221_Seal_and_Bark",
+   "mb": 2.951708,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "36fc1ecb3b484e434105adeaab61e7f93edd27e6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP221_Seal_and_Bark.mp4"
+  },
+  "handwriting/EP222_Mine_and_Box": {
+   "asset": "EP222_Mine_and_Box.mp4",
+   "dir": "EP222 Mine and Box",
+   "duration": 14.3,
+   "ep": "EP222_Mine_and_Box",
+   "mb": 3.123166,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "09de1e42a1a724cfd44d5ef42cff56f4479d05cc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP222_Mine_and_Box.mp4"
+  },
+  "handwriting/EP223_Ruler_and_Sink": {
+   "asset": "EP223_Ruler_and_Sink.mp4",
+   "dir": "EP223 Ruler and Sink",
+   "duration": 14.566667,
+   "ep": "EP223_Ruler_and_Sink",
+   "mb": 3.135725,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e8cdf579f3e57aa82fac78a6f2d33cf37ba856aa",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP223_Ruler_and_Sink.mp4"
+  },
+  "handwriting/EP224_Story_and_Square": {
+   "asset": "EP224_Story_and_Square.mp4",
+   "dir": "EP224 Story and Square",
+   "duration": 15.233333,
+   "ep": "EP224_Story_and_Square",
+   "mb": 3.355117,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "97bd147062136e986f42b029ad754e6921fc6acc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP224_Story_and_Square.mp4"
+  },
+  "handwriting/EP225_Point_and_Fire": {
+   "asset": "EP225_Point_and_Fire.mp4",
+   "dir": "EP225 Point and Fire",
+   "duration": 14.166667,
+   "ep": "EP225_Point_and_Fire",
+   "mb": 2.820242,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7f55196f3a0333a34ae2db247fcaebaea322d9c6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP225_Point_and_Fire.mp4"
   },
   "handwriting/EP22_Utensils": {
    "asset": "EP22_Utensils.mp4",
