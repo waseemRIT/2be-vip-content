@@ -15,6 +15,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP01_Transport.mp4"
   },
+  "cardboard-reels/EP02_Weather": {
+   "asset": "EP02_Weather.mp4",
+   "dir": "EP02 Weather",
+   "duration": 28.566667,
+   "ep": "EP02_Weather",
+   "mb": 7.542503,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "1a9b9fd93d8267ebf7f2de1ca26ac17a76d1f05c",
+    "1d9b84d011b98c98fff6eaecf970d47617e3627e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP02_Weather.mp4"
+  },
+  "cardboard-reels/EP03_City_Places": {
+   "asset": "EP03_City_Places.mp4",
+   "dir": "EP03 City Places",
+   "duration": 28.566667,
+   "ep": "EP03_City_Places",
+   "mb": 7.552211,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "f2593fdf1fdd39b4840a1fb0f9d8be224e150937",
+    "6908179928f3c3b5bd60ae26212fe4ca27f8517a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP03_City_Places.mp4"
+  },
+  "cardboard-reels/EP04_The_Road": {
+   "asset": "EP04_The_Road.mp4",
+   "dir": "EP04 The Road",
+   "duration": 28.566667,
+   "ep": "EP04_The_Road",
+   "mb": 7.244784,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "70b79d1655986b9194455c04d2459d5d6889cb49",
+    "b06d94100a8b5cb818292f74770be40010a8dab1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP04_The_Road.mp4"
+  },
+  "cardboard-reels/EP05_The_Sky": {
+   "asset": "EP05_The_Sky.mp4",
+   "dir": "EP05 The Sky",
+   "duration": 28.566667,
+   "ep": "EP05_The_Sky",
+   "mb": 6.511507,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "8e1b67dc516bc1113ba801a30b793b719fe8e229",
+    "c48e72896f4bf60a758414a36d05198775011e8a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP05_The_Sky.mp4"
+  },
+  "cardboard-reels/EP06_At_the_Beach": {
+   "asset": "EP06_At_the_Beach.mp4",
+   "dir": "EP06 At the Beach",
+   "duration": 28.566667,
+   "ep": "EP06_At_the_Beach",
+   "mb": 7.007675,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "016f781b78c755e44f6bc7bf74d0c423f582f727",
+    "c9546d427f655956f8457962c8e0115e89638c0a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP06_At_the_Beach.mp4"
+  },
+  "cardboard-reels/EP07_My_House": {
+   "asset": "EP07_My_House.mp4",
+   "dir": "EP07 My House",
+   "duration": 28.566667,
+   "ep": "EP07_My_House",
+   "mb": 7.502645,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "5da5c0447e2ff5f4d9eab2fec3e64a0234457c30",
+    "b728c8b6c05e5e64fa3bd58500484e0fda411276"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP07_My_House.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -4169,6 +4259,36 @@
     "699d2e7fd1df909cde5ceadf0e5ef10f22e4abc2"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP01_Celebrations.mp4"
+  },
+  "papiermache-reels/EP02_Fruits": {
+   "asset": "EP02_Fruits.mp4",
+   "dir": "EP02 Fruits",
+   "duration": 28.566667,
+   "ep": "EP02_Fruits",
+   "mb": 5.287097,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "d55c7b310e4f079a8c110e30d934e072bd07fdf6",
+    "4da77af6db925bb7388675cdd8fee11024c30d1a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP02_Fruits.mp4"
+  },
+  "papiermache-reels/EP03_Sweets": {
+   "asset": "EP03_Sweets.mp4",
+   "dir": "EP03 Sweets",
+   "duration": 28.566667,
+   "ep": "EP03_Sweets",
+   "mb": 5.48306,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "e3d44ca5f6df88ec18dcbd55dba5cfffd3a2cdc5",
+    "5f42733d7b64df6018ff1965063bbc32f993ba4c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP03_Sweets.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
