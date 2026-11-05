@@ -12,7 +12,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 22 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be with Youssef — Mistake Fixes](youssef-stick-figures/)**<br>Stick-figure family scenes (Egyptian Arabic): one common English mistake, said wrong, struck out and fixed. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 250 |
-| <img src="slideshows/sample.jpg" width="120"> | **[Slideshows](slideshows/)**<br>Swipeable carousel posts with everyday English tips, phrases and vocabulary. | 11 |
+| <img src="slideshows/sample.jpg" width="120"> | **[Slideshows](slideshows/)**<br>Swipeable carousel posts with everyday English tips, phrases and vocabulary. | 23 |
 
 Each post folder holds a `thumbnail.jpg`, a ready-to-paste `caption.txt` and a README with the watch/download link. Videos are stored in this repo's **Releases** (one per series) to keep the repo small.
 
@@ -36,7 +36,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 22 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be مع يوسف — تصحيح الأخطاء](youssef-stick-figures/)**<br>مشاهد عائلية برسوم بسيطة (بالعامية المصرية): غلطة إنجليزية شائعة، تُقال غلط، ثم تُشطب وتُصحَّح. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 250 |
-| <img src="slideshows/sample.jpg" width="120"> | **[شرائح العرض](slideshows/)**<br>منشورات شرائح تُسحب بالإصبع، فيها نصائح وعبارات ومفردات إنجليزية يومية. | 11 |
+| <img src="slideshows/sample.jpg" width="120"> | **[شرائح العرض](slideshows/)**<br>منشورات شرائح تُسحب بالإصبع، فيها نصائح وعبارات ومفردات إنجليزية يومية. | 23 |
 
 يحتوي مجلد كل منشور على صورة مصغّرة `thumbnail.jpg` وكابشن جاهز للنسخ `caption.txt` وملف README فيه رابط المشاهدة والتحميل. الفيديوهات محفوظة في قسم **Releases** في هذا المستودع (إصدار لكل سلسلة) حتى يبقى المستودع خفيفاً.
 
