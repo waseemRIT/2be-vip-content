@@ -1530,6 +1530,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP81_Greetings.mp4"
   },
+  "handwriting/EP82_Polite_Words": {
+   "asset": "EP82_Polite_Words.mp4",
+   "dir": "EP82 Polite Words",
+   "duration": 23.466667,
+   "ep": "EP82_Polite_Words",
+   "mb": 5.429187,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c3e53d07970a7ca81f48521fe0fd39342b7ae549",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP82_Polite_Words.mp4"
+  },
+  "handwriting/EP83_Introduce_Yourself": {
+   "asset": "EP83_Introduce_Yourself.mp4",
+   "dir": "EP83 Introduce Yourself",
+   "duration": 23.8,
+   "ep": "EP83_Introduce_Yourself",
+   "mb": 5.502986,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bc9d3775dbad3076c2a6a14467db14769fd86bd1",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP83_Introduce_Yourself.mp4"
+  },
+  "handwriting/EP84_Small_Talk": {
+   "asset": "EP84_Small_Talk.mp4",
+   "dir": "EP84 Small Talk",
+   "duration": 23.966667,
+   "ep": "EP84_Small_Talk",
+   "mb": 5.55285,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c882a232d1432edc31e2a016f7d8481c5d7291be",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP84_Small_Talk.mp4"
+  },
+  "handwriting/EP85_On_the_Phone": {
+   "asset": "EP85_On_the_Phone.mp4",
+   "dir": "EP85 On the Phone",
+   "duration": 23.4,
+   "ep": "EP85_On_the_Phone",
+   "mb": 5.292176,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "164a319906e1f59c5ff9cda338b2211220a28eb6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP85_On_the_Phone.mp4"
+  },
+  "handwriting/EP86_Asking_for_Help": {
+   "asset": "EP86_Asking_for_Help.mp4",
+   "dir": "EP86 Asking for Help",
+   "duration": 23.433333,
+   "ep": "EP86_Asking_for_Help",
+   "mb": 5.406753,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c21693f9f0fb07793d7ede911b6856de58195244",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP86_Asking_for_Help.mp4"
+  },
+  "handwriting/EP87_Making_Plans": {
+   "asset": "EP87_Making_Plans.mp4",
+   "dir": "EP87 Making Plans",
+   "duration": 23.833333,
+   "ep": "EP87_Making_Plans",
+   "mb": 5.424176,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "438238edd0c90f25794deaee0115235319be74d0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP87_Making_Plans.mp4"
+  },
+  "handwriting/EP88_Feelings": {
+   "asset": "EP88_Feelings.mp4",
+   "dir": "EP88 Feelings",
+   "duration": 18.7,
+   "ep": "EP88_Feelings",
+   "mb": 4.703409,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a9e469c36bde6dc149340761608acba48e15f5cc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP88_Feelings.mp4"
+  },
+  "handwriting/EP89_Personality": {
+   "asset": "EP89_Personality.mp4",
+   "dir": "EP89 Personality",
+   "duration": 18.033333,
+   "ep": "EP89_Personality",
+   "mb": 4.576068,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "06cf12b383bcd4ee641bb90f6b9cb5ae49831b9a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP89_Personality.mp4"
+  },
+  "handwriting/EP90_Opposites": {
+   "asset": "EP90_Opposites.mp4",
+   "dir": "EP90 Opposites",
+   "duration": 17.7,
+   "ep": "EP90_Opposites",
+   "mb": 4.451702,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c3a30dc1948510ee44eba8cec4e8650f2b46d586",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP90_Opposites.mp4"
+  },
+  "handwriting/EP91_Adjectives": {
+   "asset": "EP91_Adjectives.mp4",
+   "dir": "EP91 Adjectives",
+   "duration": 18.133333,
+   "ep": "EP91_Adjectives",
+   "mb": 4.650916,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "517e56f987bfe45d481abbed6771da36ac574d1f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP91_Adjectives.mp4"
+  },
+  "handwriting/EP92_Verbs": {
+   "asset": "EP92_Verbs.mp4",
+   "dir": "EP92 Verbs",
+   "duration": 17.833333,
+   "ep": "EP92_Verbs",
+   "mb": 4.536475,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a3f3354447b51ce7cb87d281cc7ed634bcaf5c4f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP92_Verbs.mp4"
+  },
+  "handwriting/EP93_Daily_Routine": {
+   "asset": "EP93_Daily_Routine.mp4",
+   "dir": "EP93 Daily Routine",
+   "duration": 20.733333,
+   "ep": "EP93_Daily_Routine",
+   "mb": 5.037858,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1d48bd25d99b903f83f24e311f71e3f8ff882f16",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP93_Daily_Routine.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
