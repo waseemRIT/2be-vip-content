@@ -450,6 +450,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP09_Farm.mp4"
   },
+  "handwriting/EP100_Emergency": {
+   "asset": "EP100_Emergency.mp4",
+   "dir": "EP100 Emergency",
+   "duration": 19.0,
+   "ep": "EP100_Emergency",
+   "mb": 4.731525,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "fc9b52c9f9d05e227fec83ce8afe33df3f9f3a5b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP100_Emergency.mp4"
+  },
+  "handwriting/EP101_Pronouns": {
+   "asset": "EP101_Pronouns.mp4",
+   "dir": "EP101 Pronouns",
+   "duration": 16.766667,
+   "ep": "EP101_Pronouns",
+   "mb": 3.895139,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ad3f30197455d1f860d1abbf8541927bb55d8454",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP101_Pronouns.mp4"
+  },
+  "handwriting/EP102_Time_Words": {
+   "asset": "EP102_Time_Words.mp4",
+   "dir": "EP102 Time Words",
+   "duration": 18.933333,
+   "ep": "EP102_Time_Words",
+   "mb": 4.82724,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "4c34e662b4c04d6cfa4c55823be924bb5ad765ae",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP102_Time_Words.mp4"
+  },
+  "handwriting/EP103_Months_Jul-Dec": {
+   "asset": "EP103_Months_Jul-Dec.mp4",
+   "dir": "EP103 Months Jul-Dec",
+   "duration": 19.9,
+   "ep": "EP103_Months_Jul-Dec",
+   "mb": 4.85308,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b4fd18b6e0df3ac03e2c47c4ab5ddab4afb294f4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP103_Months_Jul-Dec.mp4"
+  },
+  "handwriting/EP104_More_Colors": {
+   "asset": "EP104_More_Colors.mp4",
+   "dir": "EP104 More Colors",
+   "duration": 18.233333,
+   "ep": "EP104_More_Colors",
+   "mb": 4.551484,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e693d952100807c0c42c8f1a38225a9c46e18002",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP104_More_Colors.mp4"
+  },
+  "handwriting/EP105_Relatives": {
+   "asset": "EP105_Relatives.mp4",
+   "dir": "EP105 Relatives",
+   "duration": 18.433333,
+   "ep": "EP105_Relatives",
+   "mb": 4.55696,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "66bab1ec359e6e92c4c60dd77a82be95d78def5d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP105_Relatives.mp4"
+  },
   "handwriting/EP10_Wild_Animals": {
    "asset": "EP10_Wild_Animals.mp4",
    "dir": "EP10 Wild Animals",
@@ -1709,6 +1799,96 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP93_Daily_Routine.mp4"
+  },
+  "handwriting/EP94_Movement": {
+   "asset": "EP94_Movement.mp4",
+   "dir": "EP94 Movement",
+   "duration": 17.8,
+   "ep": "EP94_Movement",
+   "mb": 4.504466,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9b8838c42d95e12a46e2ee1d5df21a2bb102a02f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP94_Movement.mp4"
+  },
+  "handwriting/EP95_Prepositions": {
+   "asset": "EP95_Prepositions.mp4",
+   "dir": "EP95 Prepositions",
+   "duration": 23.533333,
+   "ep": "EP95_Prepositions",
+   "mb": 5.334098,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9e39f6c2440a7f859aab2fd2d6a8f00d290e3e52",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP95_Prepositions.mp4"
+  },
+  "handwriting/EP96_Question_Words": {
+   "asset": "EP96_Question_Words.mp4",
+   "dir": "EP96 Question Words",
+   "duration": 18.1,
+   "ep": "EP96_Question_Words",
+   "mb": 4.647538,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c6e96d092546a7b808d5afd9f762d13e5b1167c1",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP96_Question_Words.mp4"
+  },
+  "handwriting/EP97_Past_Tense": {
+   "asset": "EP97_Past_Tense.mp4",
+   "dir": "EP97 Past Tense",
+   "duration": 18.033333,
+   "ep": "EP97_Past_Tense",
+   "mb": 4.546905,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "03944850b7fd4c08b1b7c3a13646c68514e2dfaa",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP97_Past_Tense.mp4"
+  },
+  "handwriting/EP98_Plurals": {
+   "asset": "EP98_Plurals.mp4",
+   "dir": "EP98 Plurals",
+   "duration": 22.233333,
+   "ep": "EP98_Plurals",
+   "mb": 5.181595,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8f193c8e3a8bafa654d22b654bd53eb29edb9c90",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP98_Plurals.mp4"
+  },
+  "handwriting/EP99_Phrasal_Verbs": {
+   "asset": "EP99_Phrasal_Verbs.mp4",
+   "dir": "EP99 Phrasal Verbs",
+   "duration": 22.633333,
+   "ep": "EP99_Phrasal_Verbs",
+   "mb": 5.203355,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "47c15bbf6fa66bdce4667446af1d7daab6d09fed",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP99_Phrasal_Verbs.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",

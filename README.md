@@ -11,7 +11,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="woven-stories/sample.gif" width="120"> | **[Woven Stories](woven-stories/)**<br>Ink-on-silk woven-thread animation: an idea told as threads weaving on a loom. | 1 |
 | <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 22 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be with Youssef — Mistake Fixes](youssef-stick-figures/)**<br>Stick-figure family scenes (Egyptian Arabic): one common English mistake, said wrong, struck out and fixed. | 7 |
-| <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 93 |
+| <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 105 |
 
 Each post folder holds a `thumbnail.jpg`, a ready-to-paste `caption.txt` and a README with the watch/download link. Videos are stored in this repo's **Releases** (one per series) to keep the repo small.
 
@@ -34,7 +34,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="woven-stories/sample.gif" width="120"> | **[حكايات منسوجة](woven-stories/)**<br>رسوم متحركة بخيوط منسوجة كالحبر على الحرير: فكرة تُروى بخيوط تُنسج على النول. | 1 |
 | <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 22 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be مع يوسف — تصحيح الأخطاء](youssef-stick-figures/)**<br>مشاهد عائلية برسوم بسيطة (بالعامية المصرية): غلطة إنجليزية شائعة، تُقال غلط، ثم تُشطب وتُصحَّح. | 7 |
-| <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 93 |
+| <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 105 |
 
 يحتوي مجلد كل منشور على صورة مصغّرة `thumbnail.jpg` وكابشن جاهز للنسخ `caption.txt` وملف README فيه رابط المشاهدة والتحميل. الفيديوهات محفوظة في قسم **Releases** في هذا المستودع (إصدار لكل سلسلة) حتى يبقى المستودع خفيفاً.
 
