@@ -4395,6 +4395,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP26_The_Chair_at_Graduation.mp4"
   },
+  "sami-family/EP27 The Museum Object": {
+   "asset": "EP27_The_Museum_Object.mp4",
+   "dir": "EP27 The Museum Object",
+   "duration": 109.666667,
+   "ep": "EP27 The Museum Object",
+   "mb": 24.805239,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "49243fda70c87df73f9e4b6f4f96ee75b745b3e0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP27_The_Museum_Object.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
