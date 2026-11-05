@@ -525,6 +525,126 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP16_The_Family_Picnic_Mat.mp4"
   },
+  "sami-family/EP17 The Cinema Ticket": {
+   "asset": "EP17_The_Cinema_Ticket.mp4",
+   "dir": "EP17 The Cinema Ticket",
+   "duration": 92.0,
+   "ep": "EP17 The Cinema Ticket",
+   "mb": 20.702194,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "7f0dfe824da1116c2be3122b7b0cdea53989d687",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP17_The_Cinema_Ticket.mp4"
+  },
+  "sami-family/EP18 I'm Here": {
+   "asset": "EP18_I_m_Here.mp4",
+   "dir": "EP18 I'm Here",
+   "duration": 107.233333,
+   "ep": "EP18 I'm Here",
+   "mb": 21.651103,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "9ea18c4020775b591f65fbb86e577367a86576dc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP18_I_m_Here.mp4"
+  },
+  "sami-family/EP20 The Broken Sewing Pedal": {
+   "asset": "EP20_The_Broken_Sewing_Pedal.mp4",
+   "dir": "EP20 The Broken Sewing Pedal",
+   "duration": 106.333333,
+   "ep": "EP20 The Broken Sewing Pedal",
+   "mb": 23.963184,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "3548b317c1106bb7977aa105bba493f2a2312989",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP20_The_Broken_Sewing_Pedal.mp4"
+  },
+  "sami-family/EP21 The Wedding That Keeps Waiting": {
+   "asset": "EP21_The_Wedding_That_Keeps_Waiting.mp4",
+   "dir": "EP21 The Wedding That Keeps Waiting",
+   "duration": 100.366667,
+   "ep": "EP21 The Wedding That Keeps Waiting",
+   "mb": 20.121735,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "94d5e42b6ebb7ccb8f728db1bc2268ff7b8ba633",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP21_The_Wedding_That_Keeps_Waiting.mp4"
+  },
+  "sami-family/EP22 The Dream Car Photo": {
+   "asset": "EP22_The_Dream_Car_Photo.mp4",
+   "dir": "EP22 The Dream Car Photo",
+   "duration": 98.066667,
+   "ep": "EP22 The Dream Car Photo",
+   "mb": 22.228115,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "f8bb7f00cddfc925f94a15f12230c6610cbb6aa8",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP22_The_Dream_Car_Photo.mp4"
+  },
+  "sami-family/EP23 The Birthday Greeting": {
+   "asset": "EP23_The_Birthday_Greeting.mp4",
+   "dir": "EP23 The Birthday Greeting",
+   "duration": 92.0,
+   "ep": "EP23 The Birthday Greeting",
+   "mb": 18.4577,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "7921146eb485d471541a41c25c56edc8b406869a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP23_The_Birthday_Greeting.mp4"
+  },
+  "sami-family/EP24 The Mattress on the Floor": {
+   "asset": "EP24_The_Mattress_on_the_Floor.mp4",
+   "dir": "EP24 The Mattress on the Floor",
+   "duration": 99.533333,
+   "ep": "EP24 The Mattress on the Floor",
+   "mb": 22.562419,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "b0ed01c610875559450442c76249ae5529c8a4be",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP24_The_Mattress_on_the_Floor.mp4"
+  },
+  "sami-family/EP26 The Chair at Graduation": {
+   "asset": "EP26_The_Chair_at_Graduation.mp4",
+   "dir": "EP26 The Chair at Graduation",
+   "duration": 105.666667,
+   "ep": "EP26 The Chair at Graduation",
+   "mb": 21.326239,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "7d765ede6ea92dc9a7c35c73a0858a0472ec7770",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP26_The_Chair_at_Graduation.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
@@ -539,19 +659,81 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woven-stories/EP01_Long_Ago.mp4"
+  },
+  "youssef-stick-figures/EP01 Open The Light": {
+   "asset": "EP01_Open_The_Light.mp4",
+   "dir": "EP01 Open The Light",
+   "duration": 36.919002,
+   "ep": "EP01 Open The Light",
+   "mb": 4.528051,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "202454bac23e0b238cfe640765a8e64977323178",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP01_Open_The_Light.mp4"
+  },
+  "youssef-stick-figures/EP02 My Phone Is Off": {
+   "asset": "EP02_My_Phone_Is_Off.mp4",
+   "dir": "EP02 My Phone Is Off",
+   "duration": 31.133333,
+   "ep": "EP02 My Phone Is Off",
+   "mb": 4.635879,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "390f5ef6584af922f9496b6b47ed8d13e6bf71d9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP02_My_Phone_Is_Off.mp4"
+  },
+  "youssef-stick-figures/EP03 I Am Bored": {
+   "asset": "EP03_I_Am_Bored.mp4",
+   "dir": "EP03 I Am Bored",
+   "duration": 34.667007,
+   "ep": "EP03 I Am Bored",
+   "mb": 5.130169,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "7f3aa50655ab66b5cea3461e8c31ee5f34224183",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP03_I_Am_Bored.mp4"
+  },
+  "youssef-stick-figures/EP04 Turn On The TV": {
+   "asset": "EP04_Turn_On_The_TV.mp4",
+   "dir": "EP04 Turn On The TV",
+   "duration": 31.021995,
+   "ep": "EP04 Turn On The TV",
+   "mb": 4.444852,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "ee226dba0d991be39c14ec2fa778d44e5642e6f6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP04_Turn_On_The_TV.mp4"
   }
  },
  "sample_src": {
   "felt-songs": "felt-songs/EP01 Family",
   "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring",
   "sami-family": "sami-family/EP02 The Recipe",
-  "woven-stories": "woven-stories/EP01 Long Ago"
+  "woven-stories": "woven-stories/EP01 Long Ago",
+  "youssef-stick-figures": "youssef-stick-figures/EP01 Open The Light"
  },
  "samples": {
   "felt-songs": "sample.gif",
   "hamada-shadow-puppet": "sample.gif",
   "sami-family": "sample.gif",
-  "woven-stories": "sample.gif"
+  "woven-stories": "sample.gif",
+  "youssef-stick-figures": "sample.gif"
  },
  "skills": {}
 }
