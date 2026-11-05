@@ -4455,6 +4455,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4"
   },
+  "sami-family/EP31 The Sewing-Class Measurement": {
+   "asset": "EP31_The_Sewing-Class_Measurement.mp4",
+   "dir": "EP31 The Sewing-Class Measurement",
+   "duration": 95.58,
+   "ep": "EP31 The Sewing-Class Measurement",
+   "mb": 21.362261,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "24d5287e8e62133a20b411d060f30744cc9def55",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP31_The_Sewing-Class_Measurement.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
