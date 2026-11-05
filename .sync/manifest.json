@@ -1350,6 +1350,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP69_Job_Interview.mp4"
   },
+  "handwriting/EP70_Money": {
+   "asset": "EP70_Money.mp4",
+   "dir": "EP70 Money",
+   "duration": 19.366667,
+   "ep": "EP70_Money",
+   "mb": 4.789273,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8a70f3b18b9ac96949869ec880662c6ca12d8392",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP70_Money.mp4"
+  },
+  "handwriting/EP71_Shapes": {
+   "asset": "EP71_Shapes.mp4",
+   "dir": "EP71 Shapes",
+   "duration": 18.933333,
+   "ep": "EP71_Shapes",
+   "mb": 4.746348,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "74e5bb05c99255099d3043beccd25df88d9f74fd",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP71_Shapes.mp4"
+  },
+  "handwriting/EP72_Measurements": {
+   "asset": "EP72_Measurements.mp4",
+   "dir": "EP72 Measurements",
+   "duration": 17.933333,
+   "ep": "EP72_Measurements",
+   "mb": 4.542597,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f9d840edff9d0b01cd19f4dc7752b1cc002f8eb4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP72_Measurements.mp4"
+  },
+  "handwriting/EP73_Airport": {
+   "asset": "EP73_Airport.mp4",
+   "dir": "EP73 Airport",
+   "duration": 18.9,
+   "ep": "EP73_Airport",
+   "mb": 4.611691,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "18aa2e585053241ec6984f4e2f03dc0004ff301d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP73_Airport.mp4"
+  },
+  "handwriting/EP74_Hotel": {
+   "asset": "EP74_Hotel.mp4",
+   "dir": "EP74 Hotel",
+   "duration": 18.933333,
+   "ep": "EP74_Hotel",
+   "mb": 4.620369,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "38e83fe26cf725084e46291b2981013983aa81b3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP74_Hotel.mp4"
+  },
+  "handwriting/EP75_Bags": {
+   "asset": "EP75_Bags.mp4",
+   "dir": "EP75 Bags",
+   "duration": 20.266667,
+   "ep": "EP75_Bags",
+   "mb": 4.94527,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ca254c758d443fe04c1fceb21e26ed39d0fa0238",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP75_Bags.mp4"
+  },
+  "handwriting/EP76_Directions": {
+   "asset": "EP76_Directions.mp4",
+   "dir": "EP76 Directions",
+   "duration": 22.8,
+   "ep": "EP76_Directions",
+   "mb": 5.14705,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "31e99de30afbec480dca91918964b83250136832",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP76_Directions.mp4"
+  },
+  "handwriting/EP77_Road_Signs": {
+   "asset": "EP77_Road_Signs.mp4",
+   "dir": "EP77 Road Signs",
+   "duration": 19.6,
+   "ep": "EP77_Road_Signs",
+   "mb": 4.72878,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "101d963cdae64355a60b021d0c1d9ff2a80acf80",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP77_Road_Signs.mp4"
+  },
+  "handwriting/EP78_Station": {
+   "asset": "EP78_Station.mp4",
+   "dir": "EP78 Station",
+   "duration": 19.366667,
+   "ep": "EP78_Station",
+   "mb": 4.53928,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "901f0a6a8c883d7bdadad0bd03c870de5d86f4fe",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP78_Station.mp4"
+  },
+  "handwriting/EP79_Countries": {
+   "asset": "EP79_Countries.mp4",
+   "dir": "EP79 Countries",
+   "duration": 19.566667,
+   "ep": "EP79_Countries",
+   "mb": 4.863742,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d758651ca3f2aa6381ab95d52ef40910cae6b621",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP79_Countries.mp4"
+  },
+  "handwriting/EP80_Nationalities": {
+   "asset": "EP80_Nationalities.mp4",
+   "dir": "EP80 Nationalities",
+   "duration": 19.9,
+   "ep": "EP80_Nationalities",
+   "mb": 4.922261,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "09f92d84d1cc006976194037dc963bf801ef57e9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP80_Nationalities.mp4"
+  },
+  "handwriting/EP81_Greetings": {
+   "asset": "EP81_Greetings.mp4",
+   "dir": "EP81 Greetings",
+   "duration": 22.833333,
+   "ep": "EP81_Greetings",
+   "mb": 5.284885,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "daedb8131fbab80e67ceccd3fb3cf181c7ef50a2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP81_Greetings.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
