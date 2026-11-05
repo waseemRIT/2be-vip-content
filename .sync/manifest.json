@@ -2925,6 +2925,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP24_Drinks.mp4"
   },
+  "handwriting/EP250_Cool_and_Sharp": {
+   "asset": "EP250_Cool_and_Sharp.mp4",
+   "dir": "EP250 Cool and Sharp",
+   "duration": 14.733333,
+   "ep": "EP250_Cool_and_Sharp",
+   "mb": 3.171643,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "99b71f0a8a18ef3eb93601798104507b33b09116",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP250_Cool_and_Sharp.mp4"
+  },
   "handwriting/EP25_Desserts": {
    "asset": "EP25_Desserts.mp4",
    "dir": "EP25 Desserts",
@@ -4380,6 +4395,316 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP26_The_Chair_at_Graduation.mp4"
   },
+  "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
+   "dir": "EP01 Airport Vocabulary Slideshow",
+   "ep": "Episode 1 - Airport Vocabulary Slideshow",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "1d081892584340ee4bf2c27cad541063350434d4",
+    "df3454b6502c74ee9cd4855e752a90d65077cedf",
+    "159377fb29dce421701ab27dc9720277650be257",
+    "9fd27c173baef8917d37081490b4ea4782e48af6",
+    "80842fbaccb4c61871e59c869815deda63d2017a",
+    "982e8e53087db5c5dd124974cb63287eec71a518",
+    "75251aac40ee0a004b14bfd24bcd0bb23778bbf0",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg"
+   ]
+  },
+  "slideshows/Episode 10 - 6 Ways to Use Get": {
+   "dir": "EP10 6 Ways to Use Get",
+   "ep": "Episode 10 - 6 Ways to Use Get",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "f41c4cbb6cc3fad4fc56fc949f05fe235e83e7b2",
+    "b761edb6a7d9caa47b790502a2ebb7b028ccd591",
+    "17f870e8bb6bbcc727b3d57ed2a0aef2fdfff07d",
+    "5a8232f1c0e7681a03b15da5ac505fd78dc62405",
+    "41f0987c8a444cc736f53e9bfb30e63eb47587e4",
+    "dd9f21eab94e12b51039a626ecf8499ebcf8db06",
+    "5fac05927f3d6ceba47e114971103f5b2c15f2aa",
+    "0cd2a948b069a24e635889a538dd4dc51c888af1",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 11 - I Don't Care vs It Doesn't Matter": {
+   "dir": "EP11 I Don't Care vs It Doesn't Matter",
+   "ep": "Episode 11 - I Don't Care vs It Doesn't Matter",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "fb6153ae853b4b3c92d89561a325eb7bb0bc4434",
+    "5e01d2b32ccd28848b22ede2c524e59fc656bcc4",
+    "37091ff12cfde8b2072ceb0579c5215ae738190d",
+    "ab889c3bfc75c0178674cd8bbc9f88122a1d1508",
+    "aa190d7d6f38abe36c7481b0b139cd291d1dc176",
+    "9a00ef695a6e50abba5b1c9326aefd65efd20bca",
+    "bb0f570081a7b1cdcc51dc76ab7f68324d2f957f",
+    "30306af7451ce58c3de6b4c2d6739790a82397b5",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 2 - Very Tired Alternatives": {
+   "dir": "EP02 Very Tired Alternatives",
+   "ep": "Episode 2 - Very Tired Alternatives",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "0279c135be7db5249b0d5255af7a9e7c998c7b0e",
+    "0a49a007c925c66010c1f3ed424718fe41346f37",
+    "d12f1b4eb400462770ab61416350389428e0fdb6",
+    "da376572b0977cc94541186cdf4785944025f174",
+    "43f787919f0ce3b9176c48417f5bca6da299ca8e",
+    "75251aac40ee0a004b14bfd24bcd0bb23778bbf0",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+   ]
+  },
+  "slideshows/Episode 3 - Youre Welcome Alternatives": {
+   "dir": "EP03 Youre Welcome Alternatives",
+   "ep": "Episode 3 - Youre Welcome Alternatives",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "61fe88dadd1eb3316759352ee8900f30854c56ca",
+    "ca0787e6d677311bfee4a54988086def5fcb72e0",
+    "63ed09b3d2d2225c4c2226da022742166df752eb",
+    "4056c7d03a058f057430144721001fd00cd702e6",
+    "a2f0ce58ab80c9782e90788e8716a6c3fb77f927",
+    "1743d888135648c28acaa26a78c3e5c6e78f7f44",
+    "75251aac40ee0a004b14bfd24bcd0bb23778bbf0",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg"
+   ]
+  },
+  "slideshows/Episode 4 - 5 Feelings - Simple Style": {
+   "dir": "EP04 5 Feelings - Simple Style",
+   "ep": "Episode 4 - 5 Feelings - Simple Style",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "02f5b71085e6d567d5247604f132d57f5cbbf741",
+    "fb0f5daeeb93334dc619b91713f3734338b84489",
+    "ef611912f82dc69cc3001b517013a0c1c9512d45",
+    "f3267ea54c38ac9c25528fe15a5bd1d8ef320778",
+    "12ab51448800c2d7043a195589797f76a2f2a654",
+    "afddc8fd5c5cba9b02a595c7c6f81ce599777b06",
+    "1d5fa8041f5558501129d261ca047c4b6065fd98",
+    "2b39e17c2513e5aa58a256fb0e5b6b635935f29f",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  "slideshows/Episode 5 - Very Good Alternatives": {
+   "dir": "EP05 Very Good Alternatives",
+   "ep": "Episode 5 - Very Good Alternatives",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "ecd7c910b9189ce0da5f4168dec4bcd094a7d004",
+    "ebb637b26420b4b6ac995218ea35f14f433ba96b",
+    "39c8b2d5f46607dc0a895e58163b79f5e9d4c41a",
+    "660b93dee6ba1cda4b839ec66a3e888c62e5ade0",
+    "2928366503d5fdb3083d456c0b883069f021b5b6",
+    "910421c567c154f145c7c49a4513987a2b5a343a",
+    "3645604f0e79b825b85345b0dc9811c3278bc5dd",
+    "2b39e17c2513e5aa58a256fb0e5b6b635935f29f",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  "slideshows/Episode 6 - Supermarket Vocabulary": {
+   "dir": "EP06 Supermarket Vocabulary",
+   "ep": "Episode 6 - Supermarket Vocabulary",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "a0caa2357ebf2bdf1c5c1a4937b46e619f8e7180",
+    "0fd0de8aa638709ca1c2b2b15d5ca978a751a091",
+    "de7c82dad64153b2064ae12d9a311e76a430df1d",
+    "6634e8d58757bdbb383cc2dbae41c82bbcd34104",
+    "5c6d255e792a9e78dc601da8ed9d2fd3c78d0e19",
+    "bb7914b8b0e95209137adcd90f095c61ad6d2a94",
+    "5389150a85a9a0d46a8fc3345348e0bd6b5f2c74",
+    "2b39e17c2513e5aa58a256fb0e5b6b635935f29f",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  "slideshows/Episode 7 - Weather Vocabulary - Remade": {
+   "dir": "EP07 Weather Vocabulary - Remade",
+   "ep": "Episode 7 - Weather Vocabulary - Remade",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "48a9a8fbf5086f34cf9f75a40e46b703d7133092",
+    "cebd042b2701290fa852f13e1ca857908f0a78d6",
+    "754bdc2b421f73449c1c09dd7875842f4f15c4d2",
+    "7a1b39a8969891d9dde95c174176b6085317f2f4",
+    "09ea641f3cfa82ca2cc2ae2ca70361769b823386",
+    "372a1851b0e6beb9da11d7d02343712dd5d57ac1",
+    "c4af869d48a630241cb0aee6302f21c67c64275b",
+    "2b39e17c2513e5aa58a256fb0e5b6b635935f29f",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  "slideshows/Episode 8 - The Hardworking Student": {
+   "dir": "EP08 The Hardworking Student",
+   "ep": "Episode 8 - The Hardworking Student",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "ea5aebc1fc56894a22ff8e0e53df7607d8c49db7",
+    "2e01f54ac4de83dee50ab2b9ca3b3991924a88f8",
+    "89b9416b8437143c0a7cd47e01754099ae3efba9",
+    "e3bf893f424fffaee6fb172eb3acbdb2ef0a95fc",
+    "d3702539fc33f5d13530a7974b45ad4b14d5b1cc",
+    "22ceb28eeda49dd0d4653e41b8f3bb3c8b31f03c",
+    "3a8d5bbae8c72cf6a2452cbd80d031592c480002",
+    "031692960e2e716f0cae524bb198af1d06bae8cd",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 9 - Ordering Coffee": {
+   "dir": "EP09 Ordering Coffee",
+   "ep": "Episode 9 - Ordering Coffee",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "c16699b92116cfb6b13070a77f6e9fb8489d53d9",
+    "4ff242eb1630648f57b333b733fc15957675cf92",
+    "7c51f86beb6edfd0b1a089981497e8331d36e428",
+    "ed758f8a1113010834873809422fcb59d972dd52",
+    "7d41439e707653b7ad901c2ebe7b2df338c6bae6",
+    "e780432ce6752db806b059a3218d5c59261232ca",
+    "e7516f709671feadb9bba8756dd7603a9426a581",
+    "7d0e472f5bc32924727124f4d15506feb901db18",
+    "2926f16d7193fd3bd2aa4af0ce9693fd3904470f",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg"
+   ]
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
@@ -4506,6 +4831,7 @@
   "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring",
   "handwriting": "handwriting/EP01_Fruits",
   "sami-family": "sami-family/EP02 The Recipe",
+  "slideshows": "slideshows/Episode 1 - Airport Vocabulary Slideshow",
   "woven-stories": "woven-stories/EP01 Long Ago",
   "youssef-stick-figures": "youssef-stick-figures/EP01 Open The Light"
  },
@@ -4514,6 +4840,7 @@
   "hamada-shadow-puppet": "sample.gif",
   "handwriting": "sample.gif",
   "sami-family": "sample.gif",
+  "slideshows": "sample.jpg",
   "woven-stories": "sample.gif",
   "youssef-stick-figures": "sample.gif"
  },
