@@ -1530,6 +1530,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP165_Extinct.mp4"
   },
+  "handwriting/EP166_More_Clothes": {
+   "asset": "EP166_More_Clothes.mp4",
+   "dir": "EP166 More Clothes",
+   "duration": 18.1,
+   "ep": "EP166_More_Clothes",
+   "mb": 4.530165,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bc5633e32a4b89936fefe3fcf0734968e8dc74a0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP166_More_Clothes.mp4"
+  },
+  "handwriting/EP167_Shoes": {
+   "asset": "EP167_Shoes.mp4",
+   "dir": "EP167 Shoes",
+   "duration": 17.9,
+   "ep": "EP167_Shoes",
+   "mb": 4.50303,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9170e458a97a86f0fb02aeb09cb05550b561803a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP167_Shoes.mp4"
+  },
+  "handwriting/EP168_Work_Clothes": {
+   "asset": "EP168_Work_Clothes.mp4",
+   "dir": "EP168 Work Clothes",
+   "duration": 15.7,
+   "ep": "EP168_Work_Clothes",
+   "mb": 3.269411,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "94b8d429f1629a494e2dc2cd234fa8f515850464",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP168_Work_Clothes.mp4"
+  },
+  "handwriting/EP169_Self_Care": {
+   "asset": "EP169_Self_Care.mp4",
+   "dir": "EP169 Self Care",
+   "duration": 15.466667,
+   "ep": "EP169_Self_Care",
+   "mb": 3.204226,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "0b602834cf70dda1f3f6485e6d96de999157964a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP169_Self_Care.mp4"
+  },
   "handwriting/EP16_Days": {
    "asset": "EP16_Days.mp4",
    "dir": "EP16 Days",
@@ -1544,6 +1604,126 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP16_Days.mp4"
+  },
+  "handwriting/EP170_Home_Items": {
+   "asset": "EP170_Home_Items.mp4",
+   "dir": "EP170 Home Items",
+   "duration": 20.133333,
+   "ep": "EP170_Home_Items",
+   "mb": 5.004678,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a91cd01983bfebac140e4992f99d7337f9ec4462",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP170_Home_Items.mp4"
+  },
+  "handwriting/EP171_Workshop": {
+   "asset": "EP171_Workshop.mp4",
+   "dir": "EP171 Workshop",
+   "duration": 17.966667,
+   "ep": "EP171_Workshop",
+   "mb": 4.32849,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a7bf8e1a13ffebdd520a62caaed17e21f2537153",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP171_Workshop.mp4"
+  },
+  "handwriting/EP172_On_My_Desk": {
+   "asset": "EP172_On_My_Desk.mp4",
+   "dir": "EP172 On My Desk",
+   "duration": 19.7,
+   "ep": "EP172_On_My_Desk",
+   "mb": 4.902999,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2fe63dc37f0d9ee50388de6a0bd3d5be96f8be6e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP172_On_My_Desk.mp4"
+  },
+  "handwriting/EP173_Paper_Things": {
+   "asset": "EP173_Paper_Things.mp4",
+   "dir": "EP173 Paper Things",
+   "duration": 18.033333,
+   "ep": "EP173_Paper_Things",
+   "mb": 4.557396,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "4b46e72685f22c16b999be2efcbe6d061c8b1d5c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP173_Paper_Things.mp4"
+  },
+  "handwriting/EP174_Art_and_Craft": {
+   "asset": "EP174_Art_and_Craft.mp4",
+   "dir": "EP174 Art and Craft",
+   "duration": 19.4,
+   "ep": "EP174_Art_and_Craft",
+   "mb": 4.797844,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "99fb6c5e58a3080449ac6adbb2efd652a2dff5b4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP174_Art_and_Craft.mp4"
+  },
+  "handwriting/EP175_Gadgets": {
+   "asset": "EP175_Gadgets.mp4",
+   "dir": "EP175 Gadgets",
+   "duration": 17.4,
+   "ep": "EP175_Gadgets",
+   "mb": 4.397019,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2d86e52df78f62bbf520da2dc093b45c4c2fa5de",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP175_Gadgets.mp4"
+  },
+  "handwriting/EP176_Old_Tech": {
+   "asset": "EP176_Old_Tech.mp4",
+   "dir": "EP176 Old Tech",
+   "duration": 17.6,
+   "ep": "EP176_Old_Tech",
+   "mb": 4.476185,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b5c5ff2932fe289a9997f5914f3d951a527c1699",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP176_Old_Tech.mp4"
+  },
+  "handwriting/EP177_Online": {
+   "asset": "EP177_Online.mp4",
+   "dir": "EP177 Online",
+   "duration": 19.1,
+   "ep": "EP177_Online",
+   "mb": 4.662996,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7c21249d64bf9ae634356fe65c38197df501d1c6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP177_Online.mp4"
   },
   "handwriting/EP17_Months": {
    "asset": "EP17_Months.mp4",
