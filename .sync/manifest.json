@@ -1140,6 +1140,126 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP141_More_Sports.mp4"
   },
+  "handwriting/EP142_Senses": {
+   "asset": "EP142_Senses.mp4",
+   "dir": "EP142 Senses",
+   "duration": 16.466667,
+   "ep": "EP142_Senses",
+   "mb": 3.484102,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "cdd3a888556307b1f0ed7cd57084fe2eb4e22026",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP142_Senses.mp4"
+  },
+  "handwriting/EP143_More_Verbs": {
+   "asset": "EP143_More_Verbs.mp4",
+   "dir": "EP143 More Verbs",
+   "duration": 18.133333,
+   "ep": "EP143_More_Verbs",
+   "mb": 4.569827,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9c7a04fb33378b4324e024e52a466132b840fbda",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP143_More_Verbs.mp4"
+  },
+  "handwriting/EP144_Past_Tense_2": {
+   "asset": "EP144_Past_Tense_2.mp4",
+   "dir": "EP144 Past Tense 2",
+   "duration": 17.966667,
+   "ep": "EP144_Past_Tense_2",
+   "mb": 4.576253,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "6261c110c1543087ad6e1147858ff88c0754e8f7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP144_Past_Tense_2.mp4"
+  },
+  "handwriting/EP145_More_Opposites": {
+   "asset": "EP145_More_Opposites.mp4",
+   "dir": "EP145 More Opposites",
+   "duration": 17.633333,
+   "ep": "EP145_More_Opposites",
+   "mb": 4.464835,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "482a1b3bce80f04649417884c74bace252245b49",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP145_More_Opposites.mp4"
+  },
+  "handwriting/EP146_Comparatives": {
+   "asset": "EP146_Comparatives.mp4",
+   "dir": "EP146 Comparatives",
+   "duration": 19.166667,
+   "ep": "EP146_Comparatives",
+   "mb": 4.774053,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "547013da3cab335d0cbe3356c4724e04d3d53092",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP146_Comparatives.mp4"
+  },
+  "handwriting/EP147_Possessives": {
+   "asset": "EP147_Possessives.mp4",
+   "dir": "EP147 Possessives",
+   "duration": 23.466667,
+   "ep": "EP147_Possessives",
+   "mb": 5.476582,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "802845f16d257856a06ff341b1fe8151365b5aef",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP147_Possessives.mp4"
+  },
+  "handwriting/EP148_Right_Now": {
+   "asset": "EP148_Right_Now.mp4",
+   "dir": "EP148 Right Now",
+   "duration": 23.8,
+   "ep": "EP148_Right_Now",
+   "mb": 5.549409,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "3f774b31fc4e649be709f62281f26e655fe4f684",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP148_Right_Now.mp4"
+  },
+  "handwriting/EP149_Can_and_Cant": {
+   "asset": "EP149_Can_and_Cant.mp4",
+   "dir": "EP149 Can and Cant",
+   "duration": 22.266667,
+   "ep": "EP149_Can_and_Cant",
+   "mb": 4.954895,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "fbb4db7e4e8ac2139314b9c975580a8e7a8bc86c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP149_Can_and_Cant.mp4"
+  },
   "handwriting/EP14_Weather": {
    "asset": "EP14_Weather.mp4",
    "dir": "EP14 Weather",
@@ -1154,6 +1274,66 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP14_Weather.mp4"
+  },
+  "handwriting/EP150_Future_Will": {
+   "asset": "EP150_Future_Will.mp4",
+   "dir": "EP150 Future Will",
+   "duration": 23.866667,
+   "ep": "EP150_Future_Will",
+   "mb": 5.497575,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "3e53d90b4f3c016f61be0d70dab3c9b3465083cc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP150_Future_Will.mp4"
+  },
+  "handwriting/EP151_Snacks": {
+   "asset": "EP151_Snacks.mp4",
+   "dir": "EP151 Snacks",
+   "duration": 19.066667,
+   "ep": "EP151_Snacks",
+   "mb": 4.754205,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "4cc6b6ba4a6961d2fc050cae585beb97629d3418",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP151_Snacks.mp4"
+  },
+  "handwriting/EP152_World_Food": {
+   "asset": "EP152_World_Food.mp4",
+   "dir": "EP152 World Food",
+   "duration": 19.1,
+   "ep": "EP152_World_Food",
+   "mb": 4.643994,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a6b802dd0eaa287638c72846d3b16f6701d74089",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP152_World_Food.mp4"
+  },
+  "handwriting/EP153_Main_Dishes": {
+   "asset": "EP153_Main_Dishes.mp4",
+   "dir": "EP153 Main Dishes",
+   "duration": 18.866667,
+   "ep": "EP153_Main_Dishes",
+   "mb": 4.6853,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f99fd9e1f9b1d1e635a70985f39be01e1276c3c4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP153_Main_Dishes.mp4"
   },
   "handwriting/EP15_Seasons": {
    "asset": "EP15_Seasons.mp4",
