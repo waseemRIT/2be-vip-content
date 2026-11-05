@@ -345,6 +345,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP03_The_Dream.mp4"
   },
+  "sami-family/EP04 At the Doctor": {
+   "asset": "EP04_At_the_Doctor.mp4",
+   "dir": "EP04 At the Doctor",
+   "duration": 74.8,
+   "ep": "EP04 At the Doctor",
+   "mb": 27.781215,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "851ba55c0dae26af435e9392d8fb4be476e8e60d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP04_At_the_Doctor.mp4"
+  },
+  "sami-family/EP05 The Interview": {
+   "asset": "EP05_The_Interview.mp4",
+   "dir": "EP05 The Interview",
+   "duration": 172.5,
+   "ep": "EP05 The Interview",
+   "mb": 27.32617,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "36cb0f181e8038bf9ebe9d27f8b238433dcd03e7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP05_The_Interview.mp4"
+  },
+  "sami-family/EP06 Movie Night": {
+   "asset": "EP06_Movie_Night.mp4",
+   "dir": "EP06 Movie Night",
+   "duration": 89.133333,
+   "ep": "EP06 Movie Night",
+   "mb": 22.70874,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "030192fdf12ebd9913e1ea8fc107e43a3a87de0d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP06_Movie_Night.mp4"
+  },
+  "sami-family/EP07 Dad's New Phone": {
+   "asset": "EP07_Dad_s_New_Phone.mp4",
+   "dir": "EP07 Dad's New Phone",
+   "duration": 88.1,
+   "ep": "EP07 Dad's New Phone",
+   "mb": 22.557727,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "c65dd99950476dbd0e368a8f49a18f74e920473f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP07_Dad_s_New_Phone.mp4"
+  },
+  "sami-family/EP08 The School Project": {
+   "asset": "EP08_The_School_Project.mp4",
+   "dir": "EP08 The School Project",
+   "duration": 87.9,
+   "ep": "EP08 The School Project",
+   "mb": 22.522425,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "405378a6d2ce045014eb4f06a7e1dfec07c0109c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP08_The_School_Project.mp4"
+  },
+  "sami-family/EP09 I Remembered": {
+   "asset": "EP09_I_Remembered.mp4",
+   "dir": "EP09 I Remembered",
+   "duration": 97.666667,
+   "ep": "EP09 I Remembered",
+   "mb": 22.779504,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "66749156407373a6bc248320c75cd6be785462c3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP09_I_Remembered.mp4"
+  },
+  "sami-family/EP10 Saad's Solo Trip": {
+   "asset": "EP10_Saad_s_Solo_Trip.mp4",
+   "dir": "EP10 Saad's Solo Trip",
+   "duration": 102.333333,
+   "ep": "EP10 Saad's Solo Trip",
+   "mb": 24.31701,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "61bb65c858e8bfd767546cc01dc21b3144d3155b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP10_Saad_s_Solo_Trip.mp4"
+  },
+  "sami-family/EP11 London Bus": {
+   "asset": "EP11_London_Bus.mp4",
+   "dir": "EP11 London Bus",
+   "duration": 112.2,
+   "ep": "EP11 London Bus",
+   "mb": 22.912634,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "01ac198fcd27d8e0502644712099a4e9829eed9b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP11_London_Bus.mp4"
+  },
+  "sami-family/EP13 Checking In": {
+   "asset": "EP13_Checking_In.mp4",
+   "dir": "EP13 Checking In",
+   "duration": 92.166667,
+   "ep": "EP13 Checking In",
+   "mb": 17.790899,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "d0ff589dc9e25d1c92e56dc9d10aef3c4df062be",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP13_Checking_In.mp4"
+  },
+  "sami-family/EP14 The Wobbly Dining Table": {
+   "asset": "EP14_The_Wobbly_Dining_Table.mp4",
+   "dir": "EP14 The Wobbly Dining Table",
+   "duration": 106.5,
+   "ep": "EP14 The Wobbly Dining Table",
+   "mb": 20.514406,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "a2659ef690c105ea198ae2db3082f81d8d3c8f6e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP14_The_Wobbly_Dining_Table.mp4"
+  },
+  "sami-family/EP15 The Donut Order": {
+   "asset": "EP15_The_Donut_Order.mp4",
+   "dir": "EP15 The Donut Order",
+   "duration": 92.1,
+   "ep": "EP15 The Donut Order",
+   "mb": 17.856383,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "44bb66d8ab47a0190015eab7610ddd7b0fa19b90",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP15_The_Donut_Order.mp4"
+  },
+  "sami-family/EP16 The Family Picnic Mat": {
+   "asset": "EP16_The_Family_Picnic_Mat.mp4",
+   "dir": "EP16 The Family Picnic Mat",
+   "duration": 97.266667,
+   "ep": "EP16 The Family Picnic Mat",
+   "mb": 18.481377,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "4ca21becf7bd71d7b898e69892a0b8f28e34beff",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP16_The_Family_Picnic_Mat.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
