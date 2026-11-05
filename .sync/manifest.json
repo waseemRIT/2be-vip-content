@@ -120,6 +120,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP01_Food.mp4"
   },
+  "clay-reels/EP02_Fruit": {
+   "asset": "EP02_Fruit.mp4",
+   "dir": "EP02 Fruit",
+   "duration": 28.566667,
+   "ep": "EP02_Fruit",
+   "mb": 5.522762,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "f070f9300eb29562c6e29e78ae4220a52467f3a9",
+    "8f5b8e8ff378e7f00b6f2a0e73cd36bdcfea2f4f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP02_Fruit.mp4"
+  },
+  "clay-reels/EP03_Vegetables": {
+   "asset": "EP03_Vegetables.mp4",
+   "dir": "EP03 Vegetables",
+   "duration": 28.566667,
+   "ep": "EP03_Vegetables",
+   "mb": 5.238809,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "372ed49fc4bd0325f30810f4489ca49027dd52e4",
+    "afcd6e689652c66e657ec67d57f1251e16209075"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP03_Vegetables.mp4"
+  },
+  "clay-reels/EP04_Breakfast": {
+   "asset": "EP04_Breakfast.mp4",
+   "dir": "EP04 Breakfast",
+   "duration": 28.566667,
+   "ep": "EP04_Breakfast",
+   "mb": 5.411164,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "dd273593dda8874604e6d5e34dfa7181d6973e47",
+    "51d2ae4f269333a1648893815e49a529f333d38a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP04_Breakfast.mp4"
+  },
+  "clay-reels/EP05_Drinks": {
+   "asset": "EP05_Drinks.mp4",
+   "dir": "EP05 Drinks",
+   "duration": 28.566667,
+   "ep": "EP05_Drinks",
+   "mb": 5.638449,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "84cfa154a036a397c22e99f40e495a66be962d2e",
+    "580e9dca9a492c0a3abdac6488995f593fdd8343"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP05_Drinks.mp4"
+  },
+  "clay-reels/EP06_Sweets": {
+   "asset": "EP06_Sweets.mp4",
+   "dir": "EP06 Sweets",
+   "duration": 28.566667,
+   "ep": "EP06_Sweets",
+   "mb": 5.681579,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "986ca3d7a888d6351b0ab39e6e12116baedeb084",
+    "da779d3cc99c945a16e814c14191bdf6bc1b33e4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP06_Sweets.mp4"
+  },
+  "clay-reels/EP07_Kitchen": {
+   "asset": "EP07_Kitchen.mp4",
+   "dir": "EP07 Kitchen",
+   "duration": 28.566667,
+   "ep": "EP07_Kitchen",
+   "mb": 5.402551,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "a7ca4093ae24e27fff47686c96dc52fbfa3f1578",
+    "7c52e660ef9f920ba8b138cce4639a0dd1b4ddf0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP07_Kitchen.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -4289,6 +4379,66 @@
     "5f42733d7b64df6018ff1965063bbc32f993ba4c"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP03_Sweets.mp4"
+  },
+  "papiermache-reels/EP04_Birthday_Party": {
+   "asset": "EP04_Birthday_Party.mp4",
+   "dir": "EP04 Birthday Party",
+   "duration": 28.566667,
+   "ep": "EP04_Birthday_Party",
+   "mb": 5.77772,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "ce75e623665a679d3489a3f2c1e7aa175b618ae6",
+    "bb399207b0442462a3cd0422ebf4cb67d077cfd6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP04_Birthday_Party.mp4"
+  },
+  "papiermache-reels/EP05_Toys": {
+   "asset": "EP05_Toys.mp4",
+   "dir": "EP05 Toys",
+   "duration": 28.566667,
+   "ep": "EP05_Toys",
+   "mb": 5.30086,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "9281537d4c983561c9ba70ccc8066ee19ec03b7b",
+    "984fd552fafd82ea67455a4f7fff866cbac8348c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP05_Toys.mp4"
+  },
+  "papiermache-reels/EP06_Farm_Animals": {
+   "asset": "EP06_Farm_Animals.mp4",
+   "dir": "EP06 Farm Animals",
+   "duration": 28.566667,
+   "ep": "EP06_Farm_Animals",
+   "mb": 5.313066,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "55bc3da544fa04c525a81b344fa8278278def0e0",
+    "75355818b274f4b35d57751584080c8902517a16"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP06_Farm_Animals.mp4"
+  },
+  "papiermache-reels/EP07_In_the_Kitchen": {
+   "asset": "EP07_In_the_Kitchen.mp4",
+   "dir": "EP07 In the Kitchen",
+   "duration": 28.566667,
+   "ep": "EP07_In_the_Kitchen",
+   "mb": 5.308111,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "2d99f4bfac34a3002fd82e03f0e9d168da5210d8",
+    "96714489499e401a046ccf2e90e3e3383ef342d1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP07_In_the_Kitchen.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",

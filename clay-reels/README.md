@@ -4,10 +4,11 @@ Clay objects squash into shape while the English word appears with its pronuncia
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**1 posts.** Click a thumbnail to open the post (video, caption and download link).
+**7 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
-<tr><td align="center" valign="top"><a href="EP01%20Food/"><img src="EP01%20Food/thumbnail.jpg" width="160"><br><sub>EP01 · Food</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP01%20Food/"><img src="EP01%20Food/thumbnail.jpg" width="160"><br><sub>EP01 · Food</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruit/"><img src="EP02%20Fruit/thumbnail.jpg" width="160"><br><sub>EP02 · Fruit</sub></a></td><td align="center" valign="top"><a href="EP03%20Vegetables/"><img src="EP03%20Vegetables/thumbnail.jpg" width="160"><br><sub>EP03 · Vegetables</sub></a></td><td align="center" valign="top"><a href="EP04%20Breakfast/"><img src="EP04%20Breakfast/thumbnail.jpg" width="160"><br><sub>EP04 · Breakfast</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP05%20Drinks/"><img src="EP05%20Drinks/thumbnail.jpg" width="160"><br><sub>EP05 · Drinks</sub></a></td><td align="center" valign="top"><a href="EP06%20Sweets/"><img src="EP06%20Sweets/thumbnail.jpg" width="160"><br><sub>EP06 · Sweets</sub></a></td><td align="center" valign="top"><a href="EP07%20Kitchen/"><img src="EP07%20Kitchen/thumbnail.jpg" width="160"><br><sub>EP07 · Kitchen</sub></a></td></tr>
 </table>
 
 ---
@@ -20,10 +21,11 @@ Clay objects squash into shape while the English word appears with its pronuncia
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**1 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**7 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
-<tr><td align="center" valign="top"><a href="EP01%20Food/"><img src="EP01%20Food/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Food</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP01%20Food/"><img src="EP01%20Food/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Food</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruit/"><img src="EP02%20Fruit/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Fruit</sub></a></td><td align="center" valign="top"><a href="EP03%20Vegetables/"><img src="EP03%20Vegetables/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Vegetables</sub></a></td><td align="center" valign="top"><a href="EP04%20Breakfast/"><img src="EP04%20Breakfast/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Breakfast</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP05%20Drinks/"><img src="EP05%20Drinks/thumbnail.jpg" width="160"><br><sub>الحلقة 05 · Drinks</sub></a></td><td align="center" valign="top"><a href="EP06%20Sweets/"><img src="EP06%20Sweets/thumbnail.jpg" width="160"><br><sub>الحلقة 06 · Sweets</sub></a></td><td align="center" valign="top"><a href="EP07%20Kitchen/"><img src="EP07%20Kitchen/thumbnail.jpg" width="160"><br><sub>الحلقة 07 · Kitchen</sub></a></td></tr>
 </table>
 
 </div>
