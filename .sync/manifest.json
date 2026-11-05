@@ -990,6 +990,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP45_Bank.mp4"
   },
+  "handwriting/EP46_Post_Office": {
+   "asset": "EP46_Post_Office.mp4",
+   "dir": "EP46 Post Office",
+   "duration": 19.366667,
+   "ep": "EP46_Post_Office",
+   "mb": 4.606981,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "388b3c313b76bb0b4ae92dcdeac419345ae0e32e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP46_Post_Office.mp4"
+  },
+  "handwriting/EP47_Hospital": {
+   "asset": "EP47_Hospital.mp4",
+   "dir": "EP47 Hospital",
+   "duration": 20.6,
+   "ep": "EP47_Hospital",
+   "mb": 4.940555,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bdcba7a45e1a70f31bf792115913b5bda6cb9f6a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP47_Hospital.mp4"
+  },
+  "handwriting/EP48_Pharmacy": {
+   "asset": "EP48_Pharmacy.mp4",
+   "dir": "EP48 Pharmacy",
+   "duration": 18.3,
+   "ep": "EP48_Pharmacy",
+   "mb": 4.439912,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d6d2582ba20dc5aad6786d1c56104f30f573e2fc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP48_Pharmacy.mp4"
+  },
+  "handwriting/EP49_At_the_Doctor": {
+   "asset": "EP49_At_the_Doctor.mp4",
+   "dir": "EP49 At the Doctor",
+   "duration": 23.833333,
+   "ep": "EP49_At_the_Doctor",
+   "mb": 5.461356,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "10d5321f6db8b9e6055d0fbb7985134951d79680",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP49_At_the_Doctor.mp4"
+  },
+  "handwriting/EP50_Dentist": {
+   "asset": "EP50_Dentist.mp4",
+   "dir": "EP50 Dentist",
+   "duration": 19.066667,
+   "ep": "EP50_Dentist",
+   "mb": 4.602787,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "47d0bb9e8941191a3962f945c9cfdaed1ad4be13",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP50_Dentist.mp4"
+  },
+  "handwriting/EP51_Illness": {
+   "asset": "EP51_Illness.mp4",
+   "dir": "EP51 Illness",
+   "duration": 19.2,
+   "ep": "EP51_Illness",
+   "mb": 4.639161,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "14bf3292be423646b6c86d5bd673371c404a6f39",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP51_Illness.mp4"
+  },
+  "handwriting/EP52_Medicine": {
+   "asset": "EP52_Medicine.mp4",
+   "dir": "EP52 Medicine",
+   "duration": 19.233333,
+   "ep": "EP52_Medicine",
+   "mb": 4.661325,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a82664c0263ec6769b050972b0711e729a07ef7d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP52_Medicine.mp4"
+  },
+  "handwriting/EP53_First_Aid": {
+   "asset": "EP53_First_Aid.mp4",
+   "dir": "EP53 First Aid",
+   "duration": 18.533333,
+   "ep": "EP53_First_Aid",
+   "mb": 4.671985,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e26f05069ce38ffefcf6a036112bac2823593bf7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP53_First_Aid.mp4"
+  },
+  "handwriting/EP54_Healthy_Habits": {
+   "asset": "EP54_Healthy_Habits.mp4",
+   "dir": "EP54 Healthy Habits",
+   "duration": 23.666667,
+   "ep": "EP54_Healthy_Habits",
+   "mb": 5.50072,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "26ddfdb865e0ce07af621f15a1f02d88eb9e2d0a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP54_Healthy_Habits.mp4"
+  },
+  "handwriting/EP55_Exercise": {
+   "asset": "EP55_Exercise.mp4",
+   "dir": "EP55 Exercise",
+   "duration": 17.933333,
+   "ep": "EP55_Exercise",
+   "mb": 4.554489,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ac1c2dd26b6a77ebc1d0d98ed1e7513d53567561",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP55_Exercise.mp4"
+  },
+  "handwriting/EP56_Sports": {
+   "asset": "EP56_Sports.mp4",
+   "dir": "EP56 Sports",
+   "duration": 19.6,
+   "ep": "EP56_Sports",
+   "mb": 4.726414,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "86092d7a76303217954323f2e140cb43cc4a9ac7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP56_Sports.mp4"
+  },
+  "handwriting/EP57_Hobbies": {
+   "asset": "EP57_Hobbies.mp4",
+   "dir": "EP57 Hobbies",
+   "duration": 19.766667,
+   "ep": "EP57_Hobbies",
+   "mb": 4.614355,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2dcb7ac46a362b67998b8e64804fe65136e5a049",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP57_Hobbies.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
