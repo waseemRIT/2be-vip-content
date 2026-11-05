@@ -2520,6 +2520,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP225_Point_and_Fire.mp4"
   },
+  "handwriting/EP226_Leaves_and_Fine": {
+   "asset": "EP226_Leaves_and_Fine.mp4",
+   "dir": "EP226 Leaves and Fine",
+   "duration": 14.8,
+   "ep": "EP226_Leaves_and_Fine",
+   "mb": 3.014699,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "05ed6f0c471201e5a1915533f1e32c26853bfc39",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP226_Leaves_and_Fine.mp4"
+  },
+  "handwriting/EP227_Order_and_Ship": {
+   "asset": "EP227_Order_and_Ship.mp4",
+   "dir": "EP227 Order and Ship",
+   "duration": 14.7,
+   "ep": "EP227_Order_and_Ship",
+   "mb": 3.22026,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8f3dfde88df30fef55936e2801f1178eb91bf12e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP227_Order_and_Ship.mp4"
+  },
+  "handwriting/EP228_Tire_and_Nail": {
+   "asset": "EP228_Tire_and_Nail.mp4",
+   "dir": "EP228 Tire and Nail",
+   "duration": 14.166667,
+   "ep": "EP228_Tire_and_Nail",
+   "mb": 3.082818,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1e92580145147ca4c74043ad0166b4e5e5a2cf7c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP228_Tire_and_Nail.mp4"
+  },
+  "handwriting/EP229_Space_and_Cold": {
+   "asset": "EP229_Space_and_Cold.mp4",
+   "dir": "EP229 Space and Cold",
+   "duration": 14.633333,
+   "ep": "EP229_Space_and_Cold",
+   "mb": 3.207654,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e7d5ba7e46533cecedc7e82fcf0916ecb3f19b39",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP229_Space_and_Cold.mp4"
+  },
   "handwriting/EP22_Utensils": {
    "asset": "EP22_Utensils.mp4",
    "dir": "EP22 Utensils",
@@ -2534,6 +2594,126 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP22_Utensils.mp4"
+  },
+  "handwriting/EP230_Scale_and_Lie": {
+   "asset": "EP230_Scale_and_Lie.mp4",
+   "dir": "EP230 Scale and Lie",
+   "duration": 13.966667,
+   "ep": "EP230_Scale_and_Lie",
+   "mb": 2.836974,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9c144be390c957a8c58a055f282655fba3e2608b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP230_Scale_and_Lie.mp4"
+  },
+  "handwriting/EP231_Second_and_Rose": {
+   "asset": "EP231_Second_and_Rose.mp4",
+   "dir": "EP231 Second and Rose",
+   "duration": 15.066667,
+   "ep": "EP231_Second_and_Rose",
+   "mb": 3.339163,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9501d62ac4d2512d45a9b77b8630fdd434097d5f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP231_Second_and_Rose.mp4"
+  },
+  "handwriting/EP232_Sign_and_Shower": {
+   "asset": "EP232_Sign_and_Shower.mp4",
+   "dir": "EP232 Sign and Shower",
+   "duration": 15.133333,
+   "ep": "EP232_Sign_and_Shower",
+   "mb": 3.254575,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8c791a78478205e07e0ad5597d4a8bf8755f7ca0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP232_Sign_and_Shower.mp4"
+  },
+  "handwriting/EP233_Top_and_Stamp": {
+   "asset": "EP233_Top_and_Stamp.mp4",
+   "dir": "EP233 Top and Stamp",
+   "duration": 14.6,
+   "ep": "EP233_Top_and_Stamp",
+   "mb": 3.123344,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "144cb96a2113ecc7dfccf2324556685569beea41",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP233_Top_and_Stamp.mp4"
+  },
+  "handwriting/EP234_Bug_and_Bulb": {
+   "asset": "EP234_Bug_and_Bulb.mp4",
+   "dir": "EP234 Bug and Bulb",
+   "duration": 14.0,
+   "ep": "EP234_Bug_and_Bulb",
+   "mb": 2.788476,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "599ea44758661c931b1c6fe7c8bb14ef75b3e4c3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP234_Bug_and_Bulb.mp4"
+  },
+  "handwriting/EP235_Ring_and_Bolt": {
+   "asset": "EP235_Ring_and_Bolt.mp4",
+   "dir": "EP235 Ring and Bolt",
+   "duration": 14.3,
+   "ep": "EP235_Ring_and_Bolt",
+   "mb": 3.137497,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2db997b13ded78fcca6395c04f4c409384853099",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP235_Ring_and_Bolt.mp4"
+  },
+  "handwriting/EP236_Cricket_and_Chest": {
+   "asset": "EP236_Cricket_and_Chest.mp4",
+   "dir": "EP236 Cricket and Chest",
+   "duration": 15.066667,
+   "ep": "EP236_Cricket_and_Chest",
+   "mb": 3.094754,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "29f79663fc7ed235f6b57c587af75e451678b665",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP236_Cricket_and_Chest.mp4"
+  },
+  "handwriting/EP237_Tap_and_Stick": {
+   "asset": "EP237_Tap_and_Stick.mp4",
+   "dir": "EP237 Tap and Stick",
+   "duration": 14.3,
+   "ep": "EP237_Tap_and_Stick",
+   "mb": 3.136732,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f1500b83437366a21672921a5e7b8428b71f46d9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP237_Tap_and_Stick.mp4"
   },
   "handwriting/EP23_Breakfast": {
    "asset": "EP23_Breakfast.mp4",
