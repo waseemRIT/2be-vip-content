@@ -4440,6 +4440,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP29_The_Attachment_Nobody_Found.mp4"
   },
+  "sami-family/EP30 The Empty Desk Corner": {
+   "asset": "EP30_The_Empty_Desk_Corner.mp4",
+   "dir": "EP30 The Empty Desk Corner",
+   "duration": 104.233333,
+   "ep": "EP30 The Empty Desk Corner",
+   "mb": 23.1411,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "6a3a7b9392fa3f0d018a344e1775ccd8207b85b2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
