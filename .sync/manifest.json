@@ -1,5 +1,35 @@
 {
  "episodes": {
+  "cardboard-reels/EP01_Transport": {
+   "asset": "EP01_Transport.mp4",
+   "dir": "EP01 Transport",
+   "duration": 28.566667,
+   "ep": "EP01_Transport",
+   "mb": 6.865361,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "003f3734efb750a43c41fd63302283a3374d6841",
+    "193e85d017d705a303345250d3a37e32d7b2d353"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP01_Transport.mp4"
+  },
+  "clay-reels/EP01_Food": {
+   "asset": "EP01_Food.mp4",
+   "dir": "EP01 Food",
+   "duration": 28.566667,
+   "ep": "EP01_Food",
+   "mb": 5.114084,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "bb71d27e8f23584a3d1eba588951ef23a41fce9d",
+    "ac0063a84896cca946a1298a35600496f38f27cf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP01_Food.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -4065,6 +4095,81 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP99_Phrasal_Verbs.mp4"
   },
+  "knitted-reels/EP01_Clothes": {
+   "asset": "EP01_Clothes.mp4",
+   "dir": "EP01 Clothes",
+   "duration": 28.566667,
+   "ep": "EP01_Clothes",
+   "mb": 7.459672,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bb9352d0bd97855fcf3e3a38472c1ca69ede8009",
+    "39ec578280d6126297235d0bdee3fabf78925ac6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP01_Clothes.mp4"
+  },
+  "lowpoly-reels/EP01_Space": {
+   "asset": "EP01_Space.mp4",
+   "dir": "EP01 Space",
+   "duration": 28.6,
+   "ep": "EP01_Space",
+   "mb": 2.999323,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "128a1003c749a29fd1def22606d90e3a016e8506",
+    "2507b6a4d89f4e3a2bd4fb94ba22a80347d57873"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP01_Space.mp4"
+  },
+  "marionette-reels/EP01_Actions": {
+   "asset": "EP01_Actions.mp4",
+   "dir": "EP01 Actions",
+   "duration": 28.6,
+   "ep": "EP01_Actions",
+   "mb": 5.970132,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "e09c2282b436baa19f43b078f5e677b4236f95f3",
+    "4bc28624202c84f4e0dbd86020e605567f89d200"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP01_Actions.mp4"
+  },
+  "origami-reels/EP01_Animals": {
+   "asset": "EP01_Animals.mp4",
+   "dir": "EP01 Animals",
+   "duration": 28.6,
+   "ep": "EP01_Animals",
+   "mb": 3.742209,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "bdcdde032338ee3053c6b8759737271f11e2b946",
+    "128e09e7a3cea1efa6628b6df8cc286372660939"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP01_Animals.mp4"
+  },
+  "papiermache-reels/EP01_Celebrations": {
+   "asset": "EP01_Celebrations.mp4",
+   "dir": "EP01 Celebrations",
+   "duration": 28.566667,
+   "ep": "EP01_Celebrations",
+   "mb": 5.094195,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "a74b1bbfd90d0e5098606eec124ea8a83791bf5d",
+    "699d2e7fd1df909cde5ceadf0e5ef10f22e4abc2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP01_Celebrations.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
@@ -7461,6 +7566,21 @@
     "08.jpg"
    ]
   },
+  "woodtoy-reels/EP01_Toys": {
+   "asset": "EP01_Toys.mp4",
+   "dir": "EP01 Toys",
+   "duration": 28.6,
+   "ep": "EP01_Toys",
+   "mb": 3.007649,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "7b86409ebfe9e5c27d65326d70d24641d253cae3",
+    "437ecac02142e1dbe2c458c8c91bbfbeb669c762"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP01_Toys.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
@@ -7583,20 +7703,36 @@
   }
  },
  "sample_src": {
+  "cardboard-reels": "cardboard-reels/EP01_Transport",
+  "clay-reels": "clay-reels/EP01_Food",
   "felt-songs": "felt-songs/EP01 Family",
   "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring",
   "handwriting": "handwriting/EP01_Fruits",
+  "knitted-reels": "knitted-reels/EP01_Clothes",
+  "lowpoly-reels": "lowpoly-reels/EP01_Space",
+  "marionette-reels": "marionette-reels/EP01_Actions",
+  "origami-reels": "origami-reels/EP01_Animals",
+  "papiermache-reels": "papiermache-reels/EP01_Celebrations",
   "sami-family": "sami-family/EP02 The Recipe",
   "slideshows": "slideshows/Episode 1 - Airport Vocabulary Slideshow",
+  "woodtoy-reels": "woodtoy-reels/EP01_Toys",
   "woven-stories": "woven-stories/EP01 Long Ago",
   "youssef-stick-figures": "youssef-stick-figures/EP01 Open The Light"
  },
  "samples": {
+  "cardboard-reels": "sample.gif",
+  "clay-reels": "sample.gif",
   "felt-songs": "sample.gif",
   "hamada-shadow-puppet": "sample.gif",
   "handwriting": "sample.gif",
+  "knitted-reels": "sample.gif",
+  "lowpoly-reels": "sample.gif",
+  "marionette-reels": "sample.gif",
+  "origami-reels": "sample.gif",
+  "papiermache-reels": "sample.gif",
   "sami-family": "sample.gif",
   "slideshows": "sample.jpg",
+  "woodtoy-reels": "sample.gif",
   "woven-stories": "sample.gif",
   "youssef-stick-figures": "sample.gif"
  },
