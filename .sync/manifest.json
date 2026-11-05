@@ -4410,6 +4410,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP27_The_Museum_Object.mp4"
   },
+  "sami-family/EP28 The First Family Outing": {
+   "asset": "EP28_The_First_Family_Outing.mp4",
+   "dir": "EP28 The First Family Outing",
+   "duration": 109.133333,
+   "ep": "EP28 The First Family Outing",
+   "mb": 24.697768,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "d15e920d9bff5ba8ad119503f96de77681bdc025",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP28_The_First_Family_Outing.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
