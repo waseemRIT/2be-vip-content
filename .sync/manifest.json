@@ -1170,6 +1170,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP57_Hobbies.mp4"
   },
+  "handwriting/EP58_Music": {
+   "asset": "EP58_Music.mp4",
+   "dir": "EP58 Music",
+   "duration": 19.333333,
+   "ep": "EP58_Music",
+   "mb": 4.818489,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f60ec2d642f4f50d566bc2573a2978fea6953d5d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP58_Music.mp4"
+  },
+  "handwriting/EP59_Instruments": {
+   "asset": "EP59_Instruments.mp4",
+   "dir": "EP59 Instruments",
+   "duration": 18.566667,
+   "ep": "EP59_Instruments",
+   "mb": 4.779399,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2097f4036984d7ff89da8a67e03b1d2330186214",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP59_Instruments.mp4"
+  },
+  "handwriting/EP60_Technology": {
+   "asset": "EP60_Technology.mp4",
+   "dir": "EP60 Technology",
+   "duration": 19.1,
+   "ep": "EP60_Technology",
+   "mb": 4.404041,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2a836388eb32153c3676f2eb7e947dd51f800817",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP60_Technology.mp4"
+  },
+  "handwriting/EP61_Computer": {
+   "asset": "EP61_Computer.mp4",
+   "dir": "EP61 Computer",
+   "duration": 19.066667,
+   "ep": "EP61_Computer",
+   "mb": 4.535669,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e216ae60153b9ed9559c548677c32c7ec233d8da",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP61_Computer.mp4"
+  },
+  "handwriting/EP62_Phone": {
+   "asset": "EP62_Phone.mp4",
+   "dir": "EP62 Phone",
+   "duration": 19.0,
+   "ep": "EP62_Phone",
+   "mb": 4.731158,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a7c260e5d1867b64f9dc0cb12712c2c37a540363",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP62_Phone.mp4"
+  },
+  "handwriting/EP63_Social_Media": {
+   "asset": "EP63_Social_Media.mp4",
+   "dir": "EP63 Social Media",
+   "duration": 18.433333,
+   "ep": "EP63_Social_Media",
+   "mb": 4.686345,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "03d5b5dc09e881f84c794a0be9ed876f982eef66",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP63_Social_Media.mp4"
+  },
+  "handwriting/EP64_School_Subjects": {
+   "asset": "EP64_School_Subjects.mp4",
+   "dir": "EP64 School Subjects",
+   "duration": 19.166667,
+   "ep": "EP64_School_Subjects",
+   "mb": 4.763716,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "cc3b44e319607dcceb81830fd53a56c32905aaac",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP64_School_Subjects.mp4"
+  },
+  "handwriting/EP65_Classroom": {
+   "asset": "EP65_Classroom.mp4",
+   "dir": "EP65 Classroom",
+   "duration": 18.433333,
+   "ep": "EP65_Classroom",
+   "mb": 4.708015,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f4ec5f3acbcf2d2e004c91125261539e9b9ce651",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP65_Classroom.mp4"
+  },
+  "handwriting/EP66_Stationery": {
+   "asset": "EP66_Stationery.mp4",
+   "dir": "EP66 Stationery",
+   "duration": 19.166667,
+   "ep": "EP66_Stationery",
+   "mb": 4.643084,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "23f7f9240ee42bb1196d544d284779d64c6bb0dd",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP66_Stationery.mp4"
+  },
+  "handwriting/EP67_Office": {
+   "asset": "EP67_Office.mp4",
+   "dir": "EP67 Office",
+   "duration": 19.533333,
+   "ep": "EP67_Office",
+   "mb": 4.654377,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9047eab7ca86414f4115f6819b7ea70a7929e4d3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP67_Office.mp4"
+  },
+  "handwriting/EP68_Jobs": {
+   "asset": "EP68_Jobs.mp4",
+   "dir": "EP68 Jobs",
+   "duration": 19.566667,
+   "ep": "EP68_Jobs",
+   "mb": 4.909912,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "fa9d07f6d8874296309075dc05aa96fdd41f0e91",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP68_Jobs.mp4"
+  },
+  "handwriting/EP69_Job_Interview": {
+   "asset": "EP69_Job_Interview.mp4",
+   "dir": "EP69 Job Interview",
+   "duration": 24.733333,
+   "ep": "EP69_Job_Interview",
+   "mb": 5.775373,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f78e42d0bab6c12169ad3f49925e340100d53ea0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP69_Job_Interview.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
