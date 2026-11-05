@@ -315,6 +315,141 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP10_The_Leaflet.mp4"
   },
+  "handwriting/EP01_Fruits": {
+   "asset": "EP01_Fruits.mp4",
+   "dir": "EP01 Fruits",
+   "duration": 17.427007,
+   "ep": "EP01_Fruits",
+   "mb": 3.885043,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "0eaaabdf38526a0f9ea1a64bc38ca52263b3d43a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP01_Fruits.mp4"
+  },
+  "handwriting/EP02_Colors": {
+   "asset": "EP02_Colors.mp4",
+   "dir": "EP02 Colors",
+   "duration": 16.588005,
+   "ep": "EP02_Colors",
+   "mb": 3.279128,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ae01362a03c31292f2081dc97ecd8d2643d46de5",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP02_Colors.mp4"
+  },
+  "handwriting/EP03_Transport": {
+   "asset": "EP03_Transport.mp4",
+   "dir": "EP03 Transport",
+   "duration": 22.2,
+   "ep": "EP03_Transport",
+   "mb": 4.934666,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bc50fee5554c70ffbafba214599a081db17b53d7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP03_Transport.mp4"
+  },
+  "handwriting/EP04_Vegetables": {
+   "asset": "EP04_Vegetables.mp4",
+   "dir": "EP04 Vegetables",
+   "duration": 19.066667,
+   "ep": "EP04_Vegetables",
+   "mb": 4.599506,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "481f4fc745160c717bed2eecbcaf49c6f23aa7a8",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP04_Vegetables.mp4"
+  },
+  "handwriting/EP05_Family": {
+   "asset": "EP05_Family.mp4",
+   "dir": "EP05 Family",
+   "duration": 20.6,
+   "ep": "EP05_Family",
+   "mb": 5.123538,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "6aee1349f358e1cefbca612e9061e979f25da636",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP05_Family.mp4"
+  },
+  "handwriting/EP06_My_Body": {
+   "asset": "EP06_My_Body.mp4",
+   "dir": "EP06 My Body",
+   "duration": 17.633333,
+   "ep": "EP06_My_Body",
+   "mb": 4.462439,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "296b72bdb0056a8e5c902113c73f74c17aafd0de",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP06_My_Body.mp4"
+  },
+  "handwriting/EP07_Clothes": {
+   "asset": "EP07_Clothes.mp4",
+   "dir": "EP07 Clothes",
+   "duration": 18.533333,
+   "ep": "EP07_Clothes",
+   "mb": 4.685606,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "19f8a0d4d004deb5c347491c63cefaaf373d76c4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP07_Clothes.mp4"
+  },
+  "handwriting/EP08_Animals": {
+   "asset": "EP08_Animals.mp4",
+   "dir": "EP08 Animals",
+   "duration": 17.466667,
+   "ep": "EP08_Animals",
+   "mb": 4.368136,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d4f1c54d8ba2c43e1d6e7a324b096db0d3fea6eb",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP08_Animals.mp4"
+  },
+  "handwriting/EP09_Farm": {
+   "asset": "EP09_Farm.mp4",
+   "dir": "EP09 Farm",
+   "duration": 18.233333,
+   "ep": "EP09_Farm",
+   "mb": 4.651454,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "18dfbde97936960afd3951dd10e7e42f6bc0dfed",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP09_Farm.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
@@ -719,11 +854,57 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP04_Turn_On_The_TV.mp4"
+  },
+  "youssef-stick-figures/EP05 I Agree": {
+   "asset": "EP05_I_Agree.mp4",
+   "dir": "EP05 I Agree",
+   "duration": 35.466667,
+   "ep": "EP05 I Agree",
+   "mb": 5.364171,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "b8b0169183d342cf139552f8fc7abad8f02bd559",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP05_I_Agree.mp4"
+  },
+  "youssef-stick-figures/EP06 Teach Me English": {
+   "asset": "EP06_Teach_Me_English.mp4",
+   "dir": "EP06 Teach Me English",
+   "duration": 38.707007,
+   "ep": "EP06 Teach Me English",
+   "mb": 6.072135,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "5767cd2ca9b864f2e907524f218c485d206c7e07",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP06_Teach_Me_English.mp4"
+  },
+  "youssef-stick-figures/EP07 How Old Are You": {
+   "asset": "EP07_How_Old_Are_You.mp4",
+   "dir": "EP07 How Old Are You",
+   "duration": 32.933333,
+   "ep": "EP07 How Old Are You",
+   "mb": 5.402369,
+   "readme_v": 2,
+   "series": "youssef-stick-figures",
+   "sig": [
+    3,
+    "fa289597ff4b2e826a67e2bc1a19564b851527ed",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-youssef-stick-figures/EP07_How_Old_Are_You.mp4"
   }
  },
  "sample_src": {
   "felt-songs": "felt-songs/EP01 Family",
   "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring",
+  "handwriting": "handwriting/EP01_Fruits",
   "sami-family": "sami-family/EP02 The Recipe",
   "woven-stories": "woven-stories/EP01 Long Ago",
   "youssef-stick-figures": "youssef-stick-figures/EP01 Open The Light"
@@ -731,6 +912,7 @@
  "samples": {
   "felt-songs": "sample.gif",
   "hamada-shadow-puppet": "sample.gif",
+  "handwriting": "sample.gif",
   "sami-family": "sample.gif",
   "woven-stories": "sample.gif",
   "youssef-stick-figures": "sample.gif"
