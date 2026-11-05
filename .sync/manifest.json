@@ -735,6 +735,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP117_Bakery.mp4"
   },
+  "handwriting/EP118_Pantry": {
+   "asset": "EP118_Pantry.mp4",
+   "dir": "EP118 Pantry",
+   "duration": 17.733333,
+   "ep": "EP118_Pantry",
+   "mb": 4.420799,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "af95e6d14400d66c560af4ad99917817dfb8e304",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP118_Pantry.mp4"
+  },
+  "handwriting/EP119_Cooking_Verbs": {
+   "asset": "EP119_Cooking_Verbs.mp4",
+   "dir": "EP119 Cooking Verbs",
+   "duration": 17.2,
+   "ep": "EP119_Cooking_Verbs",
+   "mb": 4.276022,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c701e17b124189c6e8e5eb7953d0463193753fd7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP119_Cooking_Verbs.mp4"
+  },
   "handwriting/EP11_Birds": {
    "asset": "EP11_Birds.mp4",
    "dir": "EP11 Birds",
@@ -749,6 +779,156 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP11_Birds.mp4"
+  },
+  "handwriting/EP120_Desert": {
+   "asset": "EP120_Desert.mp4",
+   "dir": "EP120 Desert",
+   "duration": 18.5,
+   "ep": "EP120_Desert",
+   "mb": 4.718915,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c9b0fe1b4db89595f9551319a0e48a57c495ea01",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP120_Desert.mp4"
+  },
+  "handwriting/EP121_Beach": {
+   "asset": "EP121_Beach.mp4",
+   "dir": "EP121 Beach",
+   "duration": 18.966667,
+   "ep": "EP121_Beach",
+   "mb": 4.558935,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "0c2894a99e3b905c514b87959d3f345a13a42546",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP121_Beach.mp4"
+  },
+  "handwriting/EP122_More_Weather": {
+   "asset": "EP122_More_Weather.mp4",
+   "dir": "EP122 More Weather",
+   "duration": 19.5,
+   "ep": "EP122_More_Weather",
+   "mb": 4.743269,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d5077f01fc2a42d84bee7843a0e57d1ad7b0689a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP122_More_Weather.mp4"
+  },
+  "handwriting/EP123_Taxi": {
+   "asset": "EP123_Taxi.mp4",
+   "dir": "EP123 Taxi",
+   "duration": 24.066667,
+   "ep": "EP123_Taxi",
+   "mb": 5.521314,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c9bbf0802883043538822225406b06b94f701866",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP123_Taxi.mp4"
+  },
+  "handwriting/EP124_More_Vehicles": {
+   "asset": "EP124_More_Vehicles.mp4",
+   "dir": "EP124 More Vehicles",
+   "duration": 19.5,
+   "ep": "EP124_More_Vehicles",
+   "mb": 4.80611,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "26ba132e2d882fa07eb37658bd18f1951486df89",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP124_More_Vehicles.mp4"
+  },
+  "handwriting/EP125_Driving": {
+   "asset": "EP125_Driving.mp4",
+   "dir": "EP125 Driving",
+   "duration": 18.1,
+   "ep": "EP125_Driving",
+   "mb": 4.566959,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "afcb43b764bfe2d8b6d35675fbe2e28849370274",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP125_Driving.mp4"
+  },
+  "handwriting/EP126_At_the_Airport": {
+   "asset": "EP126_At_the_Airport.mp4",
+   "dir": "EP126 At the Airport",
+   "duration": 23.966667,
+   "ep": "EP126_At_the_Airport",
+   "mb": 5.523342,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "183a15f7e4462b2367cc52db314e7de7c64e5535",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP126_At_the_Airport.mp4"
+  },
+  "handwriting/EP127_Holiday": {
+   "asset": "EP127_Holiday.mp4",
+   "dir": "EP127 Holiday",
+   "duration": 18.233333,
+   "ep": "EP127_Holiday",
+   "mb": 4.4554,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "be3440ce22d1a0e838185028362e794eecbc9f03",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP127_Holiday.mp4"
+  },
+  "handwriting/EP128_Places_to_Go": {
+   "asset": "EP128_Places_to_Go.mp4",
+   "dir": "EP128 Places to Go",
+   "duration": 19.0,
+   "ep": "EP128_Places_to_Go",
+   "mb": 4.654164,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "70c784c7a4f17d53cca72134a2a6e5f86372f71f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP128_Places_to_Go.mp4"
+  },
+  "handwriting/EP129_Toys": {
+   "asset": "EP129_Toys.mp4",
+   "dir": "EP129 Toys",
+   "duration": 17.933333,
+   "ep": "EP129_Toys",
+   "mb": 4.368695,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1d01bae1ac73f586a814b309625fd72195ea3d6a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP129_Toys.mp4"
   },
   "handwriting/EP12_Sea_Life": {
    "asset": "EP12_Sea_Life.mp4",
