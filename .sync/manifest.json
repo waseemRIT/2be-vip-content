@@ -5645,6 +5645,70 @@
     "10.jpg"
    ]
   },
+  "slideshows/Episode 48 - English at the Pharmacy": {
+   "dir": "EP48 English at the Pharmacy",
+   "ep": "Episode 48 - English at the Pharmacy",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "82064ede883926cb42db1d70c539d29ee449bf34",
+    "32505994733c3a48a67ed1733098457a835d5cfa",
+    "20eaba1938a700ebe3223ab63a691e37444442f8",
+    "9eac3cf38bc49f6fb6990afeca7ffef897b1a566",
+    "1a1d28718162247c0c050221a33f9f9eef1bdd3a",
+    "3e60391364e6a23be8a2fcaf793f0c167cbf20b8",
+    "c30024978d28fcaceacdec461bba066557ebc510",
+    "99d50aa1d8fc555e8b5c3b54a937417c178a249f",
+    "d658e3b545c00895535a0860c47d2a4216b683b0",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg"
+   ]
+  },
+  "slideshows/Episode 49 - English on a Plane": {
+   "dir": "EP49 English on a Plane",
+   "ep": "Episode 49 - English on a Plane",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "06f20aa484dc0522bd7cb6dae1b4ec3eaeb1de4c",
+    "edf10a914807fd273cd738ac49b438684fdc997f",
+    "10c1cdcccd37a3ef681984d74017c8b0b3366e99",
+    "dcdf1ea984630d8061388c45826430ab5c5785ce",
+    "24c015afc130aa277045d3ab3be3af9039ff1751",
+    "d5055fe220c65c4b29aca5a63fe518cfd8a436cb",
+    "85f5a63e0a0397937ba033f8784ea175eae8f72f",
+    "9524711740bae238e49639f9a445edfb0f7d6f31",
+    "6de1e988903350aba3718e7206533561c3f0361c",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg"
+   ]
+  },
   "slideshows/Episode 5 - Very Good Alternatives": {
    "dir": "EP05 Very Good Alternatives",
    "ep": "Episode 5 - Very Good Alternatives",
@@ -5671,6 +5735,308 @@
     "06.jpg",
     "07.jpg",
     "08.jpg"
+   ]
+  },
+  "slideshows/Episode 50 - English at the Bank": {
+   "dir": "EP50 English at the Bank",
+   "ep": "Episode 50 - English at the Bank",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "0b624e306ad7c594a1cb81608608c7b387db1673",
+    "f38e1571821692c0ce388c05c9bd708fecca5df1",
+    "b1a90364430c6e6b67da613143d7ed820dd73ff5",
+    "37144cfcd0c968aadb785e90dd1dd9ea30c68d81",
+    "b744da8b7861927ebba10b6acfd592b75f7be98c",
+    "57b99b36b2b3d75b803043bc877a5f173b954242",
+    "1ceac2443dd03e4ecc1d7176e2a952819b35b94f",
+    "30d0f9e86e34c3faf8c0a7c6dd7027ca59c5e21a",
+    "35482df660f90032b0b80ecba4a1377e4346af3a",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg"
+   ]
+  },
+  "slideshows/Episode 51 - The Lazy Student": {
+   "dir": "EP51 The Lazy Student",
+   "ep": "Episode 51 - The Lazy Student",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "a8ef414bc6f58e12cd60ef5d84ac31370963c848",
+    "444a1054601bd02546aa45bb3e74640f822506fb",
+    "271d8b5f9aa742f25b8b94e686df48dcfb257461",
+    "35e246f8f2d07aaecb2d0be0dff2c9db95464fc1",
+    "c1ad84053c3411cbb0fd53240a9a02289da6d0d2",
+    "ed83fb0be74d5cb0f2be49d8ceb5e5f091a1e68c",
+    "fc86c4636c3c04acd95e5414da82fc9e7c3fa90c",
+    "90c0aa591b97a0796591b6b24cb1a5caf793337c",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 52 - Before vs After the Exam": {
+   "dir": "EP52 Before vs After the Exam",
+   "ep": "Episode 52 - Before vs After the Exam",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "9563acdc4abce0ba6549f8266a455eb3f30ddf08",
+    "86775bdbaf8857495fc8ac6d1ef3e013a21ab3e2",
+    "622dfe8281425615b16c04dd3086176206e8c00c",
+    "689125190dfa406b5d815e77c99c727d90604f43",
+    "1aab7f2d195d3bbbd91bb829abb07b5843741e76",
+    "4c2f976f5122cd8e9dcf75613e17c9edc987f396",
+    "532e6967a8ee1a1978ebc1323dfeacc65eb68a9b",
+    "6feb197339333a30f72eefed8821113bd27aeed4",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 53 - When the Teacher Says It's Easy": {
+   "dir": "EP53 When the Teacher Says It's Easy",
+   "ep": "Episode 53 - When the Teacher Says It's Easy",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "0cca5670074a5ac80cc5a48b663eae6b56583b34",
+    "c7d3afefc0358e5dd41cb46a12453c06043eb0a3",
+    "e61de13d93fa085c6992f5c6a0d47a3040e0a23b",
+    "1696cc0fffeacf54522ac24b3b598a5ed8eb2ab3",
+    "fcb9cc912cff881dbc46f9f498234be65064aab2",
+    "aafde13b9886f0d5af96e9259e2feec36e52067d",
+    "17f06858a44ef6976296b12ed126dba89f68c820",
+    "d741f4a1eb909fa52dca76d3513716763e716af3",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 54 - Google Translate vs Real English": {
+   "dir": "EP54 Google Translate vs Real English",
+   "ep": "Episode 54 - Google Translate vs Real English",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "2a0690d1ce4b363df5da226b979164a06c8a8e81",
+    "643a431bd43ed1af7bfc656c0cfaab2bb91054ac",
+    "72d5eddfe51467aaf6eabdf2dd38913cd7afecaf",
+    "2328de62f0250eb452e9c8a4af8fdbdc48f6068b",
+    "4527714760d980eff819faee953b622f99b20ddb",
+    "e0ffd6005ade8826b525066c69740549dc4dfcf2",
+    "c5ed74193cd1a37d70fb6e0c9fa2fbceb42f91f3",
+    "7e07a9c0c5ca3128369a8aa48b3aac5d0e1c10dd",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 55 - In Your Head vs When You Speak": {
+   "dir": "EP55 In Your Head vs When You Speak",
+   "ep": "Episode 55 - In Your Head vs When You Speak",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "327a7462ff04f9b9a868ddff965e35646b03be59",
+    "9a53137e592852bdcbafeff30422780bc2d9d9af",
+    "ed16b86fdd9f9a8d772f23d7b07b89f41f6e9cf8",
+    "7fb92da00b31a2e35237fc56f29fed9084a26ed5",
+    "0f809f8321fe63af7fe26cd38f52321d9dd55728",
+    "fc906e665b0c23f060ba3a5be73701155bef7fa2",
+    "3afe68f4339377c2881be4a0ceeadf40b9cb4711",
+    "c39460975bdad2efb7eb92dcb553bef834018c7d",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 56 - Your New Favorite Word": {
+   "dir": "EP56 Your New Favorite Word",
+   "ep": "Episode 56 - Your New Favorite Word",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "9f66e1980b89b7f6962f8af7bd094626d80a7790",
+    "250c4a10e26b55e3f536a04b494bdc2d84e7671f",
+    "7b802d34f7a4952406d97e5009b679a6966f9d7c",
+    "e8dff8cd251adf9c5483b03244d420bb9e4abaa0",
+    "e08ede5ea18653ac925314c16c2ffaae4e7609b7",
+    "15f79a6dab0ccf280b6559e02a1c715bf4f8cf48",
+    "a59caea22239f7c4e61e585c70434da8c7d3c8f0",
+    "f907e580d45aa49920c546ab06e7dd4b1abbd1ba",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 57 - First Time Hearing a British Accent": {
+   "dir": "EP57 First Time Hearing a British Accent",
+   "ep": "Episode 57 - First Time Hearing a British Accent",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "34c13d334344a5f1bb973fe8375d6826e92e9dc6",
+    "d13857908f817be0d286ef02742c9a66f04594dd",
+    "d31c5ee31ef1ac48aabe6f553f105ea7b53ef243",
+    "c0170ac06023950ca13ebe4766709ec2b4456ac2",
+    "57e47600930987431229cb2828fd8228b5825e3c",
+    "3ac2ae7238d9fcee33aa0fa8bcd9dfc6ab28b05d",
+    "5110c2844ebf32a847b489af8b256474e5232631",
+    "bc5feb0e11109c507b62ebcfad31cd8117ed763e",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 58 - When They Say Sorry": {
+   "dir": "EP58 When They Say Sorry",
+   "ep": "Episode 58 - When They Say Sorry",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "2acc9b71db28de4deb65a7b0b0a057f6928b2bac",
+    "09e67da0ea54090ff35166c9319c176584928866",
+    "a84fcb207ca208834ef074fd9b26a32955830551",
+    "8522b5ef705126deb75226d8f42f6eeae3e9948b",
+    "46f55ae50d2a546d7d46fd120d89a1787f68c6c7",
+    "6cc733c727baa8e923e3254a6e201b4631af697e",
+    "037f954a31224b77b02aa2b9b17ac63e98d21571",
+    "813b6b33e35e31e409146bd004fcf3fd1fb65706",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 59 - You and Present Perfect at 2AM": {
+   "dir": "EP59 You and Present Perfect at 2AM",
+   "ep": "Episode 59 - You and Present Perfect at 2AM",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "88a59ede52f72f5aa750483b1fb17a5186cc7d1b",
+    "b1b89b91b107d38b5d4e87f832cd50efc2b6e0a7",
+    "25953fc960d8a65d9f945724b3e616b6ae236d8b",
+    "bf5bd897e62bfcc3ac499f85d878e514fbe2e553",
+    "9750e22a804ff67269e997065620189cc74404cf",
+    "57c376e58a35872db637c8c8583d22c979a9298b",
+    "ce94ad51dd16ae29a446b3f94b3bdd07f437182d",
+    "6213ced83a1e700f59ea5a17b24ec725c64b47a0",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
    ]
   },
   "slideshows/Episode 6 - Supermarket Vocabulary": {
