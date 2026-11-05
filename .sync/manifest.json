@@ -4443,14 +4443,14 @@
   "sami-family/EP30 The Empty Desk Corner": {
    "asset": "EP30_The_Empty_Desk_Corner.mp4",
    "dir": "EP30 The Empty Desk Corner",
-   "duration": 104.233333,
+   "duration": 101.3,
    "ep": "EP30 The Empty Desk Corner",
-   "mb": 23.1411,
+   "mb": 22.299893,
    "readme_v": 2,
    "series": "sami-family",
    "sig": [
     3,
-    "6a3a7b9392fa3f0d018a344e1775ccd8207b85b2",
+    "193a49f2993160a328b821755964b76160ffc306",
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4"

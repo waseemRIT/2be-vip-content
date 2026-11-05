@@ -4,7 +4,7 @@ Part of **[2Be with the Sami Family](../README.md)**.
 
 [![The Empty Desk Corner](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)
 
-▶️ **[Watch / download the video](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)** (1:44, 23 MB)
+▶️ **[Watch / download the video](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)** (1:41, 22 MB)
 
 ## Caption
 
@@ -30,7 +30,7 @@ Learn English with 2Be.vip — link in bio
 
 [![The Empty Desk Corner](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)
 
-▶️ **[شاهد / حمّل الفيديو](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)** (1:44، 23 ميجابايت)
+▶️ **[شاهد / حمّل الفيديو](https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP30_The_Empty_Desk_Corner.mp4)** (1:41، 22 ميجابايت)
 
 ## الكابشن
 
