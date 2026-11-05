@@ -1335,6 +1335,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP153_Main_Dishes.mp4"
   },
+  "handwriting/EP154_Breakfast_Time": {
+   "asset": "EP154_Breakfast_Time.mp4",
+   "dir": "EP154 Breakfast Time",
+   "duration": 17.333333,
+   "ep": "EP154_Breakfast_Time",
+   "mb": 4.218413,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7f152b4131655b3fa6eeeeb8856ccffc61427e8f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP154_Breakfast_Time.mp4"
+  },
+  "handwriting/EP155_Fruit_Bowl": {
+   "asset": "EP155_Fruit_Bowl.mp4",
+   "dir": "EP155 Fruit Bowl",
+   "duration": 18.0,
+   "ep": "EP155_Fruit_Bowl",
+   "mb": 4.482606,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "43df3bf7a2d1bf19fcc665ed3628c54d1b6c2430",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP155_Fruit_Bowl.mp4"
+  },
+  "handwriting/EP156_On_the_Table": {
+   "asset": "EP156_On_the_Table.mp4",
+   "dir": "EP156 On the Table",
+   "duration": 18.833333,
+   "ep": "EP156_On_the_Table",
+   "mb": 4.603016,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a79a79b3ae18aef42067637d6e520c7cbb74093f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP156_On_the_Table.mp4"
+  },
+  "handwriting/EP157_Safari": {
+   "asset": "EP157_Safari.mp4",
+   "dir": "EP157 Safari",
+   "duration": 19.1,
+   "ep": "EP157_Safari",
+   "mb": 4.655489,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "57ef70e63175d70b477dc41df255692444311fa8",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP157_Safari.mp4"
+  },
+  "handwriting/EP158_In_the_Forest": {
+   "asset": "EP158_In_the_Forest.mp4",
+   "dir": "EP158 In the Forest",
+   "duration": 18.8,
+   "ep": "EP158_In_the_Forest",
+   "mb": 4.681032,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e8847fe5957ee63e7fe5b8d3df4d13b4d4b173c3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP158_In_the_Forest.mp4"
+  },
+  "handwriting/EP159_World_Animals": {
+   "asset": "EP159_World_Animals.mp4",
+   "dir": "EP159 World Animals",
+   "duration": 18.633333,
+   "ep": "EP159_World_Animals",
+   "mb": 4.455258,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1022ccceda7ee0be206fdc09f146b5026de5ae7f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP159_World_Animals.mp4"
+  },
   "handwriting/EP15_Seasons": {
    "asset": "EP15_Seasons.mp4",
    "dir": "EP15 Seasons",
@@ -1349,6 +1439,96 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP15_Seasons.mp4"
+  },
+  "handwriting/EP160_More_Birds": {
+   "asset": "EP160_More_Birds.mp4",
+   "dir": "EP160 More Birds",
+   "duration": 18.866667,
+   "ep": "EP160_More_Birds",
+   "mb": 4.662819,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "915ee1e117fefa4f0a52164cfa58f69715af395b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP160_More_Birds.mp4"
+  },
+  "handwriting/EP161_More_Sea_Life": {
+   "asset": "EP161_More_Sea_Life.mp4",
+   "dir": "EP161 More Sea Life",
+   "duration": 18.833333,
+   "ep": "EP161_More_Sea_Life",
+   "mb": 4.562833,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "aeee0dfe2b5a99b8f55ad0ccabf0146a6caa2751",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP161_More_Sea_Life.mp4"
+  },
+  "handwriting/EP162_Small_Animals": {
+   "asset": "EP162_Small_Animals.mp4",
+   "dir": "EP162 Small Animals",
+   "duration": 18.1,
+   "ep": "EP162_Small_Animals",
+   "mb": 4.568926,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "038f640a801bfaa3dbccdd1d98c988f21061bc4e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP162_Small_Animals.mp4"
+  },
+  "handwriting/EP163_More_Insects": {
+   "asset": "EP163_More_Insects.mp4",
+   "dir": "EP163 More Insects",
+   "duration": 16.966667,
+   "ep": "EP163_More_Insects",
+   "mb": 4.280085,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ba6fab7f55f42d8373b42151558d1b4f4b34cb97",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP163_More_Insects.mp4"
+  },
+  "handwriting/EP164_Farm_Animals": {
+   "asset": "EP164_Farm_Animals.mp4",
+   "dir": "EP164 Farm Animals",
+   "duration": 16.566667,
+   "ep": "EP164_Farm_Animals",
+   "mb": 3.47708,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "0de91fe5014e46f997995f15f4594eb8cb00f826",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP164_Farm_Animals.mp4"
+  },
+  "handwriting/EP165_Extinct": {
+   "asset": "EP165_Extinct.mp4",
+   "dir": "EP165 Extinct",
+   "duration": 17.5,
+   "ep": "EP165_Extinct",
+   "mb": 4.406473,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f5ae1a64aa2188757ed151bf077ecae5b4791531",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP165_Extinct.mp4"
   },
   "handwriting/EP16_Days": {
    "asset": "EP16_Days.mp4",
