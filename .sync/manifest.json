@@ -179,15 +179,199 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP01_The_Ring.mp4"
+  },
+  "hamada-shadow-puppet/EP02 The Torn Shoes": {
+   "asset": "EP02_The_Torn_Shoes.mp4",
+   "dir": "EP02 The Torn Shoes",
+   "duration": 63.509,
+   "ep": "EP02 The Torn Shoes",
+   "mb": 6.078871,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "950c739e09678db0f3dc1997e557f1f9eefda1c2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP02_The_Torn_Shoes.mp4"
+  },
+  "hamada-shadow-puppet/EP03 The Bus Fare": {
+   "asset": "EP03_The_Bus_Fare.mp4",
+   "dir": "EP03 The Bus Fare",
+   "duration": 65.216,
+   "ep": "EP03 The Bus Fare",
+   "mb": 6.639359,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "f02afb429d5e4301576e5d6a0f733921383ca2b1",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP03_The_Bus_Fare.mp4"
+  },
+  "hamada-shadow-puppet/EP04 The Contract": {
+   "asset": "EP04_The_Contract.mp4",
+   "dir": "EP04 The Contract",
+   "duration": 66.005,
+   "ep": "EP04 The Contract",
+   "mb": 6.190261,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "b509f45f9fea7c86113141bf4f0b3acaaaf46b0b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP04_The_Contract.mp4"
+  },
+  "hamada-shadow-puppet/EP05 The Hospital Form": {
+   "asset": "EP05_The_Hospital_Form.mp4",
+   "dir": "EP05 The Hospital Form",
+   "duration": 61.205,
+   "ep": "EP05 The Hospital Form",
+   "mb": 5.57021,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "18f7aa066d06fb02fb7859c6b055efd2c5a99cdb",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP05_The_Hospital_Form.mp4"
+  },
+  "hamada-shadow-puppet/EP06 The Homework": {
+   "asset": "EP06_The_Homework.mp4",
+   "dir": "EP06 The Homework",
+   "duration": 63.6,
+   "ep": "EP06 The Homework",
+   "mb": 5.338546,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "9e82911ef71e45aa89070d8186c8d2a05eefb792",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP06_The_Homework.mp4"
+  },
+  "hamada-shadow-puppet/EP07 The Broken Motorbike": {
+   "asset": "EP07_The_Broken_Motorbike.mp4",
+   "dir": "EP07 The Broken Motorbike",
+   "duration": 64.3,
+   "ep": "EP07 The Broken Motorbike",
+   "mb": 8.342578,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "5d1f45e83e82c459365cbd7a4212938def6a4876",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP07_The_Broken_Motorbike.mp4"
+  },
+  "hamada-shadow-puppet/EP08 The Taxi": {
+   "asset": "EP08_The_Taxi.mp4",
+   "dir": "EP08 The Taxi",
+   "duration": 60.01,
+   "ep": "EP08 The Taxi",
+   "mb": 6.548891,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "d7dab2973d608b34be6a6c70832dc2f754acd78f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP08_The_Taxi.mp4"
+  },
+  "hamada-shadow-puppet/EP09 The Interview": {
+   "asset": "EP09_The_Interview.mp4",
+   "dir": "EP09 The Interview",
+   "duration": 62.233333,
+   "ep": "EP09 The Interview",
+   "mb": 7.42414,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "4219ebe371a940d9dce38d38a2eee5c50f619957",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP09_The_Interview.mp4"
+  },
+  "hamada-shadow-puppet/EP10 The Leaflet": {
+   "asset": "EP10_The_Leaflet.mp4",
+   "dir": "EP10 The Leaflet",
+   "duration": 62.833333,
+   "ep": "EP10 The Leaflet",
+   "mb": 7.225102,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "fd9b60124cd9477ee1f3e20237795882fa6acf0c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP10_The_Leaflet.mp4"
+  },
+  "sami-family/EP02 The Recipe": {
+   "asset": "EP02_The_Recipe.mp4",
+   "dir": "EP02 The Recipe",
+   "duration": 61.6,
+   "ep": "EP02 The Recipe",
+   "mb": 65.913324,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "b207b5612e976044b4236f721ebee278a99a0278",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP02_The_Recipe.mp4"
+  },
+  "sami-family/EP03 The Dream": {
+   "asset": "EP03_The_Dream.mp4",
+   "dir": "EP03 The Dream",
+   "duration": 86.208,
+   "ep": "EP03 The Dream",
+   "mb": 28.214904,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "87948f4c5bc8b4cad1fc95df73eeb3546662e81e",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP03_The_Dream.mp4"
+  },
+  "woven-stories/EP01 Long Ago": {
+   "asset": "EP01_Long_Ago.mp4",
+   "dir": "EP01 Long Ago",
+   "duration": 33.5,
+   "ep": "EP01 Long Ago",
+   "mb": 15.004223,
+   "readme_v": 2,
+   "series": "woven-stories",
+   "sig": [
+    3,
+    "16ab6031577dc840474d4260fcd1183a45d2c31d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woven-stories/EP01_Long_Ago.mp4"
   }
  },
  "sample_src": {
   "felt-songs": "felt-songs/EP01 Family",
-  "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring"
+  "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring",
+  "sami-family": "sami-family/EP02 The Recipe",
+  "woven-stories": "woven-stories/EP01 Long Ago"
  },
  "samples": {
   "felt-songs": "sample.gif",
-  "hamada-shadow-puppet": "sample.gif"
+  "hamada-shadow-puppet": "sample.gif",
+  "sami-family": "sample.gif",
+  "woven-stories": "sample.gif"
  },
  "skills": {}
 }
