@@ -2715,6 +2715,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP237_Tap_and_Stick.mp4"
   },
+  "handwriting/EP238_Turkey_and_China": {
+   "asset": "EP238_Turkey_and_China.mp4",
+   "dir": "EP238 Turkey and China",
+   "duration": 15.2,
+   "ep": "EP238_Turkey_and_China",
+   "mb": 3.065823,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7dbfcde57a8681ff455c8f746b5b323f7ed1df8f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP238_Turkey_and_China.mp4"
+  },
+  "handwriting/EP239_Left_and_Back": {
+   "asset": "EP239_Left_and_Back.mp4",
+   "dir": "EP239 Left and Back",
+   "duration": 14.366667,
+   "ep": "EP239_Left_and_Back",
+   "mb": 3.176026,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "aed0f6d8674c6e1e1209917c7b106f2af9657aa2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP239_Left_and_Back.mp4"
+  },
   "handwriting/EP23_Breakfast": {
    "asset": "EP23_Breakfast.mp4",
    "dir": "EP23 Breakfast",
@@ -2729,6 +2759,156 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP23_Breakfast.mp4"
+  },
+  "handwriting/EP240_Book_and_Play": {
+   "asset": "EP240_Book_and_Play.mp4",
+   "dir": "EP240 Book and Play",
+   "duration": 14.366667,
+   "ep": "EP240_Book_and_Play",
+   "mb": 3.091041,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "15cf66f5c2b8d8138e54507d2eeef28ed0affdcf",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP240_Book_and_Play.mp4"
+  },
+  "handwriting/EP241_Hard_and_Express": {
+   "asset": "EP241_Hard_and_Express.mp4",
+   "dir": "EP241 Hard and Express",
+   "duration": 15.333333,
+   "ep": "EP241_Hard_and_Express",
+   "mb": 3.202792,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d66c8fedad94c8abf708befa7d5f44928f179d6a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP241_Hard_and_Express.mp4"
+  },
+  "handwriting/EP242_Address_and_Run": {
+   "asset": "EP242_Address_and_Run.mp4",
+   "dir": "EP242 Address and Run",
+   "duration": 15.1,
+   "ep": "EP242_Address_and_Run",
+   "mb": 3.340845,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9a1d3748b76b7ab321931ae12ba34e91c2ebee1a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP242_Address_and_Run.mp4"
+  },
+  "handwriting/EP243_Date_and_Spring": {
+   "asset": "EP243_Date_and_Spring.mp4",
+   "dir": "EP243 Date and Spring",
+   "duration": 15.033333,
+   "ep": "EP243_Date_and_Spring",
+   "mb": 3.282975,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2ae0d4f102e82eb57b809b48b5eecb06dd3ab0af",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP243_Date_and_Spring.mp4"
+  },
+  "handwriting/EP244_Bear_and_Iron": {
+   "asset": "EP244_Bear_and_Iron.mp4",
+   "dir": "EP244 Bear and Iron",
+   "duration": 14.433333,
+   "ep": "EP244_Bear_and_Iron",
+   "mb": 2.866343,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2b902d5efb71b7d4cb3eebcd6d98aad0e595b2be",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP244_Bear_and_Iron.mp4"
+  },
+  "handwriting/EP245_Pitch_and_Board": {
+   "asset": "EP245_Pitch_and_Board.mp4",
+   "dir": "EP245 Pitch and Board",
+   "duration": 14.5,
+   "ep": "EP245_Pitch_and_Board",
+   "mb": 2.90204,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c3841ed82c526c5133ecad8dc22826aa07a30244",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP245_Pitch_and_Board.mp4"
+  },
+  "handwriting/EP246_Flat_and_Lift": {
+   "asset": "EP246_Flat_and_Lift.mp4",
+   "dir": "EP246 Flat and Lift",
+   "duration": 14.066667,
+   "ep": "EP246_Flat_and_Lift",
+   "mb": 3.068344,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e6996758e830d41a53d0b8227b3fc5961af154f6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP246_Flat_and_Lift.mp4"
+  },
+  "handwriting/EP247_Fair_and_Show": {
+   "asset": "EP247_Fair_and_Show.mp4",
+   "dir": "EP247 Fair and Show",
+   "duration": 14.533333,
+   "ep": "EP247_Fair_and_Show",
+   "mb": 3.187125,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "6116e6706db792e4a5d2dad10beb6b2bc3143fa9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP247_Fair_and_Show.mp4"
+  },
+  "handwriting/EP248_Trip_and_Fork": {
+   "asset": "EP248_Trip_and_Fork.mp4",
+   "dir": "EP248 Trip and Fork",
+   "duration": 14.2,
+   "ep": "EP248_Trip_and_Fork",
+   "mb": 2.948229,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "85952c83a9da7200a409e212d8e5ee5ca5cacaee",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP248_Trip_and_Fork.mp4"
+  },
+  "handwriting/EP249_Bed_and_Blue": {
+   "asset": "EP249_Bed_and_Blue.mp4",
+   "dir": "EP249 Bed and Blue",
+   "duration": 14.066667,
+   "ep": "EP249_Bed_and_Blue",
+   "mb": 2.964708,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "96b8eae1e6f85f53610ce818fd6afd66f367be3a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP249_Bed_and_Blue.mp4"
   },
   "handwriting/EP24_Drinks": {
    "asset": "EP24_Drinks.mp4",
