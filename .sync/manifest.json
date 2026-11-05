@@ -1935,6 +1935,156 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP18_Numbers_1-6.mp4"
   },
+  "handwriting/EP190_Nature_Finds": {
+   "asset": "EP190_Nature_Finds.mp4",
+   "dir": "EP190 Nature Finds",
+   "duration": 18.9,
+   "ep": "EP190_Nature_Finds",
+   "mb": 4.614907,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b881b5218e2cbce628322d69af7cb5bc0d75a7b9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP190_Nature_Finds.mp4"
+  },
+  "handwriting/EP191_Arab_World": {
+   "asset": "EP191_Arab_World.mp4",
+   "dir": "EP191 Arab World",
+   "duration": 18.966667,
+   "ep": "EP191_Arab_World",
+   "mb": 4.531402,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "93340dc2cbc134f063f871a8fdacf663306b0c93",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP191_Arab_World.mp4"
+  },
+  "handwriting/EP192_Asia": {
+   "asset": "EP192_Asia.mp4",
+   "dir": "EP192 Asia",
+   "duration": 19.533333,
+   "ep": "EP192_Asia",
+   "mb": 4.740147,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "14352dd6cb6f89c20c4b5ca636ff68ac4dc46f11",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP192_Asia.mp4"
+  },
+  "handwriting/EP193_World_Tour": {
+   "asset": "EP193_World_Tour.mp4",
+   "dir": "EP193 World Tour",
+   "duration": 19.0,
+   "ep": "EP193_World_Tour",
+   "mb": 4.732429,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1ec5c9654963db0f2c001f700dfd529504227e81",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP193_World_Tour.mp4"
+  },
+  "handwriting/EP194_More_Music": {
+   "asset": "EP194_More_Music.mp4",
+   "dir": "EP194 More Music",
+   "duration": 20.2,
+   "ep": "EP194_More_Music",
+   "mb": 4.751711,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "aeb383215a20660298931eaa6c4837413ea9daca",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP194_More_Music.mp4"
+  },
+  "handwriting/EP195_Medical": {
+   "asset": "EP195_Medical.mp4",
+   "dir": "EP195 Medical",
+   "duration": 17.333333,
+   "ep": "EP195_Medical",
+   "mb": 4.320767,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "3eeba342cc2a88c3ea95d7f4b455db5d68317f7f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP195_Medical.mp4"
+  },
+  "handwriting/EP196_Treasure": {
+   "asset": "EP196_Treasure.mp4",
+   "dir": "EP196 Treasure",
+   "duration": 17.8,
+   "ep": "EP196_Treasure",
+   "mb": 4.489316,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "797b9d7b0f04b226a4c973d26d16a1c1254b6802",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP196_Treasure.mp4"
+  },
+  "handwriting/EP197_Fairy_Tales": {
+   "asset": "EP197_Fairy_Tales.mp4",
+   "dir": "EP197 Fairy Tales",
+   "duration": 17.033333,
+   "ep": "EP197_Fairy_Tales",
+   "mb": 3.970492,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "80a0b2522bc4a796cfd4f94a99f71e7fcb102cce",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP197_Fairy_Tales.mp4"
+  },
+  "handwriting/EP198_Hand_Signs": {
+   "asset": "EP198_Hand_Signs.mp4",
+   "dir": "EP198 Hand Signs",
+   "duration": 18.5,
+   "ep": "EP198_Hand_Signs",
+   "mb": 4.571947,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "3b776be1c46ece3b66f42e5fbb7cbf2b1325c7cf",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP198_Hand_Signs.mp4"
+  },
+  "handwriting/EP199_Math_Signs": {
+   "asset": "EP199_Math_Signs.mp4",
+   "dir": "EP199 Math Signs",
+   "duration": 17.533333,
+   "ep": "EP199_Math_Signs",
+   "mb": 4.522205,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d7687a45ae860aa140f39a060171c9a216037e2d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP199_Math_Signs.mp4"
+  },
   "handwriting/EP19_Numbers_7-12": {
    "asset": "EP19_Numbers_7-12.mp4",
    "dir": "EP19 Numbers 7-12",
@@ -1949,6 +2099,36 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP19_Numbers_7-12.mp4"
+  },
+  "handwriting/EP200_Which_Way": {
+   "asset": "EP200_Which_Way.mp4",
+   "dir": "EP200 Which Way",
+   "duration": 17.433333,
+   "ep": "EP200_Which_Way",
+   "mb": 4.372333,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "782894a6c9fde12fe8748ee0d06415ee08752ef6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP200_Which_Way.mp4"
+  },
+  "handwriting/EP201_Bat_and_Watch": {
+   "asset": "EP201_Bat_and_Watch.mp4",
+   "dir": "EP201 Bat and Watch",
+   "duration": 14.8,
+   "ep": "EP201_Bat_and_Watch",
+   "mb": 3.21477,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "af557ea66b4dd60f9475303984e5ee8cc6cadd21",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP201_Bat_and_Watch.mp4"
   },
   "handwriting/EP20_Time": {
    "asset": "EP20_Time.mp4",
