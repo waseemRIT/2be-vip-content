@@ -1725,6 +1725,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP177_Online.mp4"
   },
+  "handwriting/EP178_Games": {
+   "asset": "EP178_Games.mp4",
+   "dir": "EP178 Games",
+   "duration": 17.566667,
+   "ep": "EP178_Games",
+   "mb": 4.412897,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8641d74216c6a277e92a1594dd0b678618c56bb0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP178_Games.mp4"
+  },
+  "handwriting/EP179_Party_Time": {
+   "asset": "EP179_Party_Time.mp4",
+   "dir": "EP179 Party Time",
+   "duration": 19.533333,
+   "ep": "EP179_Party_Time",
+   "mb": 4.795926,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1443b72dad14f9baa1734a5d402d9c79e2da28b2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP179_Party_Time.mp4"
+  },
   "handwriting/EP17_Months": {
    "asset": "EP17_Months.mp4",
    "dir": "EP17 Months",
@@ -1739,6 +1769,156 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP17_Months.mp4"
+  },
+  "handwriting/EP180_Fun_Fair": {
+   "asset": "EP180_Fun_Fair.mp4",
+   "dir": "EP180 Fun Fair",
+   "duration": 17.866667,
+   "ep": "EP180_Fun_Fair",
+   "mb": 4.576209,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "fcf62ecb77d097a9a55cc4b4f083ed59f50fe8ef",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP180_Fun_Fair.mp4"
+  },
+  "handwriting/EP181_Outdoor_Play": {
+   "asset": "EP181_Outdoor_Play.mp4",
+   "dir": "EP181 Outdoor Play",
+   "duration": 18.033333,
+   "ep": "EP181_Outdoor_Play",
+   "mb": 4.491673,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "b3b52e8ac350404b9b0c9c1989604cf57a14e2c4",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP181_Outdoor_Play.mp4"
+  },
+  "handwriting/EP182_Sports_Gear": {
+   "asset": "EP182_Sports_Gear.mp4",
+   "dir": "EP182 Sports Gear",
+   "duration": 19.7,
+   "ep": "EP182_Sports_Gear",
+   "mb": 4.713008,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "e22e637f42b49ba95a20554853ff2947fb80ab61",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP182_Sports_Gear.mp4"
+  },
+  "handwriting/EP183_Sports_Day": {
+   "asset": "EP183_Sports_Day.mp4",
+   "dir": "EP183 Sports Day",
+   "duration": 19.333333,
+   "ep": "EP183_Sports_Day",
+   "mb": 4.723104,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bcdff408359733048867c94b2d669845a63f511b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP183_Sports_Day.mp4"
+  },
+  "handwriting/EP184_Water_Fun": {
+   "asset": "EP184_Water_Fun.mp4",
+   "dir": "EP184 Water Fun",
+   "duration": 17.7,
+   "ep": "EP184_Water_Fun",
+   "mb": 4.49901,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "d136f4b009e23c8d8d9e6467278af2262330bb01",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP184_Water_Fun.mp4"
+  },
+  "handwriting/EP185_Camping": {
+   "asset": "EP185_Camping.mp4",
+   "dir": "EP185 Camping",
+   "duration": 19.766667,
+   "ep": "EP185_Camping",
+   "mb": 4.888558,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "c925e47ec0d7894a14b329d3b83b65bf373fdad5",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP185_Camping.mp4"
+  },
+  "handwriting/EP186_In_Winter": {
+   "asset": "EP186_In_Winter.mp4",
+   "dir": "EP186 In Winter",
+   "duration": 17.433333,
+   "ep": "EP186_In_Winter",
+   "mb": 4.432998,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "bac58107c6c49091e4308f4923614cb3dd18f153",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP186_In_Winter.mp4"
+  },
+  "handwriting/EP187_On_the_Move": {
+   "asset": "EP187_On_the_Move.mp4",
+   "dir": "EP187 On the Move",
+   "duration": 19.766667,
+   "ep": "EP187_On_the_Move",
+   "mb": 4.700189,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "cb20396b59f2b5dc0252c918631b682a86fa52eb",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP187_On_the_Move.mp4"
+  },
+  "handwriting/EP188_Buildings": {
+   "asset": "EP188_Buildings.mp4",
+   "dir": "EP188 Buildings",
+   "duration": 18.833333,
+   "ep": "EP188_Buildings",
+   "mb": 4.730463,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "82795ab2991f73b44148b911cad09cc85e114e7d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP188_Buildings.mp4"
+  },
+  "handwriting/EP189_In_the_Sky": {
+   "asset": "EP189_In_the_Sky.mp4",
+   "dir": "EP189 In the Sky",
+   "duration": 18.733333,
+   "ep": "EP189_In_the_Sky",
+   "mb": 4.625391,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a52889af43f3060a16ea6be0113af9a8086344f2",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP189_In_the_Sky.mp4"
   },
   "handwriting/EP18_Numbers_1-6": {
    "asset": "EP18_Numbers_1-6.mp4",
