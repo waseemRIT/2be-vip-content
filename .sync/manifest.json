@@ -4451,6 +4451,34 @@
     "09.jpg"
    ]
   },
+  "slideshows/Episode 100 - Answer in the Comments": {
+   "dir": "EP100 Answer in the Comments",
+   "ep": "Episode 100 - Answer in the Comments",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "70c3ab9ce37944b7219883ddb7bcb96d13108375",
+    "0e12a47e1499949435f0a28cfd59a0b90a0d71da",
+    "cb34ecf4acb65cff1edabeddf673adae1a5f6189",
+    "2c701e6811c51c1e1d61556e2f58c4188b518caf",
+    "d3f8c89068326081b18df47188c6e6fa9db65de6",
+    "b710385e12c47cd1d3d5a962fadfcfea40f130d7",
+    "c16c1b6503fec98c5d17aebcbe63fb7a969d2eea",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
   "slideshows/Episode 11 - I Don't Care vs It Doesn't Matter": {
    "dir": "EP11 I Don't Care vs It Doesn't Matter",
    "ep": "Episode 11 - I Don't Care vs It Doesn't Matter",
@@ -7225,6 +7253,122 @@
     "08.jpg",
     "09.jpg",
     "10.jpg"
+   ]
+  },
+  "slideshows/Episode 96 - One Picture Many Words": {
+   "dir": "EP96 One Picture Many Words",
+   "ep": "Episode 96 - One Picture Many Words",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "9da426d9ddf07c1cd569bae4fe888717ac5db638",
+    "c65a9e9b939493139a043cb6adbcff1c74fb4d27",
+    "db1578cb31e3e832eea0bb3f408754a2d8262681",
+    "3d2bf6ccac35bb3d3654390b37e6ca2e0fec9561",
+    "6d5c876884c9ba26731d49f137948df7b31aee0d",
+    "89a145d805ab46cae61a1ee7ec9694ed7bd31a90",
+    "7f1afc4e93989dee18915968070f818080e94828",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  "slideshows/Episode 97 - What Would You Say": {
+   "dir": "EP97 What Would You Say",
+   "ep": "Episode 97 - What Would You Say",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "2307d744c8fbf349bdf265d209d09b3d4295a925",
+    "6bf4d1bd91d2d22833a62ce1aa721b7cd0d3b814",
+    "c7bc7af3ec8a3564c50e1068d5a60b81066165a0",
+    "da211a343d42191c51cd8c38c869dfa7f48707d9",
+    "7c206703953d457efbd6aa3e17250de985fcaf43",
+    "1f874be4581f2d7e0f5c1190397de012d04e1d86",
+    "ea1ac7b1d783ec55e52021434f542f0ec5b86075",
+    "dd9f0a19e850d2dd2c100b50b632e188fbe26535",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 98 - Spot the Error": {
+   "dir": "EP98 Spot the Error",
+   "ep": "Episode 98 - Spot the Error",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "307b9b15709c5186dc08af1c67c85deaea33bda1",
+    "ba4d2e62287a70a95aee2a17ff394b38c661eaff",
+    "86ce463369079427332fcbbd3648d073c8c5fefa",
+    "d402ec0e379e78a0af217fe5b5cc64a95ee7e2d0",
+    "8065bb857758842f83d15ce7f19628a12b5071e0",
+    "3e84dc1d205f476ef2414b8571cc4a765a561e6e",
+    "5d3d1fb361e093568fb77fbaf21111d34bb4c3e9",
+    "7afd228c945c8fbe50da392b21a05d4fe4e1fe3d",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+   ]
+  },
+  "slideshows/Episode 99 - Rate Your Level 1 to 5": {
+   "dir": "EP99 Rate Your Level 1 to 5",
+   "ep": "Episode 99 - Rate Your Level 1 to 5",
+   "readme_v": 2,
+   "series": "slideshows",
+   "sig": [
+    3,
+    "8e4eb20a0db6fca6875cc1cce7399146a6f304ea",
+    "e094625533073b05757bcf2af438b3d48305c069",
+    "85c6d70515bc4495df8b5bb1f848dcc939c5e06e",
+    "fc0f48c19d940e2123b98417fc9c0ab75dbb8bcc",
+    "a31c0d7a5cee4977a95f55e756a629b899cd020a",
+    "7a521c18f71674e3b9b9bb455abdcd0164e24566",
+    "01af1fe14a38136613625474d3add46d5a2ce85c",
+    "d7ea983457765b9d3747bf3c2665ab07014f8487",
+    null
+   ],
+   "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
    ]
   },
   "woven-stories/EP01 Long Ago": {
