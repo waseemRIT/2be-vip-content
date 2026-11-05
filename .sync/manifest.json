@@ -4470,6 +4470,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP31_The_Sewing-Class_Measurement.mp4"
   },
+  "sami-family/EP32 The Mended Sofa Cushion": {
+   "asset": "EP32_The_Mended_Sofa_Cushion.mp4",
+   "dir": "EP32 The Mended Sofa Cushion",
+   "duration": 102.033333,
+   "ep": "EP32 The Mended Sofa Cushion",
+   "mb": 22.895433,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "19a9521443f27f40c8052c416d5a2b2b0c5c3d3f",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP32_The_Mended_Sofa_Cushion.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
