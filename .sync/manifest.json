@@ -945,6 +945,156 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP12_Sea_Life.mp4"
   },
+  "handwriting/EP130_Weekend": {
+   "asset": "EP130_Weekend.mp4",
+   "dir": "EP130 Weekend",
+   "duration": 19.766667,
+   "ep": "EP130_Weekend",
+   "mb": 4.729752,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9cd9a949ae812e066cfbb9c0576dc42ffd002d89",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP130_Weekend.mp4"
+  },
+  "handwriting/EP131_Celebrations": {
+   "asset": "EP131_Celebrations.mp4",
+   "dir": "EP131 Celebrations",
+   "duration": 23.633333,
+   "ep": "EP131_Celebrations",
+   "mb": 5.53229,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "a9ec10f48c1606cccb2157f0703254ed53ee580d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP131_Celebrations.mp4"
+  },
+  "handwriting/EP132_Ramadan": {
+   "asset": "EP132_Ramadan.mp4",
+   "dir": "EP132 Ramadan",
+   "duration": 18.766667,
+   "ep": "EP132_Ramadan",
+   "mb": 4.796031,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "fbf25e6b81fc6179061ab1d5bd5d64bec773896b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP132_Ramadan.mp4"
+  },
+  "handwriting/EP133_Compliments": {
+   "asset": "EP133_Compliments.mp4",
+   "dir": "EP133 Compliments",
+   "duration": 23.466667,
+   "ep": "EP133_Compliments",
+   "mb": 5.439416,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9c555a285bf20833dfb26320f306e135cf5a13fc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP133_Compliments.mp4"
+  },
+  "handwriting/EP134_Encouragement": {
+   "asset": "EP134_Encouragement.mp4",
+   "dir": "EP134 Encouragement",
+   "duration": 23.533333,
+   "ep": "EP134_Encouragement",
+   "mb": 5.472973,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8e56007d51ccedc1002a83b64e35676bbe0ff7e9",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP134_Encouragement.mp4"
+  },
+  "handwriting/EP135_Space": {
+   "asset": "EP135_Space.mp4",
+   "dir": "EP135 Space",
+   "duration": 18.733333,
+   "ep": "EP135_Space",
+   "mb": 4.673823,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "26b6ed701ceca0518401dc2c4c8d49f52233dd74",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP135_Space.mp4"
+  },
+  "handwriting/EP136_Nature": {
+   "asset": "EP136_Nature.mp4",
+   "dir": "EP136 Nature",
+   "duration": 19.066667,
+   "ep": "EP136_Nature",
+   "mb": 4.852739,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "f4d1cb093c95bacc46bd5f905e940f0955a9c70b",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP136_Nature.mp4"
+  },
+  "handwriting/EP137_Science": {
+   "asset": "EP137_Science.mp4",
+   "dir": "EP137 Science",
+   "duration": 19.566667,
+   "ep": "EP137_Science",
+   "mb": 4.670908,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2e2131a1f2b3bde1501aab8478c42c89f5d926bc",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP137_Science.mp4"
+  },
+  "handwriting/EP138_University": {
+   "asset": "EP138_University.mp4",
+   "dir": "EP138 University",
+   "duration": 20.133333,
+   "ep": "EP138_University",
+   "mb": 4.851372,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ecf25140a24218a65b4cdb6dcbab857eb1598085",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP138_University.mp4"
+  },
+  "handwriting/EP139_More_Jobs": {
+   "asset": "EP139_More_Jobs.mp4",
+   "dir": "EP139 More Jobs",
+   "duration": 19.6,
+   "ep": "EP139_More_Jobs",
+   "mb": 4.836287,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "27a817dd23aa0710ef8c4d1d51f2a66278abad78",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP139_More_Jobs.mp4"
+  },
   "handwriting/EP13_Insects": {
    "asset": "EP13_Insects.mp4",
    "dir": "EP13 Insects",
@@ -959,6 +1109,36 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP13_Insects.mp4"
+  },
+  "handwriting/EP140_At_Work": {
+   "asset": "EP140_At_Work.mp4",
+   "dir": "EP140 At Work",
+   "duration": 23.266667,
+   "ep": "EP140_At_Work",
+   "mb": 5.262288,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "baa08615c70f3c718804593d7617bedfa91413bd",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP140_At_Work.mp4"
+  },
+  "handwriting/EP141_More_Sports": {
+   "asset": "EP141_More_Sports.mp4",
+   "dir": "EP141 More Sports",
+   "duration": 19.633333,
+   "ep": "EP141_More_Sports",
+   "mb": 4.832463,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1dae4012260536c59841e53ad0de8b497d410b89",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP141_More_Sports.mp4"
   },
   "handwriting/EP14_Weather": {
    "asset": "EP14_Weather.mp4",
