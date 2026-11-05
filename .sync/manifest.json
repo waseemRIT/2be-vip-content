@@ -1,0 +1,193 @@
+{
+ "episodes": {
+  "felt-songs/EP01 Family": {
+   "asset": "EP01_Family.mp4",
+   "dir": "EP01 Family",
+   "duration": 66.6,
+   "ep": "EP01 Family",
+   "mb": 56.032914,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "388850d3b3e068852b9a41d85a24220bfcf2d0f8",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP01_Family.mp4"
+  },
+  "felt-songs/EP02 Colours": {
+   "asset": "EP02_Colours.mp4",
+   "dir": "EP02 Colours",
+   "duration": 52.6,
+   "ep": "EP02 Colours",
+   "mb": 40.765992,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "1a0f16ae1367e107ab73167aab34c0aa373fed96",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP02_Colours.mp4"
+  },
+  "felt-songs/EP03 Numbers": {
+   "asset": "EP03_Numbers.mp4",
+   "dir": "EP03 Numbers",
+   "duration": 63.8,
+   "ep": "EP03 Numbers",
+   "mb": 61.755096,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "cae00eadf95b140b23379ea56adeda115bd3daa7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP03_Numbers.mp4"
+  },
+  "felt-songs/EP04 Days of the week": {
+   "asset": "EP04_Days_of_the_week.mp4",
+   "dir": "EP04 Days of the week",
+   "duration": 107.6,
+   "ep": "EP04 Days of the week",
+   "mb": 89.810938,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "2b20a2fb0930e1f25ca78f349db5e5e39dd4b384",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP04_Days_of_the_week.mp4"
+  },
+  "felt-songs/EP05 Months 1": {
+   "asset": "EP05_Months_1.mp4",
+   "dir": "EP05 Months 1",
+   "duration": 81.0,
+   "ep": "EP05 Months 1",
+   "mb": 43.908446,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "bae43db6b92399e4c5e1277579ba40e469f67ccd",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP05_Months_1.mp4"
+  },
+  "felt-songs/EP06 Months 2": {
+   "asset": "EP06_Months_2.mp4",
+   "dir": "EP06 Months 2",
+   "duration": 97.4,
+   "ep": "EP06 Months 2",
+   "mb": 56.448629,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "e5b0e6a9027ffe80501c97b088520d75b098bd34",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP06_Months_2.mp4"
+  },
+  "felt-songs/EP07 Feelings": {
+   "asset": "EP07_Feelings.mp4",
+   "dir": "EP07 Feelings",
+   "duration": 111.4,
+   "ep": "EP07 Feelings",
+   "mb": 54.417176,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "c13f66333c3315d14a74098db9ea72e4c316f57d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP07_Feelings.mp4"
+  },
+  "felt-songs/EP08 Body parts": {
+   "asset": "EP08_Body_parts.mp4",
+   "dir": "EP08 Body parts",
+   "duration": 91.0,
+   "ep": "EP08 Body parts",
+   "mb": 49.931875,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "6568a4964da3733cc26db6429e908b68373f22bd",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP08_Body_parts.mp4"
+  },
+  "felt-songs/EP09 My face": {
+   "asset": "EP09_My_face.mp4",
+   "dir": "EP09 My face",
+   "duration": 66.6,
+   "ep": "EP09 My face",
+   "mb": 32.896681,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "0fa34113d02afee2e404309df582cc3e9419b331",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP09_My_face.mp4"
+  },
+  "felt-songs/EP10 Farm animals": {
+   "asset": "EP10_Farm_animals.mp4",
+   "dir": "EP10 Farm animals",
+   "duration": 88.0,
+   "ep": "EP10 Farm animals",
+   "mb": 43.009517,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "41fa240e96ca66fbff4581117a31806f4a50f6bf",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP10_Farm_animals.mp4"
+  },
+  "felt-songs/EP12 Sea animals": {
+   "asset": "EP12_Sea_animals.mp4",
+   "dir": "EP12 Sea animals",
+   "duration": 100.8,
+   "ep": "EP12 Sea animals",
+   "mb": 51.156526,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "1b4d4a42d6ff46a02f0b7693c1f17d8d93662eb0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP12_Sea_animals.mp4"
+  },
+  "hamada-shadow-puppet/EP01 The Ring": {
+   "asset": "EP01_The_Ring.mp4",
+   "dir": "EP01 The Ring",
+   "duration": 67.008,
+   "ep": "EP01 The Ring",
+   "mb": 6.497988,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "e1cfd0b316dc150d97db3fbcafe2c5c4a79873a0",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP01_The_Ring.mp4"
+  }
+ },
+ "sample_src": {
+  "felt-songs": "felt-songs/EP01 Family",
+  "hamada-shadow-puppet": "hamada-shadow-puppet/EP01 The Ring"
+ },
+ "samples": {
+  "felt-songs": "sample.gif",
+  "hamada-shadow-puppet": "sample.gif"
+ },
+ "skills": {}
+}
