@@ -810,6 +810,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP33_Bathroom.mp4"
   },
+  "handwriting/EP34_Furniture": {
+   "asset": "EP34_Furniture.mp4",
+   "dir": "EP34 Furniture",
+   "duration": 18.1,
+   "ep": "EP34_Furniture",
+   "mb": 4.577808,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "9e62e7aec53a61a9fe064439b261d9954b84d9f6",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP34_Furniture.mp4"
+  },
+  "handwriting/EP35_Appliances": {
+   "asset": "EP35_Appliances.mp4",
+   "dir": "EP35 Appliances",
+   "duration": 18.6,
+   "ep": "EP35_Appliances",
+   "mb": 4.509695,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "309d0318491f0853cca1330d5efa5de7ee507335",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP35_Appliances.mp4"
+  },
+  "handwriting/EP36_Cleaning": {
+   "asset": "EP36_Cleaning.mp4",
+   "dir": "EP36 Cleaning",
+   "duration": 18.366667,
+   "ep": "EP36_Cleaning",
+   "mb": 4.363205,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "ede451c7edee51a16d1a81f9e28d9b7eedaaae3c",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP36_Cleaning.mp4"
+  },
+  "handwriting/EP37_Chores": {
+   "asset": "EP37_Chores.mp4",
+   "dir": "EP37 Chores",
+   "duration": 23.6,
+   "ep": "EP37_Chores",
+   "mb": 5.3919,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "1077d9d76d6090cb7faf51bb9630f063a40b062d",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP37_Chores.mp4"
+  },
+  "handwriting/EP38_Tools": {
+   "asset": "EP38_Tools.mp4",
+   "dir": "EP38 Tools",
+   "duration": 19.366667,
+   "ep": "EP38_Tools",
+   "mb": 4.771241,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "cef6ba0ba6a4425c0567fcb0c780368d993b0040",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP38_Tools.mp4"
+  },
+  "handwriting/EP39_Garden": {
+   "asset": "EP39_Garden.mp4",
+   "dir": "EP39 Garden",
+   "duration": 17.933333,
+   "ep": "EP39_Garden",
+   "mb": 4.51608,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "8a0cdc2a5ffa174dfdef6aab062287618bb5073a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP39_Garden.mp4"
+  },
+  "handwriting/EP40_Flowers": {
+   "asset": "EP40_Flowers.mp4",
+   "dir": "EP40 Flowers",
+   "duration": 18.8,
+   "ep": "EP40_Flowers",
+   "mb": 4.522677,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "2f86adbaaac7ee8a5ef989b1bdd4a8125e6b5343",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP40_Flowers.mp4"
+  },
+  "handwriting/EP41_Plants": {
+   "asset": "EP41_Plants.mp4",
+   "dir": "EP41 Plants",
+   "duration": 19.0,
+   "ep": "EP41_Plants",
+   "mb": 4.801962,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "94a0c1feeff5f9ff831a1495f223d172f194a2c7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP41_Plants.mp4"
+  },
+  "handwriting/EP42_Places_in_Town": {
+   "asset": "EP42_Places_in_Town.mp4",
+   "dir": "EP42 Places in Town",
+   "duration": 18.666667,
+   "ep": "EP42_Places_in_Town",
+   "mb": 4.612692,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7e25903e138316c3c2f63677952e3919d745e273",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP42_Places_in_Town.mp4"
+  },
+  "handwriting/EP43_Shops": {
+   "asset": "EP43_Shops.mp4",
+   "dir": "EP43 Shops",
+   "duration": 19.866667,
+   "ep": "EP43_Shops",
+   "mb": 4.829726,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "7bd89c7f80d91269dfd14bc384a8c060c357c40a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP43_Shops.mp4"
+  },
+  "handwriting/EP44_Supermarket": {
+   "asset": "EP44_Supermarket.mp4",
+   "dir": "EP44 Supermarket",
+   "duration": 18.666667,
+   "ep": "EP44_Supermarket",
+   "mb": 4.568352,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "aa3a03aac435ed0a09607c2924058273c452c356",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP44_Supermarket.mp4"
+  },
+  "handwriting/EP45_Bank": {
+   "asset": "EP45_Bank.mp4",
+   "dir": "EP45 Bank",
+   "duration": 18.3,
+   "ep": "EP45_Bank",
+   "mb": 4.414121,
+   "readme_v": 2,
+   "series": "handwriting",
+   "sig": [
+    3,
+    "5fd4b3382c36b7be6850a280ef3340962cb33510",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-handwriting/EP45_Bank.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
