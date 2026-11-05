@@ -9,7 +9,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="felt-songs/sample.gif" width="120"> | **[2Be Felt Songs](felt-songs/)**<br>Kids' songs in a handmade felt style that teach English words with an Egyptian Arabic song. | 11 |
 | <img src="hamada-shadow-puppet/sample.gif" width="120"> | **[Hamada — Shadow Puppet Stories](hamada-shadow-puppet/)**<br>Short emotional shadow-puppet stories about Hamada, told by an Egyptian narrator, each ending on hope through English. | 10 |
 | <img src="woven-stories/sample.gif" width="120"> | **[Woven Stories](woven-stories/)**<br>Ink-on-silk woven-thread animation: an idea told as threads weaving on a loom. | 1 |
-| <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 24 |
+| <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 25 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be with Youssef — Mistake Fixes](youssef-stick-figures/)**<br>Stick-figure family scenes (Egyptian Arabic): one common English mistake, said wrong, struck out and fixed. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 250 |
 | <img src="slideshows/sample.jpg" width="120"> | **[Slideshows](slideshows/)**<br>Swipeable carousel posts with everyday English tips, phrases and vocabulary. | 100 |
@@ -33,7 +33,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="felt-songs/sample.gif" width="120"> | **[أغاني 2Be باللباد](felt-songs/)**<br>أغاني أطفال بأسلوب اللباد المصنوع يدوياً، تعلّم كلمات إنجليزية من خلال أغنية بالعامية المصرية. | 11 |
 | <img src="hamada-shadow-puppet/sample.gif" width="120"> | **[حكايات حمادة — مسرح خيال الظل](hamada-shadow-puppet/)**<br>حكايات قصيرة مؤثرة بخيال الظل عن حمادة، يرويها راوٍ مصري، وتنتهي كل حكاية بأمل عن طريق الإنجليزي. | 10 |
 | <img src="woven-stories/sample.gif" width="120"> | **[حكايات منسوجة](woven-stories/)**<br>رسوم متحركة بخيوط منسوجة كالحبر على الحرير: فكرة تُروى بخيوط تُنسج على النول. | 1 |
-| <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 24 |
+| <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 25 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be مع يوسف — تصحيح الأخطاء](youssef-stick-figures/)**<br>مشاهد عائلية برسوم بسيطة (بالعامية المصرية): غلطة إنجليزية شائعة، تُقال غلط، ثم تُشطب وتُصحَّح. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 250 |
 | <img src="slideshows/sample.jpg" width="120"> | **[شرائح العرض](slideshows/)**<br>منشورات شرائح تُسحب بالإصبع، فيها نصائح وعبارات ومفردات إنجليزية يومية. | 100 |

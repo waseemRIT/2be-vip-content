@@ -4425,6 +4425,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP28_The_First_Family_Outing.mp4"
   },
+  "sami-family/EP29 The Attachment Nobody Found": {
+   "asset": "EP29_The_Attachment_Nobody_Found.mp4",
+   "dir": "EP29 The Attachment Nobody Found",
+   "duration": 110.2,
+   "ep": "EP29 The Attachment Nobody Found",
+   "mb": 24.869087,
+   "readme_v": 2,
+   "series": "sami-family",
+   "sig": [
+    3,
+    "2075b0b75edcce3f63afc1c4e6a34d68589f54c7",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-sami-family/EP29_The_Attachment_Nobody_Found.mp4"
+  },
   "slideshows/Episode 1 - Airport Vocabulary Slideshow": {
    "dir": "EP01 Airport Vocabulary Slideshow",
    "ep": "Episode 1 - Airport Vocabulary Slideshow",
