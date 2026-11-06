@@ -8745,6 +8745,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP46_Playtime.mp4"
   },
+  "papiermache-reels/EP47_Kitchen_Tools": {
+   "asset": "EP47_Kitchen_Tools.mp4",
+   "dir": "EP47 Kitchen Tools",
+   "duration": 28.566667,
+   "ep": "EP47_Kitchen_Tools",
+   "mb": 5.174616,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "38c3f44aff4f70fd92af049aef674f755cfd4c57",
+    "89fb39e1a78f59c03637014f678c3f7feba57f06"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP47_Kitchen_Tools.mp4"
+  },
   "papiermache-reels/EP48_Kitchen_Machines": {
    "asset": "EP48_Kitchen_Machines.mp4",
    "dir": "EP48 Kitchen Machines",
@@ -8759,6 +8774,21 @@
     "86a23ed24fa5e6b93440ee1fd1b8d9b253d3f981"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP48_Kitchen_Machines.mp4"
+  },
+  "papiermache-reels/EP49_Nature": {
+   "asset": "EP49_Nature.mp4",
+   "dir": "EP49 Nature",
+   "duration": 28.566667,
+   "ep": "EP49_Nature",
+   "mb": 5.471868,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "57a6779fd83d95852473112a7ec32a3c5d1557c0",
+    "ddc6fe400b05b15cfd3e5a44cfa4ea238b4eeb42"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP49_Nature.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
