@@ -7635,6 +7635,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP39_Emergency_Vehicles.mp4"
   },
+  "origami-reels/EP40_Warm_Clothes": {
+   "asset": "EP40_Warm_Clothes.mp4",
+   "dir": "EP40 Warm Clothes",
+   "duration": 28.6,
+   "ep": "EP40_Warm_Clothes",
+   "mb": 4.235565,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "5fb09a493d6f5f10c40a9926c0fd82e8e31a1fd6",
+    "9a31cac3e6f44887617ae4fda8396c093e48b4e9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP40_Warm_Clothes.mp4"
+  },
+  "origami-reels/EP41_Shoes": {
+   "asset": "EP41_Shoes.mp4",
+   "dir": "EP41 Shoes",
+   "duration": 28.6,
+   "ep": "EP41_Shoes",
+   "mb": 3.803849,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "b2676e9c26dda67e0a09639d77f9e82699416f37",
+    "e2fcc37406361fa6356746599027d0b78772d092"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP41_Shoes.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
