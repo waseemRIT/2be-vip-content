@@ -5145,6 +5145,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP15_School_Bag.mp4"
   },
+  "lowpoly-reels/EP16_Clothes": {
+   "asset": "EP16_Clothes.mp4",
+   "dir": "EP16 Clothes",
+   "duration": 28.6,
+   "ep": "EP16_Clothes",
+   "mb": 3.483262,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "74f3f623c64124e8c58315e33827a0496aa03594",
+    "2eb75fdece705d5520131fb76b3221e17feed683"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP16_Clothes.mp4"
+  },
+  "lowpoly-reels/EP17_My_Body": {
+   "asset": "EP17_My_Body.mp4",
+   "dir": "EP17 My Body",
+   "duration": 28.6,
+   "ep": "EP17_My_Body",
+   "mb": 3.538219,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "f418d0964e628ca77a25d6e201b0b8fd9baab438",
+    "46e57ea5adcf3ad030aabe05553cbd2e376faa4e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP17_My_Body.mp4"
+  },
+  "lowpoly-reels/EP18_In_the_Sky": {
+   "asset": "EP18_In_the_Sky.mp4",
+   "dir": "EP18 In the Sky",
+   "duration": 28.6,
+   "ep": "EP18_In_the_Sky",
+   "mb": 3.552596,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "c6c1ced7a8d9a03b7d2a35418969003f8955412c",
+    "83b6b22fe2c73c5d526939209783d8ae1a02ef88"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP18_In_the_Sky.mp4"
+  },
+  "lowpoly-reels/EP19_Breakfast": {
+   "asset": "EP19_Breakfast.mp4",
+   "dir": "EP19 Breakfast",
+   "duration": 28.6,
+   "ep": "EP19_Breakfast",
+   "mb": 2.998243,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "17449c4b2e8edda19d18a37a5bc56033a713543e",
+    "b919277d1ec3696c3ff3911fd4ac1488d6395ce4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP19_Breakfast.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
@@ -5339,6 +5399,51 @@
     "50a7dd4f5aa5bb1ce89b6cd4c551aa0eef8c3d36"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP13_Music.mp4"
+  },
+  "marionette-reels/EP14_Bath_Time": {
+   "asset": "EP14_Bath_Time.mp4",
+   "dir": "EP14 Bath Time",
+   "duration": 28.6,
+   "ep": "EP14_Bath_Time",
+   "mb": 6.983367,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "a45b9953fffad823c9f10dccd354946f09371f4f",
+    "11e1736e9d7dad93b3465fca43970388fdee3a95"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP14_Bath_Time.mp4"
+  },
+  "marionette-reels/EP15_Kitchen": {
+   "asset": "EP15_Kitchen.mp4",
+   "dir": "EP15 Kitchen",
+   "duration": 28.6,
+   "ep": "EP15_Kitchen",
+   "mb": 6.928913,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "afd22cf0107a966d48c9232bb638e92bdd41b824",
+    "dcd686c316cd140147e7a475cd8f5d5d1976a306"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP15_Kitchen.mp4"
+  },
+  "marionette-reels/EP16_Garden": {
+   "asset": "EP16_Garden.mp4",
+   "dir": "EP16 Garden",
+   "duration": 28.6,
+   "ep": "EP16_Garden",
+   "mb": 6.75908,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "a120de0ee2887419ab71f12002ff5adcce9cbe0d",
+    "c0f6e05194cce92198fa362653242e26503591cf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP16_Garden.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
