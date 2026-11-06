@@ -6615,6 +6615,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP39_Kitchen_Machines.mp4"
   },
+  "lowpoly-reels/EP40_Fast_Food": {
+   "asset": "EP40_Fast_Food.mp4",
+   "dir": "EP40 Fast Food",
+   "duration": 28.6,
+   "ep": "EP40_Fast_Food",
+   "mb": 4.263896,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "65a327eca5f77694cc4e38a33e7a991564ce3c50",
+    "519411af5389ca96d17ca6bbe1e8b80ca287fde3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP40_Fast_Food.mp4"
+  },
+  "lowpoly-reels/EP41_Tropical_Fruits": {
+   "asset": "EP41_Tropical_Fruits.mp4",
+   "dir": "EP41 Tropical Fruits",
+   "duration": 28.6,
+   "ep": "EP41_Tropical_Fruits",
+   "mb": 3.173232,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "8765a11ef4a9fb33bfe2cc0b11c6fe445d10a504",
+    "f3a0371ba60aa7deeab0ca112dfe195d03301c64"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP41_Tropical_Fruits.mp4"
+  },
+  "lowpoly-reels/EP42_Health": {
+   "asset": "EP42_Health.mp4",
+   "dir": "EP42 Health",
+   "duration": 28.6,
+   "ep": "EP42_Health",
+   "mb": 3.641295,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "768c986c5bc84077cc5abea01555d8879dbdbcec",
+    "3a10dcfa86c52963f87a3b359e946656558fd145"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP42_Health.mp4"
+  },
+  "lowpoly-reels/EP43_Stormy_Day": {
+   "asset": "EP43_Stormy_Day.mp4",
+   "dir": "EP43 Stormy Day",
+   "duration": 28.6,
+   "ep": "EP43_Stormy_Day",
+   "mb": 4.661064,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "89d5bccc449e26e16f6a42084d6b2d9e2fbde40d",
+    "16d767e99cd8e87e7a302494ba0ca2c0d5315c61"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP43_Stormy_Day.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
@@ -7169,6 +7229,96 @@
     "ad4bef63b9a4d9579808008bc47de1715ba5b272"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP37_Sports_Day.mp4"
+  },
+  "marionette-reels/EP38_Picnic": {
+   "asset": "EP38_Picnic.mp4",
+   "dir": "EP38 Picnic",
+   "duration": 28.6,
+   "ep": "EP38_Picnic",
+   "mb": 8.181284,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "5980f464805d605e74faffa5475012383da08c43",
+    "b457691bad1199c5ac2556834852f90f5600c215"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP38_Picnic.mp4"
+  },
+  "marionette-reels/EP39_Sounds_We_Make": {
+   "asset": "EP39_Sounds_We_Make.mp4",
+   "dir": "EP39 Sounds We Make",
+   "duration": 28.6,
+   "ep": "EP39_Sounds_We_Make",
+   "mb": 6.680765,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "5f3ac051b673fce44103d5f8aa01dd2f1e0b68ae",
+    "60dfc813bdf6337dd29f21837dff395724f62518"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP39_Sounds_We_Make.mp4"
+  },
+  "marionette-reels/EP40_Animal_Moves": {
+   "asset": "EP40_Animal_Moves.mp4",
+   "dir": "EP40 Animal Moves",
+   "duration": 28.6,
+   "ep": "EP40_Animal_Moves",
+   "mb": 7.641939,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "6b22dac2da919b9a3117e8ad1ca2ff662face673",
+    "a7694b102ac141767fd424d533fc10f9f5938758"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP40_Animal_Moves.mp4"
+  },
+  "marionette-reels/EP41_Cooking_Time": {
+   "asset": "EP41_Cooking_Time.mp4",
+   "dir": "EP41 Cooking Time",
+   "duration": 28.6,
+   "ep": "EP41_Cooking_Time",
+   "mb": 7.866528,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "b59a4ddc01a2eb989dbd4807e2c945500ad3dd1e",
+    "3932a43a885e19cb52143b623984c1f1f7217e27"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP41_Cooking_Time.mp4"
+  },
+  "marionette-reels/EP42_Cleaning_Day": {
+   "asset": "EP42_Cleaning_Day.mp4",
+   "dir": "EP42 Cleaning Day",
+   "duration": 28.6,
+   "ep": "EP42_Cleaning_Day",
+   "mb": 7.449877,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "4c931b199f6cbd1813edabf81106dad9d03dc49f",
+    "0366ce5bb2607df96b65d3131c26ebb69203dd9b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP42_Cleaning_Day.mp4"
+  },
+  "marionette-reels/EP43_Hobbies": {
+   "asset": "EP43_Hobbies.mp4",
+   "dir": "EP43 Hobbies",
+   "duration": 28.6,
+   "ep": "EP43_Hobbies",
+   "mb": 7.620656,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "b10b78344bf5d8c3a9e2efbafc48f758914eb67c",
+    "03a9e45ff2e4bcb3d38e4c9bae5457692dc040f3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP43_Hobbies.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
