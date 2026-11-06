@@ -6825,6 +6825,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP28_Arts_and_Crafts.mp4"
   },
+  "papiermache-reels/EP29_Wild_Animals": {
+   "asset": "EP29_Wild_Animals.mp4",
+   "dir": "EP29 Wild Animals",
+   "duration": 28.566667,
+   "ep": "EP29_Wild_Animals",
+   "mb": 5.622747,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "6fa534c7cfc3fbb67f8e0d371565b445eca86672",
+    "907f3ec7e4f695ab575a9c463cadd4db744b2b2f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP29_Wild_Animals.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
