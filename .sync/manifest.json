@@ -7065,6 +7065,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP31_Beautiful_Birds.mp4"
   },
+  "origami-reels/EP32_Little_Creatures": {
+   "asset": "EP32_Little_Creatures.mp4",
+   "dir": "EP32 Little Creatures",
+   "duration": 28.6,
+   "ep": "EP32_Little_Creatures",
+   "mb": 4.279615,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "0cd0b6bd6392ffefdeb5abae96ac878de6e7f5c1",
+    "b1c29ac4ef53fa6d25af978803c5d0ded8f530bb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP32_Little_Creatures.mp4"
+  },
+  "origami-reels/EP33_Stormy_Weather": {
+   "asset": "EP33_Stormy_Weather.mp4",
+   "dir": "EP33 Stormy Weather",
+   "duration": 28.6,
+   "ep": "EP33_Stormy_Weather",
+   "mb": 4.991343,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "4fb9f82d9bcbe4b86d381bb0f3f7ba8e5ecfa372",
+    "5729aa56303a4bf6e957bf9afb18405d235c3ba9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",

@@ -1,0 +1,49 @@
+# EP33 — Stormy Weather
+
+Part of **[Origami Reels](../README.md)**.
+
+[![Stormy Weather](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4)
+
+▶️ **[Watch / download the video](https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4)** (0:29, 5 MB)
+
+## Caption
+
+```text
+Stormy Weather | طقس عاصف — 5 English words 🎨
+Wind = رياح · Lightning = برق · Snowflake = ندفة ثلج · Umbrella = مظلة · Puddle = بركة ماء
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Funin and Sunin" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+---
+
+<div dir="rtl">
+
+# الحلقة 33 — Stormy Weather
+
+جزء من **[ريلز الأوريغامي](../README.md)**.
+
+[![Stormy Weather](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4)
+
+▶️ **[شاهد / حمّل الفيديو](https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4)** (0:29، 5 ميجابايت)
+
+## الكابشن
+
+```text
+Stormy Weather | طقس عاصف — 5 English words 🎨
+Wind = رياح · Lightning = برق · Snowflake = ندفة ثلج · Umbrella = مظلة · Puddle = بركة ماء
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Funin and Sunin" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+</div>
