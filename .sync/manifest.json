@@ -8100,6 +8100,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP39_More_Fruits.mp4"
   },
+  "papiermache-reels/EP40_Nuts_and_Snacks": {
+   "asset": "EP40_Nuts_and_Snacks.mp4",
+   "dir": "EP40 Nuts and Snacks",
+   "duration": 28.566667,
+   "ep": "EP40_Nuts_and_Snacks",
+   "mb": 5.955385,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "b9c5a5e861c87880fafc1e15a5e257f353d66a6a",
+    "da65f14eddc7d5ba24406d5c430c120a7e320029"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP40_Nuts_and_Snacks.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
