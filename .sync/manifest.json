@@ -6210,6 +6210,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP43_Laundry.mp4"
   },
+  "knitted-reels/EP44_Everyday_Clothes": {
+   "asset": "EP44_Everyday_Clothes.mp4",
+   "dir": "EP44 Everyday Clothes",
+   "duration": 28.566667,
+   "ep": "EP44_Everyday_Clothes",
+   "mb": 9.493484,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bdb36ffa16052f10c0be2ea50d9e1b667edd5eba",
+    "b4b864a55d776c4a5c15a1a7adfce14b4fa7cedb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP44_Everyday_Clothes.mp4"
+  },
+  "knitted-reels/EP45_Sportswear": {
+   "asset": "EP45_Sportswear.mp4",
+   "dir": "EP45 Sportswear",
+   "duration": 28.566667,
+   "ep": "EP45_Sportswear",
+   "mb": 8.746112,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "33279748e792511338ee69435faba8712548804e",
+    "bc817ea8a678b25d2cee9f2378794194efaf56a1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP45_Sportswear.mp4"
+  },
+  "knitted-reels/EP46_Sports": {
+   "asset": "EP46_Sports.mp4",
+   "dir": "EP46 Sports",
+   "duration": 28.566667,
+   "ep": "EP46_Sports",
+   "mb": 8.666959,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "fa5bf28ae99075fa67dc5a819216580389074c94",
+    "4b68ecba1ea9ef781ea167238aeed834ecdebbea"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP46_Sports.mp4"
+  },
+  "knitted-reels/EP47_Vehicles": {
+   "asset": "EP47_Vehicles.mp4",
+   "dir": "EP47 Vehicles",
+   "duration": 28.566667,
+   "ep": "EP47_Vehicles",
+   "mb": 9.519462,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "9708f6a0f7e538f13ed7e73b94e95cc1308981c2",
+    "b2dfd14e8cdd8c17836a6eca2986dd9b94ebdbe3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP47_Vehicles.mp4"
+  },
+  "knitted-reels/EP48_Shapes": {
+   "asset": "EP48_Shapes.mp4",
+   "dir": "EP48 Shapes",
+   "duration": 28.566667,
+   "ep": "EP48_Shapes",
+   "mb": 9.494907,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "37dcd556e7e8b390314b80efd1c1294b1513218a",
+    "ddfbdb1e93fe79707672a6f025d8c79f8f83b183"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP48_Shapes.mp4"
+  },
+  "knitted-reels/EP49_Lunch": {
+   "asset": "EP49_Lunch.mp4",
+   "dir": "EP49 Lunch",
+   "duration": 28.566667,
+   "ep": "EP49_Lunch",
+   "mb": 9.174045,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "e78e6624e7317e72e09ff3002d148c6c269fc72b",
+    "b86e7845575a011bed8d88986ca4ddcabc74e80d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP49_Lunch.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -8174,6 +8264,66 @@
     "23f4bb67d73e13f83eab384318721beede16cf53"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP45_Flat_Shapes.mp4"
+  },
+  "origami-reels/EP46_Desert": {
+   "asset": "EP46_Desert.mp4",
+   "dir": "EP46 Desert",
+   "duration": 28.6,
+   "ep": "EP46_Desert",
+   "mb": 3.806341,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "c0c0b946bdeb48545d7214021ea8d88de1ce7536",
+    "c22eea6032f330c48f5069eda77f347fad041f75"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP46_Desert.mp4"
+  },
+  "origami-reels/EP47_Reptiles": {
+   "asset": "EP47_Reptiles.mp4",
+   "dir": "EP47 Reptiles",
+   "duration": 28.6,
+   "ep": "EP47_Reptiles",
+   "mb": 3.959334,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "a92d6576fd0ab0fc1d40470fcea9117068133f4a",
+    "6ff6c2d8c1f6fe42e22f3b22862a521a9326d6a4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP47_Reptiles.mp4"
+  },
+  "origami-reels/EP48_Sports": {
+   "asset": "EP48_Sports.mp4",
+   "dir": "EP48 Sports",
+   "duration": 28.6,
+   "ep": "EP48_Sports",
+   "mb": 4.127059,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "1badde73801620378a4d9d6b143b5333e82bbaac",
+    "94dc35a71c2baba4ca15756bbcb43c7b3ae5d0e0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP48_Sports.mp4"
+  },
+  "origami-reels/EP49_Tools": {
+   "asset": "EP49_Tools.mp4",
+   "dir": "EP49 Tools",
+   "duration": 28.6,
+   "ep": "EP49_Tools",
+   "mb": 3.723326,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "faf29010ae2f58fc4dbc63fee57be7d8674a9777",
+    "1180907c6699dd804e6a8169654df1d0034a0adb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP49_Tools.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
