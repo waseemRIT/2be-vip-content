@@ -600,6 +600,51 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP40_Vegetable_Stall.mp4"
   },
+  "cardboard-reels/EP41_Job_Tools": {
+   "asset": "EP41_Job_Tools.mp4",
+   "dir": "EP41 Job Tools",
+   "duration": 28.566667,
+   "ep": "EP41_Job_Tools",
+   "mb": 8.05616,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "6ff4198e2e3d2e28ce1b4d29de46505ba8e67936",
+    "04d6d773ca2e098eccf1d18fdd84430dd40f1e82"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP41_Job_Tools.mp4"
+  },
+  "cardboard-reels/EP42_On_the_Plane": {
+   "asset": "EP42_On_the_Plane.mp4",
+   "dir": "EP42 On the Plane",
+   "duration": 28.566667,
+   "ep": "EP42_On_the_Plane",
+   "mb": 8.328352,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "6bebc00e2a181973160fb4ec4ce436a9a4ffefa3",
+    "8d98d89491620231789625c5fe27308857a397ad"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP42_On_the_Plane.mp4"
+  },
+  "cardboard-reels/EP43_At_the_Hotel": {
+   "asset": "EP43_At_the_Hotel.mp4",
+   "dir": "EP43 At the Hotel",
+   "duration": 28.566667,
+   "ep": "EP43_At_the_Hotel",
+   "mb": 7.960409,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "f9282a5f4d58cefbea87b2d9f435af2b4646488e",
+    "6cc8c584d4eff2e2feaf0c6cf8649876bed98f63"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP43_At_the_Hotel.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
