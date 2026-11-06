@@ -4,11 +4,13 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**7 posts.** Click a thumbnail to open the post (video, caption and download link).
+**13 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Actions/"><img src="EP01%20Actions/thumbnail.jpg" width="160"><br><sub>EP01 · Actions</sub></a></td><td align="center" valign="top"><a href="EP02%20Morning/"><img src="EP02%20Morning/thumbnail.jpg" width="160"><br><sub>EP02 · Morning</sub></a></td><td align="center" valign="top"><a href="EP03%20Mealtime/"><img src="EP03%20Mealtime/thumbnail.jpg" width="160"><br><sub>EP03 · Mealtime</sub></a></td><td align="center" valign="top"><a href="EP04%20Bedtime/"><img src="EP04%20Bedtime/thumbnail.jpg" width="160"><br><sub>EP04 · Bedtime</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP05%20Feelings/"><img src="EP05%20Feelings/thumbnail.jpg" width="160"><br><sub>EP05 · Feelings</sub></a></td><td align="center" valign="top"><a href="EP06%20Playground/"><img src="EP06%20Playground/thumbnail.jpg" width="160"><br><sub>EP06 · Playground</sub></a></td><td align="center" valign="top"><a href="EP07%20Ball%20Games/"><img src="EP07%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>EP07 · Ball Games</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP05%20Feelings/"><img src="EP05%20Feelings/thumbnail.jpg" width="160"><br><sub>EP05 · Feelings</sub></a></td><td align="center" valign="top"><a href="EP06%20Playground/"><img src="EP06%20Playground/thumbnail.jpg" width="160"><br><sub>EP06 · Playground</sub></a></td><td align="center" valign="top"><a href="EP07%20Ball%20Games/"><img src="EP07%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>EP07 · Ball Games</sub></a></td><td align="center" valign="top"><a href="EP08%20Housework/"><img src="EP08%20Housework/thumbnail.jpg" width="160"><br><sub>EP08 · Housework</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP09%20Moving%20Around/"><img src="EP09%20Moving%20Around/thumbnail.jpg" width="160"><br><sub>EP09 · Moving Around</sub></a></td><td align="center" valign="top"><a href="EP10%20Open%20and%20Close/"><img src="EP10%20Open%20and%20Close/thumbnail.jpg" width="160"><br><sub>EP10 · Open and Close</sub></a></td><td align="center" valign="top"><a href="EP11%20School/"><img src="EP11%20School/thumbnail.jpg" width="160"><br><sub>EP11 · School</sub></a></td><td align="center" valign="top"><a href="EP12%20Sports/"><img src="EP12%20Sports/thumbnail.jpg" width="160"><br><sub>EP12 · Sports</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP13%20Music/"><img src="EP13%20Music/thumbnail.jpg" width="160"><br><sub>EP13 · Music</sub></a></td></tr>
 </table>
 
 ---
@@ -21,11 +23,13 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**7 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**13 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Actions/"><img src="EP01%20Actions/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Actions</sub></a></td><td align="center" valign="top"><a href="EP02%20Morning/"><img src="EP02%20Morning/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Morning</sub></a></td><td align="center" valign="top"><a href="EP03%20Mealtime/"><img src="EP03%20Mealtime/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Mealtime</sub></a></td><td align="center" valign="top"><a href="EP04%20Bedtime/"><img src="EP04%20Bedtime/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Bedtime</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP05%20Feelings/"><img src="EP05%20Feelings/thumbnail.jpg" width="160"><br><sub>الحلقة 05 · Feelings</sub></a></td><td align="center" valign="top"><a href="EP06%20Playground/"><img src="EP06%20Playground/thumbnail.jpg" width="160"><br><sub>الحلقة 06 · Playground</sub></a></td><td align="center" valign="top"><a href="EP07%20Ball%20Games/"><img src="EP07%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>الحلقة 07 · Ball Games</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP05%20Feelings/"><img src="EP05%20Feelings/thumbnail.jpg" width="160"><br><sub>الحلقة 05 · Feelings</sub></a></td><td align="center" valign="top"><a href="EP06%20Playground/"><img src="EP06%20Playground/thumbnail.jpg" width="160"><br><sub>الحلقة 06 · Playground</sub></a></td><td align="center" valign="top"><a href="EP07%20Ball%20Games/"><img src="EP07%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>الحلقة 07 · Ball Games</sub></a></td><td align="center" valign="top"><a href="EP08%20Housework/"><img src="EP08%20Housework/thumbnail.jpg" width="160"><br><sub>الحلقة 08 · Housework</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP09%20Moving%20Around/"><img src="EP09%20Moving%20Around/thumbnail.jpg" width="160"><br><sub>الحلقة 09 · Moving Around</sub></a></td><td align="center" valign="top"><a href="EP10%20Open%20and%20Close/"><img src="EP10%20Open%20and%20Close/thumbnail.jpg" width="160"><br><sub>الحلقة 10 · Open and Close</sub></a></td><td align="center" valign="top"><a href="EP11%20School/"><img src="EP11%20School/thumbnail.jpg" width="160"><br><sub>الحلقة 11 · School</sub></a></td><td align="center" valign="top"><a href="EP12%20Sports/"><img src="EP12%20Sports/thumbnail.jpg" width="160"><br><sub>الحلقة 12 · Sports</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP13%20Music/"><img src="EP13%20Music/thumbnail.jpg" width="160"><br><sub>الحلقة 13 · Music</sub></a></td></tr>
 </table>
 
 </div>

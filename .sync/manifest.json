@@ -195,6 +195,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP13_The_Mountain.mp4"
   },
+  "cardboard-reels/EP14_At_the_Airport": {
+   "asset": "EP14_At_the_Airport.mp4",
+   "dir": "EP14 At the Airport",
+   "duration": 28.566667,
+   "ep": "EP14_At_the_Airport",
+   "mb": 7.650798,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "2d2214c93c7ac8ee2fc779cf90ce3e59f2f532d2",
+    "28c279a802902566898b30e35208fd0bdcea0c0c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP14_At_the_Airport.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -4949,6 +4964,96 @@
     "4a1313e0c0abd92844c73d72a6fb64149432f2a6"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP07_Ball_Games.mp4"
+  },
+  "marionette-reels/EP08_Housework": {
+   "asset": "EP08_Housework.mp4",
+   "dir": "EP08 Housework",
+   "duration": 28.6,
+   "ep": "EP08_Housework",
+   "mb": 6.657861,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "11784b687d387465b3917ef5c500eed5b1247101",
+    "b8aec436d965b4973bc6a22ff72527206f1c39f8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP08_Housework.mp4"
+  },
+  "marionette-reels/EP09_Moving_Around": {
+   "asset": "EP09_Moving_Around.mp4",
+   "dir": "EP09 Moving Around",
+   "duration": 28.6,
+   "ep": "EP09_Moving_Around",
+   "mb": 6.65322,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "51177c2885dab62e7b6edd950be9ca01564b3a08",
+    "ce14289ca2af5362c6fef0ef99d06e701689f856"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP09_Moving_Around.mp4"
+  },
+  "marionette-reels/EP10_Open_and_Close": {
+   "asset": "EP10_Open_and_Close.mp4",
+   "dir": "EP10 Open and Close",
+   "duration": 28.6,
+   "ep": "EP10_Open_and_Close",
+   "mb": 6.638211,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "811871fcbb3c5d0a6e070c9f39826449f1645378",
+    "abdbacf81013c47694a7ffbb39ec5f7748c5ad81"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP10_Open_and_Close.mp4"
+  },
+  "marionette-reels/EP11_School": {
+   "asset": "EP11_School.mp4",
+   "dir": "EP11 School",
+   "duration": 28.6,
+   "ep": "EP11_School",
+   "mb": 6.6066,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "4fc7716de493b36a8ce4de9140f3867c2009ee57",
+    "1dd7085ba4a5f5c141014602ae9325bdd6b2f186"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP11_School.mp4"
+  },
+  "marionette-reels/EP12_Sports": {
+   "asset": "EP12_Sports.mp4",
+   "dir": "EP12 Sports",
+   "duration": 28.6,
+   "ep": "EP12_Sports",
+   "mb": 6.943501,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "0c33d8abc96b6696546307b0de42cb772c6ea948",
+    "079476e2e323bcae622ba00c02e88c196e696b63"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP12_Sports.mp4"
+  },
+  "marionette-reels/EP13_Music": {
+   "asset": "EP13_Music.mp4",
+   "dir": "EP13 Music",
+   "duration": 28.6,
+   "ep": "EP13_Music",
+   "mb": 6.728395,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "7096f15443d44bfa0fe74ca5bac4cd50ad7db719",
+    "50a7dd4f5aa5bb1ce89b6cd4c551aa0eef8c3d36"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP13_Music.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
