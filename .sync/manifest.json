@@ -570,6 +570,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP38_Clothes_Shop.mp4"
   },
+  "cardboard-reels/EP39_Bakery_Shelf": {
+   "asset": "EP39_Bakery_Shelf.mp4",
+   "dir": "EP39 Bakery Shelf",
+   "duration": 28.566667,
+   "ep": "EP39_Bakery_Shelf",
+   "mb": 8.26901,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "3cf56e774e052a98b620d91b4ac1235a22cd1d36",
+    "9923a5f9b7cbf3bb99780e7a1a956235f5a2cee7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP39_Bakery_Shelf.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
