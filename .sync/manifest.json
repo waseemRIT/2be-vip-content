@@ -480,6 +480,81 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP32_Garden_Tools.mp4"
   },
+  "cardboard-reels/EP33_Space": {
+   "asset": "EP33_Space.mp4",
+   "dir": "EP33 Space",
+   "duration": 28.566667,
+   "ep": "EP33_Space",
+   "mb": 8.620048,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "ff28087903ed0d77c53a58253212a0f56f9cefc1",
+    "a68b261289004c9e1915572add5a615deb1456f8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP33_Space.mp4"
+  },
+  "cardboard-reels/EP34_Birds": {
+   "asset": "EP34_Birds.mp4",
+   "dir": "EP34 Birds",
+   "duration": 28.566667,
+   "ep": "EP34_Birds",
+   "mb": 7.303506,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "8913a98e722c7d343c3604e484e27e0efa68e6cd",
+    "7dd82673a11f5ad84f3852243d1f9625d8a3d32f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP34_Birds.mp4"
+  },
+  "cardboard-reels/EP35_Sea_Animals": {
+   "asset": "EP35_Sea_Animals.mp4",
+   "dir": "EP35 Sea Animals",
+   "duration": 28.566667,
+   "ep": "EP35_Sea_Animals",
+   "mb": 7.746926,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "a6761392f1695615771ef855a2b3ca7900e64796",
+    "aebd645440bfccf136df4ade01bf1d5e102e474c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP35_Sea_Animals.mp4"
+  },
+  "cardboard-reels/EP36_Desert_Animals": {
+   "asset": "EP36_Desert_Animals.mp4",
+   "dir": "EP36 Desert Animals",
+   "duration": 28.566667,
+   "ep": "EP36_Desert_Animals",
+   "mb": 7.167355,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "b083699837b57514b03a36e61e7e30ee22e76201",
+    "5c5f7f832b2d840907dc8daf06b3e46fc7c7ce44"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP36_Desert_Animals.mp4"
+  },
+  "cardboard-reels/EP37_Toy_Shop": {
+   "asset": "EP37_Toy_Shop.mp4",
+   "dir": "EP37 Toy Shop",
+   "duration": 28.566667,
+   "ep": "EP37_Toy_Shop",
+   "mb": 7.96999,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "d0a2e47741de81fde4049980b383edc2da3e32bb",
+    "f8ca7f06803f6c15fcbd137f2ac82f7d72707cca"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP37_Toy_Shop.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -7334,6 +7409,66 @@
     "489b4bb2906a3afd8e3497315b1f609d6954a81d"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP31_Drinks.mp4"
+  },
+  "papiermache-reels/EP32_Hats_and_Caps": {
+   "asset": "EP32_Hats_and_Caps.mp4",
+   "dir": "EP32 Hats and Caps",
+   "duration": 28.566667,
+   "ep": "EP32_Hats_and_Caps",
+   "mb": 5.841218,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "84934878d470cbc3d7495c320c1e558c18a27661",
+    "d4c1af20c33fad59adaa38041924e1435fdf9f54"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP32_Hats_and_Caps.mp4"
+  },
+  "papiermache-reels/EP33_Bakery": {
+   "asset": "EP33_Bakery.mp4",
+   "dir": "EP33 Bakery",
+   "duration": 28.566667,
+   "ep": "EP33_Bakery",
+   "mb": 5.618986,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "df6a28c82ef1fda05c724f3c3ecf11c6a7d1b893",
+    "0cfa2e0570ac58e9bd201c83df3623a5f150129b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP33_Bakery.mp4"
+  },
+  "papiermache-reels/EP34_Living_Room": {
+   "asset": "EP34_Living_Room.mp4",
+   "dir": "EP34 Living Room",
+   "duration": 28.566667,
+   "ep": "EP34_Living_Room",
+   "mb": 5.688238,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "636f18b174ba975e5f2a9ca6e6b57aca80311e1a",
+    "da3327954e17a9fc3d9ded100422281285fb0c09"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP34_Living_Room.mp4"
+  },
+  "papiermache-reels/EP35_Bedroom": {
+   "asset": "EP35_Bedroom.mp4",
+   "dir": "EP35 Bedroom",
+   "duration": 28.566667,
+   "ep": "EP35_Bedroom",
+   "mb": 5.88196,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "abad267a6ae54973ec77baca3ac4ae54481c7a4a",
+    "e22b0dad61e9be509c3d1010d5e4dbf5f5b792ba"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP35_Bedroom.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
