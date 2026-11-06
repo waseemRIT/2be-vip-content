@@ -5865,6 +5865,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP27_Bathroom.mp4"
   },
+  "lowpoly-reels/EP28_Desert": {
+   "asset": "EP28_Desert.mp4",
+   "dir": "EP28 Desert",
+   "duration": 28.6,
+   "ep": "EP28_Desert",
+   "mb": 3.333535,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "4da452960a96af7d301f034631e8bb142bb43221",
+    "2a2a1cfe73e2a42c9c2eeb27ef05742baf703707"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP28_Desert.mp4"
+  },
+  "lowpoly-reels/EP29_Mountains": {
+   "asset": "EP29_Mountains.mp4",
+   "dir": "EP29 Mountains",
+   "duration": 28.6,
+   "ep": "EP29_Mountains",
+   "mb": 2.833586,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "62db9a4a7f0165ad7bec093f2e5629b80fb8ad43",
+    "90a41f87f4a8f46f4b4d3203bf1e5bc4393d98d0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP29_Mountains.mp4"
+  },
+  "lowpoly-reels/EP30_Precious_Gems": {
+   "asset": "EP30_Precious_Gems.mp4",
+   "dir": "EP30 Precious Gems",
+   "duration": 28.6,
+   "ep": "EP30_Precious_Gems",
+   "mb": 4.407694,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "d954cd0e720a108cf2ab065ec31c618136932c19",
+    "a7b5a5f2da3d083ffbe2bc45ccc9fa08a5a63c68"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP30_Precious_Gems.mp4"
+  },
+  "lowpoly-reels/EP31_By_the_Sea": {
+   "asset": "EP31_By_the_Sea.mp4",
+   "dir": "EP31 By the Sea",
+   "duration": 28.6,
+   "ep": "EP31_By_the_Sea",
+   "mb": 4.177308,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "4f40d66703ac3b44a16231cf31e37855a7eddf76",
+    "f680d09137671f9f6599afb7263ae70b622b1df7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP31_By_the_Sea.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
@@ -6239,6 +6299,96 @@
     "698eef4895d4feece2c8d8ae03838634d542fe30"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4"
+  },
+  "marionette-reels/EP26_Celebrations": {
+   "asset": "EP26_Celebrations.mp4",
+   "dir": "EP26 Celebrations",
+   "duration": 28.6,
+   "ep": "EP26_Celebrations",
+   "mb": 7.067909,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "4511d9dd41a63334275e68f2dcb7409f3a2971fb",
+    "28c6d7d34832a5316951db2b3b1c98aa1cc8ed47"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP26_Celebrations.mp4"
+  },
+  "marionette-reels/EP27_Weather": {
+   "asset": "EP27_Weather.mp4",
+   "dir": "EP27 Weather",
+   "duration": 28.6,
+   "ep": "EP27_Weather",
+   "mb": 7.773688,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "c2781f4da9052443d9dfdd465115257469f04d0e",
+    "d4d74ee2b51af082240cd20dc1c8df10ef9908fa"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP27_Weather.mp4"
+  },
+  "marionette-reels/EP28_Health": {
+   "asset": "EP28_Health.mp4",
+   "dir": "EP28 Health",
+   "duration": 28.6,
+   "ep": "EP28_Health",
+   "mb": 6.241992,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "5fec95c75b4630579d16c8cd908a4894266fc406",
+    "31cdfd3de787b937cf8d1adcabfcf1ef7c156fb7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP28_Health.mp4"
+  },
+  "marionette-reels/EP29_Circus": {
+   "asset": "EP29_Circus.mp4",
+   "dir": "EP29 Circus",
+   "duration": 28.6,
+   "ep": "EP29_Circus",
+   "mb": 6.883761,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "b345dc6e3017af8496b899cec073c29e786970de",
+    "c9aeebe45b1099005575c5877b5f58808d5863e8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP29_Circus.mp4"
+  },
+  "marionette-reels/EP30_Winter": {
+   "asset": "EP30_Winter.mp4",
+   "dir": "EP30 Winter",
+   "duration": 28.6,
+   "ep": "EP30_Winter",
+   "mb": 7.337608,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "0ee440b8dd9b777908eea73a9c373dabe5c5b7b8",
+    "07a3003197d3347afe0cc7b5179a7658860afff1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP30_Winter.mp4"
+  },
+  "marionette-reels/EP31_Getting_Dressed": {
+   "asset": "EP31_Getting_Dressed.mp4",
+   "dir": "EP31 Getting Dressed",
+   "duration": 28.6,
+   "ep": "EP31_Getting_Dressed",
+   "mb": 5.837634,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "9553f7455981070fc1267828eacfb60bb9ee4168",
+    "64e4c4bf3144e277c4d2ec55b1df3d39611da9d0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP31_Getting_Dressed.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
