@@ -660,6 +660,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP19_Shapes.mp4"
   },
+  "clay-reels/EP20_Dinner": {
+   "asset": "EP20_Dinner.mp4",
+   "dir": "EP20 Dinner",
+   "duration": 28.566667,
+   "ep": "EP20_Dinner",
+   "mb": 6.118406,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "317c34a8540bf712211b61ff429d5f441be5a5e0",
+    "434d798f512a690ea58f74d04398ce5291a38d62"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP20_Dinner.mp4"
+  },
+  "clay-reels/EP21_Nuts": {
+   "asset": "EP21_Nuts.mp4",
+   "dir": "EP21 Nuts",
+   "duration": 28.566667,
+   "ep": "EP21_Nuts",
+   "mb": 5.625615,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "6e8a945933afbff6991277b7c398b8ea13d17063",
+    "d29e45ce0546c2fca61bb722cc7ad1ca68475957"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP21_Nuts.mp4"
+  },
+  "clay-reels/EP22_Guest_Tray": {
+   "asset": "EP22_Guest_Tray.mp4",
+   "dir": "EP22 Guest Tray",
+   "duration": 28.566667,
+   "ep": "EP22_Guest_Tray",
+   "mb": 5.934035,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "ec6d8b3d564632af436065cce50d2df02110dd9b",
+    "3c7b67e448331f4d2515966b5ef0bd3dfd21c5ae"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP22_Guest_Tray.mp4"
+  },
+  "clay-reels/EP23_Kitchen_Tools": {
+   "asset": "EP23_Kitchen_Tools.mp4",
+   "dir": "EP23 Kitchen Tools",
+   "duration": 28.566667,
+   "ep": "EP23_Kitchen_Tools",
+   "mb": 5.354059,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "a7deddc1abbd760083f70561847f4fca9ed66e60",
+    "895933d8a663f911a054d038d155168ea85d11ff"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP23_Kitchen_Tools.mp4"
+  },
+  "clay-reels/EP24_Summer_Fruits": {
+   "asset": "EP24_Summer_Fruits.mp4",
+   "dir": "EP24 Summer Fruits",
+   "duration": 28.566667,
+   "ep": "EP24_Summer_Fruits",
+   "mb": 5.659715,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "196e4ff491756400c91e3f8512124ebdf21f8764",
+    "de0cf049ce7fe8d909a4c0fd880f0234aee681e3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP24_Summer_Fruits.mp4"
+  },
+  "clay-reels/EP25_Bakery": {
+   "asset": "EP25_Bakery.mp4",
+   "dir": "EP25 Bakery",
+   "duration": 28.566667,
+   "ep": "EP25_Bakery",
+   "mb": 5.570223,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "b91d3ac295f3c826c8013e1572bef81ceb6a476e",
+    "958a81e731856da3610cac255e0f1ca09d115fbd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP25_Bakery.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -6194,6 +6284,51 @@
     "a823b05f24253ffe41df3391d3964f52718bdcbf"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP22_Desserts.mp4"
+  },
+  "papiermache-reels/EP23_Decorations": {
+   "asset": "EP23_Decorations.mp4",
+   "dir": "EP23 Decorations",
+   "duration": 28.566667,
+   "ep": "EP23_Decorations",
+   "mb": 5.429015,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "4afd1cdbd4014b98d532b99c22c905c2ec017850",
+    "33c066cb193a03eeddce87e60943cb68217c6bc3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP23_Decorations.mp4"
+  },
+  "papiermache-reels/EP24_Fun_Fair": {
+   "asset": "EP24_Fun_Fair.mp4",
+   "dir": "EP24 Fun Fair",
+   "duration": 28.566667,
+   "ep": "EP24_Fun_Fair",
+   "mb": 6.098981,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "0cb9abd984d549470a0ab6edd6963e7f582e6885",
+    "abea6ff76ec982c2eed8f65c1f07fb6d88e654fc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP24_Fun_Fair.mp4"
+  },
+  "papiermache-reels/EP25_At_the_Souq": {
+   "asset": "EP25_At_the_Souq.mp4",
+   "dir": "EP25 At the Souq",
+   "duration": 28.566667,
+   "ep": "EP25_At_the_Souq",
+   "mb": 5.514421,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "efd493a91c579f9d37bd3fb6232fc75f5f70c9fd",
+    "ff8b8746cc1494992e3a967010026dcef1dcc5ba"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP25_At_the_Souq.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
