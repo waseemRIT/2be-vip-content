@@ -5670,6 +5670,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP31_Rainy_Day.mp4"
   },
+  "knitted-reels/EP32_Snow_Day": {
+   "asset": "EP32_Snow_Day.mp4",
+   "dir": "EP32 Snow Day",
+   "duration": 28.566667,
+   "ep": "EP32_Snow_Day",
+   "mb": 9.706481,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "e3152890e2ab8ef220dd0535b93192474368f0f1",
+    "f4a3ab89a107b16486fc0899804b9224d729cf07"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP32_Snow_Day.mp4"
+  },
+  "knitted-reels/EP33_Beach": {
+   "asset": "EP33_Beach.mp4",
+   "dir": "EP33 Beach",
+   "duration": 28.566667,
+   "ep": "EP33_Beach",
+   "mb": 8.819329,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "6d5564abdf5b52178d005496eb4caa248efa464d",
+    "d6b7514393fc1223d19a9985346ef0a145eab330"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP33_Beach.mp4"
+  },
+  "knitted-reels/EP34_Work_Uniforms": {
+   "asset": "EP34_Work_Uniforms.mp4",
+   "dir": "EP34 Work Uniforms",
+   "duration": 28.566667,
+   "ep": "EP34_Work_Uniforms",
+   "mb": 8.437847,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "e9f54bcea26b7f0a3cd00d1e0bf5a0dc6320b5c2",
+    "9c3ecf3f0ed19422021d088889e5c29be1dc363f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP34_Work_Uniforms.mp4"
+  },
+  "knitted-reels/EP35_Doctors_Bag": {
+   "asset": "EP35_Doctors_Bag.mp4",
+   "dir": "EP35 Doctors Bag",
+   "duration": 28.566667,
+   "ep": "EP35_Doctors_Bag",
+   "mb": 8.46589,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "880730aaa508edb50d6f18923f8f9e4848d14324",
+    "74290967b17f308c009eca73b149f97a13e562bb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP35_Doctors_Bag.mp4"
+  },
+  "knitted-reels/EP36_Picnic": {
+   "asset": "EP36_Picnic.mp4",
+   "dir": "EP36 Picnic",
+   "duration": 28.566667,
+   "ep": "EP36_Picnic",
+   "mb": 8.846051,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bb091456441bb6ce78a48dc63b399bf87afcda76",
+    "ab7c672e404df8faa01b96a11322b45064b81646"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP36_Picnic.mp4"
+  },
+  "knitted-reels/EP37_Bakery": {
+   "asset": "EP37_Bakery.mp4",
+   "dir": "EP37 Bakery",
+   "duration": 28.566667,
+   "ep": "EP37_Bakery",
+   "mb": 8.847036,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "0bc5e94d0c0790e9b3364ba39d974e887544129d",
+    "406d0eff351861f07e6ee5a10671110138e1838c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP37_Bakery.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
