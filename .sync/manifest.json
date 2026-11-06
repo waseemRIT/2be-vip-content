@@ -5100,6 +5100,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP19_Farm_Animals.mp4"
   },
+  "knitted-reels/EP20_School_Bag": {
+   "asset": "EP20_School_Bag.mp4",
+   "dir": "EP20 School Bag",
+   "duration": 28.566667,
+   "ep": "EP20_School_Bag",
+   "mb": 7.959246,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "1d33bf836f8cc09b21e2c34f3d8c640bdc04f5da",
+    "ee7ceb37ff4b642ac7818141ce318810bb6ad7b6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP20_School_Bag.mp4"
+  },
+  "knitted-reels/EP21_Accessories": {
+   "asset": "EP21_Accessories.mp4",
+   "dir": "EP21 Accessories",
+   "duration": 28.566667,
+   "ep": "EP21_Accessories",
+   "mb": 7.682746,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "b67e6c964ad0630287126c68775218eb48999be0",
+    "3c4b68f44f282a45c0509ac3e95e3931f1de3add"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP21_Accessories.mp4"
+  },
+  "knitted-reels/EP22_Bags": {
+   "asset": "EP22_Bags.mp4",
+   "dir": "EP22 Bags",
+   "duration": 28.566667,
+   "ep": "EP22_Bags",
+   "mb": 8.520698,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "2f4c221d073ec16739a1abc7e7fc02a1922e0934",
+    "3ac8d65a9fb0b7398282bc26f2de338c2fbb821a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP22_Bags.mp4"
+  },
+  "knitted-reels/EP23_Autumn": {
+   "asset": "EP23_Autumn.mp4",
+   "dir": "EP23 Autumn",
+   "duration": 28.566667,
+   "ep": "EP23_Autumn",
+   "mb": 8.069796,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "6d2c35950f58f6de20f73fed153fa5c87a3c2c37",
+    "2c11315c7da7060b916d23203c2b966e6f27ca8f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP23_Autumn.mp4"
+  },
+  "knitted-reels/EP24_Sewing_Kit": {
+   "asset": "EP24_Sewing_Kit.mp4",
+   "dir": "EP24 Sewing Kit",
+   "duration": 28.566667,
+   "ep": "EP24_Sewing_Kit",
+   "mb": 7.945629,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "fbfda7281ba89eb1a37407592affddbea255816b",
+    "289e9d9d4721090c548e2053961b63355346536f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP24_Sewing_Kit.mp4"
+  },
+  "knitted-reels/EP25_Craft_Box": {
+   "asset": "EP25_Craft_Box.mp4",
+   "dir": "EP25 Craft Box",
+   "duration": 28.566667,
+   "ep": "EP25_Craft_Box",
+   "mb": 8.882593,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bba2a27860d5c2546371c787c5e7257d3108c777",
+    "d02e745e0d16429a1494ff4c1ba5fa5b9e18dae3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP25_Craft_Box.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -5954,6 +6044,96 @@
     "b1fdc236360074a09937cd3ebb4e3e4f1e98c97a"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP19_Baby_Animals.mp4"
+  },
+  "origami-reels/EP20_School": {
+   "asset": "EP20_School.mp4",
+   "dir": "EP20 School",
+   "duration": 28.6,
+   "ep": "EP20_School",
+   "mb": 3.750693,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "35c4ca0159e9b71b08cee81d7ad84e6b58606a69",
+    "01251ee0b6ebb98beec4ab193aebab6190fd4a83"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP20_School.mp4"
+  },
+  "origami-reels/EP21_Jungle_Animals": {
+   "asset": "EP21_Jungle_Animals.mp4",
+   "dir": "EP21 Jungle Animals",
+   "duration": 28.6,
+   "ep": "EP21_Jungle_Animals",
+   "mb": 4.38927,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e477f7d20c5e42fb5b9836d728aa0d012ffc1a79",
+    "b1c953d17dc067ed564cfcbdc58a47165d19430b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP21_Jungle_Animals.mp4"
+  },
+  "origami-reels/EP22_Forest_Animals": {
+   "asset": "EP22_Forest_Animals.mp4",
+   "dir": "EP22 Forest Animals",
+   "duration": 28.6,
+   "ep": "EP22_Forest_Animals",
+   "mb": 4.021548,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "fbd83eba325947b03866b231b3ccafcb38eb41a4",
+    "fc3692af108aaa32cf728713c58d9dafdc0a5101"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP22_Forest_Animals.mp4"
+  },
+  "origami-reels/EP23_Polar_Animals": {
+   "asset": "EP23_Polar_Animals.mp4",
+   "dir": "EP23 Polar Animals",
+   "duration": 28.6,
+   "ep": "EP23_Polar_Animals",
+   "mb": 3.959165,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "f6fcd51e545083b1752ee17135278423b7e3265e",
+    "9f348c7bc78895f93e84001ee7cca19a8dea5752"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP23_Polar_Animals.mp4"
+  },
+  "origami-reels/EP24_Ocean_Life": {
+   "asset": "EP24_Ocean_Life.mp4",
+   "dir": "EP24 Ocean Life",
+   "duration": 28.6,
+   "ep": "EP24_Ocean_Life",
+   "mb": 4.62476,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "cbe4634269242574707e827bafac351e153e2390",
+    "36fa85c5e83acd027a09b15f991e3d0359893be4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP24_Ocean_Life.mp4"
+  },
+  "origami-reels/EP25_Garden": {
+   "asset": "EP25_Garden.mp4",
+   "dir": "EP25 Garden",
+   "duration": 28.6,
+   "ep": "EP25_Garden",
+   "mb": 4.875413,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "627025012287b149c652859ee70df93b24729997",
+    "0d1f9209876203d61fc88a12eb51ec5fabc95b73"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP25_Garden.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
