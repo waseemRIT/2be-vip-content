@@ -5940,6 +5940,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP37_Bakery.mp4"
   },
+  "knitted-reels/EP38_Majlis": {
+   "asset": "EP38_Majlis.mp4",
+   "dir": "EP38 Majlis",
+   "duration": 28.566667,
+   "ep": "EP38_Majlis",
+   "mb": 8.840746,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "f7159c1748789d899280f93d55ec3bb5c0591959",
+    "03e3a0a67918b6c4f44290ea8446fd97aef96873"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP38_Majlis.mp4"
+  },
+  "knitted-reels/EP39_Party": {
+   "asset": "EP39_Party.mp4",
+   "dir": "EP39 Party",
+   "duration": 28.566667,
+   "ep": "EP39_Party",
+   "mb": 8.248325,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "5d6c5e7289410e74487662650a8a4f424eec12b4",
+    "1560cd57327d08750862acf96a8723baa05b433c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP39_Party.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
