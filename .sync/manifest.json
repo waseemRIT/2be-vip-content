@@ -8115,6 +8115,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP40_Nuts_and_Snacks.mp4"
   },
+  "papiermache-reels/EP41_Fair_Games": {
+   "asset": "EP41_Fair_Games.mp4",
+   "dir": "EP41 Fair Games",
+   "duration": 28.566667,
+   "ep": "EP41_Fair_Games",
+   "mb": 6.167973,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "8749fd7c3f51d8c93fc54fb1634ef216030d4ca1",
+    "f3ba37971b8eac48d4e356103d8b0be79243f666"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP41_Fair_Games.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
