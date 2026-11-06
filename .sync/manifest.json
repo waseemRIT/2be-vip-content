@@ -5835,6 +5835,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP25_Drinks.mp4"
   },
+  "lowpoly-reels/EP26_Toys": {
+   "asset": "EP26_Toys.mp4",
+   "dir": "EP26 Toys",
+   "duration": 28.6,
+   "ep": "EP26_Toys",
+   "mb": 4.936575,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "5412e86dd058b8aee34cf0d8c8b92d4d9fa1182b",
+    "d37ed804bea4fcc41fedc7dc831a12a4cab086b0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP26_Toys.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",

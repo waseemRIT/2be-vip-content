@@ -4,7 +4,7 @@ Faceted 3D objects assemble from flying shards while the English word rises in.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**25 posts.** Click a thumbnail to open the post (video, caption and download link).
+**26 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Space/"><img src="EP01%20Space/thumbnail.jpg" width="160"><br><sub>EP01 · Space</sub></a></td><td align="center" valign="top"><a href="EP02%20Weather/"><img src="EP02%20Weather/thumbnail.jpg" width="160"><br><sub>EP02 · Weather</sub></a></td><td align="center" valign="top"><a href="EP03%20Fruits/"><img src="EP03%20Fruits/thumbnail.jpg" width="160"><br><sub>EP03 · Fruits</sub></a></td><td align="center" valign="top"><a href="EP04%20Vegetables/"><img src="EP04%20Vegetables/thumbnail.jpg" width="160"><br><sub>EP04 · Vegetables</sub></a></td></tr>
@@ -13,7 +13,7 @@ Faceted 3D objects assemble from flying shards while the English word rises in.
 <tr><td align="center" valign="top"><a href="EP13%20Living%20Room/"><img src="EP13%20Living%20Room/thumbnail.jpg" width="160"><br><sub>EP13 · Living Room</sub></a></td><td align="center" valign="top"><a href="EP14%20Bedroom/"><img src="EP14%20Bedroom/thumbnail.jpg" width="160"><br><sub>EP14 · Bedroom</sub></a></td><td align="center" valign="top"><a href="EP15%20School%20Bag/"><img src="EP15%20School%20Bag/thumbnail.jpg" width="160"><br><sub>EP15 · School Bag</sub></a></td><td align="center" valign="top"><a href="EP16%20Clothes/"><img src="EP16%20Clothes/thumbnail.jpg" width="160"><br><sub>EP16 · Clothes</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP17%20My%20Body/"><img src="EP17%20My%20Body/thumbnail.jpg" width="160"><br><sub>EP17 · My Body</sub></a></td><td align="center" valign="top"><a href="EP18%20In%20the%20Sky/"><img src="EP18%20In%20the%20Sky/thumbnail.jpg" width="160"><br><sub>EP18 · In the Sky</sub></a></td><td align="center" valign="top"><a href="EP19%20Breakfast/"><img src="EP19%20Breakfast/thumbnail.jpg" width="160"><br><sub>EP19 · Breakfast</sub></a></td><td align="center" valign="top"><a href="EP20%20Gadgets/"><img src="EP20%20Gadgets/thumbnail.jpg" width="160"><br><sub>EP20 · Gadgets</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP21%20Pets/"><img src="EP21%20Pets/thumbnail.jpg" width="160"><br><sub>EP21 · Pets</sub></a></td><td align="center" valign="top"><a href="EP22%20Insects/"><img src="EP22%20Insects/thumbnail.jpg" width="160"><br><sub>EP22 · Insects</sub></a></td><td align="center" valign="top"><a href="EP23%20Birds/"><img src="EP23%20Birds/thumbnail.jpg" width="160"><br><sub>EP23 · Birds</sub></a></td><td align="center" valign="top"><a href="EP24%20Desserts/"><img src="EP24%20Desserts/thumbnail.jpg" width="160"><br><sub>EP24 · Desserts</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP25%20Drinks/"><img src="EP25%20Drinks/thumbnail.jpg" width="160"><br><sub>EP25 · Drinks</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP25%20Drinks/"><img src="EP25%20Drinks/thumbnail.jpg" width="160"><br><sub>EP25 · Drinks</sub></a></td><td align="center" valign="top"><a href="EP26%20Toys/"><img src="EP26%20Toys/thumbnail.jpg" width="160"><br><sub>EP26 · Toys</sub></a></td></tr>
 </table>
 
 ---
@@ -26,7 +26,7 @@ Faceted 3D objects assemble from flying shards while the English word rises in.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**25 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**26 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Space/"><img src="EP01%20Space/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Space</sub></a></td><td align="center" valign="top"><a href="EP02%20Weather/"><img src="EP02%20Weather/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Weather</sub></a></td><td align="center" valign="top"><a href="EP03%20Fruits/"><img src="EP03%20Fruits/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Fruits</sub></a></td><td align="center" valign="top"><a href="EP04%20Vegetables/"><img src="EP04%20Vegetables/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Vegetables</sub></a></td></tr>
@@ -35,7 +35,7 @@ Faceted 3D objects assemble from flying shards while the English word rises in.
 <tr><td align="center" valign="top"><a href="EP13%20Living%20Room/"><img src="EP13%20Living%20Room/thumbnail.jpg" width="160"><br><sub>الحلقة 13 · Living Room</sub></a></td><td align="center" valign="top"><a href="EP14%20Bedroom/"><img src="EP14%20Bedroom/thumbnail.jpg" width="160"><br><sub>الحلقة 14 · Bedroom</sub></a></td><td align="center" valign="top"><a href="EP15%20School%20Bag/"><img src="EP15%20School%20Bag/thumbnail.jpg" width="160"><br><sub>الحلقة 15 · School Bag</sub></a></td><td align="center" valign="top"><a href="EP16%20Clothes/"><img src="EP16%20Clothes/thumbnail.jpg" width="160"><br><sub>الحلقة 16 · Clothes</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP17%20My%20Body/"><img src="EP17%20My%20Body/thumbnail.jpg" width="160"><br><sub>الحلقة 17 · My Body</sub></a></td><td align="center" valign="top"><a href="EP18%20In%20the%20Sky/"><img src="EP18%20In%20the%20Sky/thumbnail.jpg" width="160"><br><sub>الحلقة 18 · In the Sky</sub></a></td><td align="center" valign="top"><a href="EP19%20Breakfast/"><img src="EP19%20Breakfast/thumbnail.jpg" width="160"><br><sub>الحلقة 19 · Breakfast</sub></a></td><td align="center" valign="top"><a href="EP20%20Gadgets/"><img src="EP20%20Gadgets/thumbnail.jpg" width="160"><br><sub>الحلقة 20 · Gadgets</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP21%20Pets/"><img src="EP21%20Pets/thumbnail.jpg" width="160"><br><sub>الحلقة 21 · Pets</sub></a></td><td align="center" valign="top"><a href="EP22%20Insects/"><img src="EP22%20Insects/thumbnail.jpg" width="160"><br><sub>الحلقة 22 · Insects</sub></a></td><td align="center" valign="top"><a href="EP23%20Birds/"><img src="EP23%20Birds/thumbnail.jpg" width="160"><br><sub>الحلقة 23 · Birds</sub></a></td><td align="center" valign="top"><a href="EP24%20Desserts/"><img src="EP24%20Desserts/thumbnail.jpg" width="160"><br><sub>الحلقة 24 · Desserts</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP25%20Drinks/"><img src="EP25%20Drinks/thumbnail.jpg" width="160"><br><sub>الحلقة 25 · Drinks</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP25%20Drinks/"><img src="EP25%20Drinks/thumbnail.jpg" width="160"><br><sub>الحلقة 25 · Drinks</sub></a></td><td align="center" valign="top"><a href="EP26%20Toys/"><img src="EP26%20Toys/thumbnail.jpg" width="160"><br><sub>الحلقة 26 · Toys</sub></a></td></tr>
 </table>
 
 </div>

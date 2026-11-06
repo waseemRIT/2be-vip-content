@@ -18,7 +18,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[Wooden Toy Reels](woodtoy-reels/)**<br>Wooden toys drop and bounce on the table while the English letters bounce in. | 31 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[Cardboard Reels](cardboard-reels/)**<br>Cardboard cut-outs slide in while the English word is stamped on. | 31 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[Marionette Reels](marionette-reels/)**<br>A string puppet acts out each verb while the English word swings in on a wooden sign. | 25 |
-| <img src="lowpoly-reels/sample.gif" width="120"> | **[Low-poly 3D Reels](lowpoly-reels/)**<br>Faceted 3D objects assemble from flying shards while the English word rises in. | 25 |
+| <img src="lowpoly-reels/sample.gif" width="120"> | **[Low-poly 3D Reels](lowpoly-reels/)**<br>Faceted 3D objects assemble from flying shards while the English word rises in. | 26 |
 | <img src="papiermache-reels/sample.gif" width="120"> | **[Papier-mache Reels](papiermache-reels/)**<br>Handmade papier-mache objects are built piece by piece while the English word is painted on. | 31 |
 | <img src="slideshows/sample.jpg" width="120"> | **[Slideshows](slideshows/)**<br>Swipeable carousel posts with everyday English tips, phrases and vocabulary. | 100 |
 
@@ -50,7 +50,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[ريلز الألعاب الخشبية](woodtoy-reels/)**<br>ألعاب خشبية تقفز على الطاولة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 31 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[ريلز الكرتون المقصوص](cardboard-reels/)**<br>قطع كرتون تنزلق إلى المشهد، والكلمة الإنجليزية تُختم مع نطقها بالحروف العربية. | 31 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[ريلز الدمية المتحركة](marionette-reels/)**<br>دمية خيوط تمثّل الفعل أمامك، مع الفعل الإنجليزي ونطقه بالحروف العربية. | 25 |
-| <img src="lowpoly-reels/sample.gif" width="120"> | **[ريلز المجسّمات ثلاثية الأبعاد](lowpoly-reels/)**<br>مجسّمات بأوجه هندسية تتجمّع أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 25 |
+| <img src="lowpoly-reels/sample.gif" width="120"> | **[ريلز المجسّمات ثلاثية الأبعاد](lowpoly-reels/)**<br>مجسّمات بأوجه هندسية تتجمّع أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 26 |
 | <img src="papiermache-reels/sample.gif" width="120"> | **[ريلز ورق الجرائد المعجون](papiermache-reels/)**<br>أشياء مصنوعة يدوياً من ورق الجرائد تُبنى قطعة قطعة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 31 |
 | <img src="slideshows/sample.jpg" width="120"> | **[شرائح العرض](slideshows/)**<br>منشورات شرائح تُسحب بالإصبع، فيها نصائح وعبارات ومفردات إنجليزية يومية. | 100 |
 
