@@ -270,6 +270,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP18_Street_Things.mp4"
   },
+  "cardboard-reels/EP19_The_Farm": {
+   "asset": "EP19_The_Farm.mp4",
+   "dir": "EP19 The Farm",
+   "duration": 28.566667,
+   "ep": "EP19_The_Farm",
+   "mb": 7.158532,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "63298bd212b6ab416a7a14e847b503201f176806",
+    "8eb3d6d35cd8195d6c02f74316d877304938df86"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP19_The_Farm.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
