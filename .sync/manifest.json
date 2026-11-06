@@ -285,6 +285,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP19_The_Farm.mp4"
   },
+  "cardboard-reels/EP20_Construction_Site": {
+   "asset": "EP20_Construction_Site.mp4",
+   "dir": "EP20 Construction Site",
+   "duration": 28.566667,
+   "ep": "EP20_Construction_Site",
+   "mb": 7.288876,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "714ad4afdc7d954fa0d140e0bf18b43884a7c676",
+    "9d4ab3d1a387a4ce9718593e22869708d1b792ef"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP20_Construction_Site.mp4"
+  },
+  "cardboard-reels/EP21_Little_Wheels": {
+   "asset": "EP21_Little_Wheels.mp4",
+   "dir": "EP21 Little Wheels",
+   "duration": 28.566667,
+   "ep": "EP21_Little_Wheels",
+   "mb": 7.39096,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "6a6a98218ac5117cac8ff56754317fec0b2d6926",
+    "5be8794186964a68a0e40b306a2f4fe58878f1bc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP21_Little_Wheels.mp4"
+  },
+  "cardboard-reels/EP22_Sky_Machines": {
+   "asset": "EP22_Sky_Machines.mp4",
+   "dir": "EP22 Sky Machines",
+   "duration": 28.566667,
+   "ep": "EP22_Sky_Machines",
+   "mb": 7.233346,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "b07558cf2c998359fe2b07da38b48ce3791f8fb9",
+    "450205748f5a7027603491b1e93f9301a41919a0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP22_Sky_Machines.mp4"
+  },
+  "cardboard-reels/EP23_On_the_Water": {
+   "asset": "EP23_On_the_Water.mp4",
+   "dir": "EP23 On the Water",
+   "duration": 28.566667,
+   "ep": "EP23_On_the_Water",
+   "mb": 7.866392,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "16700ba7b42a90ca41bc467c0aac375a40d4ca0c",
+    "b2abed170a457bf5f78197d8347845d6446462c6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP23_On_the_Water.mp4"
+  },
+  "cardboard-reels/EP24_Big_Machines": {
+   "asset": "EP24_Big_Machines.mp4",
+   "dir": "EP24 Big Machines",
+   "duration": 28.566667,
+   "ep": "EP24_Big_Machines",
+   "mb": 7.942349,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "12a1a6df928d07c21e60aaeb89d56f354672a333",
+    "54ec4538394ca55796563c142bd3403f8422db49"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP24_Big_Machines.mp4"
+  },
+  "cardboard-reels/EP25_Wild_Weather": {
+   "asset": "EP25_Wild_Weather.mp4",
+   "dir": "EP25 Wild Weather",
+   "duration": 28.566667,
+   "ep": "EP25_Wild_Weather",
+   "mb": 7.450079,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "0ab3f713f154352a1f19661833c0cb7de6deb9f6",
+    "92f9dc3bf7c5ff251fbf3d76c798ab905cd88b27"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP25_Wild_Weather.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -5445,6 +5535,51 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP16_Garden.mp4"
   },
+  "marionette-reels/EP17_More_Feelings": {
+   "asset": "EP17_More_Feelings.mp4",
+   "dir": "EP17 More Feelings",
+   "duration": 28.6,
+   "ep": "EP17_More_Feelings",
+   "mb": 6.470537,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "a7a50e547ddfe260f5bdd4f71b70e13d3712199d",
+    "2238be30e4fa2740c0a555a9923c6adcddce7771"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP17_More_Feelings.mp4"
+  },
+  "marionette-reels/EP18_Daily_Life": {
+   "asset": "EP18_Daily_Life.mp4",
+   "dir": "EP18 Daily Life",
+   "duration": 28.6,
+   "ep": "EP18_Daily_Life",
+   "mb": 6.413367,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "cb82616d200beb1991e4c4c2a4172d6fe12ca5ba",
+    "987ad037a2610675c18b28fea5c2085c336a0730"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP18_Daily_Life.mp4"
+  },
+  "marionette-reels/EP19_The_Body": {
+   "asset": "EP19_The_Body.mp4",
+   "dir": "EP19 The Body",
+   "duration": 28.6,
+   "ep": "EP19_The_Body",
+   "mb": 6.022083,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "26ea2bedd77bd3c69c84c01cf35f30e3f6b5a2b0",
+    "274cfb2ae2c7c31a396fbcb89cfcd9143070c00a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP19_The_Body.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
@@ -6014,6 +6149,21 @@
     "0d66a744ed3a1aa8adfa2362fa70005faca2a4ec"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP19_Vehicles.mp4"
+  },
+  "papiermache-reels/EP20_Bathroom": {
+   "asset": "EP20_Bathroom.mp4",
+   "dir": "EP20 Bathroom",
+   "duration": 28.566667,
+   "ep": "EP20_Bathroom",
+   "mb": 5.522992,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "21f512e0e95fa21cb3445c860460a08d1593ee29",
+    "e4f2fd88b939933788724ec68fb97ee8fd332cd4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP20_Bathroom.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
