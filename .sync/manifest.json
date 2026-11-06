@@ -4485,6 +4485,81 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP02_Weather.mp4"
   },
+  "lowpoly-reels/EP03_Fruits": {
+   "asset": "EP03_Fruits.mp4",
+   "dir": "EP03 Fruits",
+   "duration": 28.6,
+   "ep": "EP03_Fruits",
+   "mb": 2.774796,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "559e45f5765a4a317e5038b7884b121b03eb714f",
+    "6e2e6ee2bd7af543f962450d4ad8e5a251dee908"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP03_Fruits.mp4"
+  },
+  "lowpoly-reels/EP04_Vegetables": {
+   "asset": "EP04_Vegetables.mp4",
+   "dir": "EP04 Vegetables",
+   "duration": 28.6,
+   "ep": "EP04_Vegetables",
+   "mb": 2.603041,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "9000878e7352a1fc1b4679253f9c2d41de88cb20",
+    "4fc29d625b10920845ad6844c46603c8588f02b1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP04_Vegetables.mp4"
+  },
+  "lowpoly-reels/EP05_Farm_Animals": {
+   "asset": "EP05_Farm_Animals.mp4",
+   "dir": "EP05 Farm Animals",
+   "duration": 28.6,
+   "ep": "EP05_Farm_Animals",
+   "mb": 3.057236,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "bb4d351d747b426fcf382ad71926698b62bb0e03",
+    "9527f5944833dce4946363cdf95c53beb14a2281"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP05_Farm_Animals.mp4"
+  },
+  "lowpoly-reels/EP06_Wild_Animals": {
+   "asset": "EP06_Wild_Animals.mp4",
+   "dir": "EP06 Wild Animals",
+   "duration": 28.6,
+   "ep": "EP06_Wild_Animals",
+   "mb": 3.496255,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "a73c6b695c0647d02121db9e1e468a9790db66aa",
+    "ad7ed4ce2ad134b44206e5665c035f2b13c06773"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP06_Wild_Animals.mp4"
+  },
+  "lowpoly-reels/EP07_Sea_Creatures": {
+   "asset": "EP07_Sea_Creatures.mp4",
+   "dir": "EP07 Sea Creatures",
+   "duration": 28.6,
+   "ep": "EP07_Sea_Creatures",
+   "mb": 3.780191,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "461d64505e579504a99043214524e9dc7d9cee2a",
+    "500773c31e1c858b6ace1c7edfdb46e45aa42710"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP07_Sea_Creatures.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
