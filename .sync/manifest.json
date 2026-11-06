@@ -5370,6 +5370,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP25_Craft_Box.mp4"
   },
+  "knitted-reels/EP26_Sea_Animals": {
+   "asset": "EP26_Sea_Animals.mp4",
+   "dir": "EP26 Sea Animals",
+   "duration": 28.566667,
+   "ep": "EP26_Sea_Animals",
+   "mb": 9.076334,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "d2a6fb1cb5e106bc63b24a1821b709578b8e3597",
+    "c223e92ea4e9747d34af8f2e7c6a2684627b4261"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP26_Sea_Animals.mp4"
+  },
+  "knitted-reels/EP27_Little_Bugs": {
+   "asset": "EP27_Little_Bugs.mp4",
+   "dir": "EP27 Little Bugs",
+   "duration": 28.566667,
+   "ep": "EP27_Little_Bugs",
+   "mb": 10.010176,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "3c2acd939c0874c83c4c4d9ef5eb7dadba21046f",
+    "b034cdd86dc422299ec501bec4121dd3291eb404"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP27_Little_Bugs.mp4"
+  },
+  "knitted-reels/EP28_Birds": {
+   "asset": "EP28_Birds.mp4",
+   "dir": "EP28 Birds",
+   "duration": 28.566667,
+   "ep": "EP28_Birds",
+   "mb": 9.813322,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "36376a2ebe29e7db09047092976ad00389f627f9",
+    "1047492731121d5fae4acf09d225ee9f1efed9cd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP28_Birds.mp4"
+  },
+  "knitted-reels/EP29_Wild_Animals": {
+   "asset": "EP29_Wild_Animals.mp4",
+   "dir": "EP29 Wild Animals",
+   "duration": 28.566667,
+   "ep": "EP29_Wild_Animals",
+   "mb": 8.722068,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "729fdba8cfad4c93d53f4bdf9e0d4cf303b4dac3",
+    "ed9401bbbfa721490913ca22108c1c19037ed104"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP29_Wild_Animals.mp4"
+  },
+  "knitted-reels/EP30_Desert": {
+   "asset": "EP30_Desert.mp4",
+   "dir": "EP30 Desert",
+   "duration": 28.566667,
+   "ep": "EP30_Desert",
+   "mb": 8.61718,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "89edc7bf5dc917bb7ceaae9d7b1c022594d6d052",
+    "be61d22b7ccc291cbcf71f391f9f8aa0f4570bb5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP30_Desert.mp4"
+  },
+  "knitted-reels/EP31_Rainy_Day": {
+   "asset": "EP31_Rainy_Day.mp4",
+   "dir": "EP31 Rainy Day",
+   "duration": 28.566667,
+   "ep": "EP31_Rainy_Day",
+   "mb": 8.98878,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "76e719cdf2c6fb8a59a703adb7f135e4d2f8009d",
+    "6c1999c1c94138a9a111cc9180078f2f3012ca55"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP31_Rainy_Day.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -6494,6 +6584,96 @@
     "0d1f9209876203d61fc88a12eb51ec5fabc95b73"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP25_Garden.mp4"
+  },
+  "origami-reels/EP26_Paper_Crafts": {
+   "asset": "EP26_Paper_Crafts.mp4",
+   "dir": "EP26 Paper Crafts",
+   "duration": 28.6,
+   "ep": "EP26_Paper_Crafts",
+   "mb": 4.268963,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "8a616a37e64fc72e35db81dbade27a9c25e0a5f2",
+    "7b2c5a55e535239366e66ef3eef5ef4732cc31f2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP26_Paper_Crafts.mp4"
+  },
+  "origami-reels/EP27_Celebrations": {
+   "asset": "EP27_Celebrations.mp4",
+   "dir": "EP27 Celebrations",
+   "duration": 28.6,
+   "ep": "EP27_Celebrations",
+   "mb": 4.675444,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "90fb12d71b3378959de28c71d823eeab74916adf",
+    "315ef11989123f2c232747e2aa4712e004fce9cb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP27_Celebrations.mp4"
+  },
+  "origami-reels/EP28_Kitchen": {
+   "asset": "EP28_Kitchen.mp4",
+   "dir": "EP28 Kitchen",
+   "duration": 28.6,
+   "ep": "EP28_Kitchen",
+   "mb": 3.870403,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "7bb84a60120b12f742e9c03f4e177f8bdbd09da4",
+    "9303493f4d527d9ea7f1cf6f7447294076b9bac9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP28_Kitchen.mp4"
+  },
+  "origami-reels/EP29_Fruits": {
+   "asset": "EP29_Fruits.mp4",
+   "dir": "EP29 Fruits",
+   "duration": 28.6,
+   "ep": "EP29_Fruits",
+   "mb": 3.872472,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "72a253965c023adec5f8a4f12d5f5d9699bb7545",
+    "cd3060198c3935f55ec8bb4aface34c402257bbf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP29_Fruits.mp4"
+  },
+  "origami-reels/EP30_Vegetables": {
+   "asset": "EP30_Vegetables.mp4",
+   "dir": "EP30 Vegetables",
+   "duration": 28.6,
+   "ep": "EP30_Vegetables",
+   "mb": 3.963052,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "897c652b9ed05b2c08d8e3e8da4d6ce44972371f",
+    "54105a7644aca0cabd2aa0ef70b67230ae327a85"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP30_Vegetables.mp4"
+  },
+  "origami-reels/EP31_Beautiful_Birds": {
+   "asset": "EP31_Beautiful_Birds.mp4",
+   "dir": "EP31 Beautiful Birds",
+   "duration": 28.6,
+   "ep": "EP31_Beautiful_Birds",
+   "mb": 4.226472,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "a4ae636f36b70810a0d25464a2bcd469e8513114",
+    "83173bce95334c9bd2d86605204438bccda5fc8e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP31_Beautiful_Birds.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
