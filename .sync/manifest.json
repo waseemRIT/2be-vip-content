@@ -10911,6 +10911,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP25_Garden_Play_Set.mp4"
   },
+  "woodtoy-reels/EP26_Living_Room": {
+   "asset": "EP26_Living_Room.mp4",
+   "dir": "EP26 Living Room",
+   "duration": 28.6,
+   "ep": "EP26_Living_Room",
+   "mb": 3.431135,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "45897273dcad55d6110029fe2899fff7ce458b62",
+    "e4750379884c8cf0aa024d1e8d65eda2ba762d40"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP26_Living_Room.mp4"
+  },
+  "woodtoy-reels/EP27_Sea_Animals": {
+   "asset": "EP27_Sea_Animals.mp4",
+   "dir": "EP27 Sea Animals",
+   "duration": 28.6,
+   "ep": "EP27_Sea_Animals",
+   "mb": 3.670215,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "161a7db4c5a5b0651f976f0002dde641f1519571",
+    "a66ab44f40d430dce46d193aabd4afd9290ff916"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP27_Sea_Animals.mp4"
+  },
+  "woodtoy-reels/EP28_Birds": {
+   "asset": "EP28_Birds.mp4",
+   "dir": "EP28 Birds",
+   "duration": 28.6,
+   "ep": "EP28_Birds",
+   "mb": 3.041075,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "88168e5f6d6b65211d336eae8a776dd65c8bde20",
+    "5daa9f81e55bbe600607b45d6c223122cc6245f6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP28_Birds.mp4"
+  },
+  "woodtoy-reels/EP29_Bugs": {
+   "asset": "EP29_Bugs.mp4",
+   "dir": "EP29 Bugs",
+   "duration": 28.6,
+   "ep": "EP29_Bugs",
+   "mb": 3.644861,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "c72cc566c174d9ca65add77719cd9909c092a7cb",
+    "e384b8a8e228412c207bfccde551b977ff0fa3e2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP29_Bugs.mp4"
+  },
+  "woodtoy-reels/EP30_City_Vehicles": {
+   "asset": "EP30_City_Vehicles.mp4",
+   "dir": "EP30 City Vehicles",
+   "duration": 28.6,
+   "ep": "EP30_City_Vehicles",
+   "mb": 3.433779,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "7313a956751ebecc42edcec6c74f9a065d71ada2",
+    "72e50678fb36a083484400a20e9509f8b53e7c3e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP30_City_Vehicles.mp4"
+  },
+  "woodtoy-reels/EP31_Construction_Set": {
+   "asset": "EP31_Construction_Set.mp4",
+   "dir": "EP31 Construction Set",
+   "duration": 28.6,
+   "ep": "EP31_Construction_Set",
+   "mb": 3.716158,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "37cc093b7bd398e1a6e1990c24f250fa6142aa8f",
+    "3e66389c583796cf019ec1f11bb6b433be350afb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP31_Construction_Set.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
