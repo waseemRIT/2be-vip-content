@@ -11706,6 +11706,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP34_Tableware.mp4"
   },
+  "woodtoy-reels/EP35_Bedroom": {
+   "asset": "EP35_Bedroom.mp4",
+   "dir": "EP35 Bedroom",
+   "duration": 28.6,
+   "ep": "EP35_Bedroom",
+   "mb": 3.351988,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "c2266f2ce1536277a7ff1f8c97abd2674dfef08d",
+    "0e2ed1851c3697a2eab166ced97587f37128e225"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP35_Bedroom.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
