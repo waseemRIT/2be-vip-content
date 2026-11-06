@@ -7095,6 +7095,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP33_Stormy_Weather.mp4"
   },
+  "origami-reels/EP34_Space": {
+   "asset": "EP34_Space.mp4",
+   "dir": "EP34 Space",
+   "duration": 28.6,
+   "ep": "EP34_Space",
+   "mb": 4.598418,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "30da8f18ce54897cae72fb2c0427738393306825",
+    "01ec053a1c4ee7dd7094b3819f0e6146a8f3eab9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP34_Space.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
