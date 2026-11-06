@@ -11721,6 +11721,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP35_Bedroom.mp4"
   },
+  "woodtoy-reels/EP36_Jungle": {
+   "asset": "EP36_Jungle.mp4",
+   "dir": "EP36 Jungle",
+   "duration": 28.6,
+   "ep": "EP36_Jungle",
+   "mb": 3.093335,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "debf97700a0e979ef22b2fc09438746840dcbedd",
+    "9d9dc926dd7c52dad9fa3c4aa42f93e42c15685c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP36_Jungle.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
