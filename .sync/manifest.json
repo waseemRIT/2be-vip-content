@@ -4590,6 +4590,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP09_Living_Room.mp4"
   },
+  "knitted-reels/EP10_Bathroom": {
+   "asset": "EP10_Bathroom.mp4",
+   "dir": "EP10 Bathroom",
+   "duration": 28.566667,
+   "ep": "EP10_Bathroom",
+   "mb": 8.458789,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "81224bcdc88c993915ae7e2c44a29509772ef794",
+    "38867048ac595272e2525d4b0f6c73fbc89aec13"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP10_Bathroom.mp4"
+  },
+  "knitted-reels/EP11_Colours": {
+   "asset": "EP11_Colours.mp4",
+   "dir": "EP11 Colours",
+   "duration": 28.566667,
+   "ep": "EP11_Colours",
+   "mb": 10.441747,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "7322f254cbb3134407f90474a85bbdfeb8044862",
+    "d57a6459033ee6f9227b36b51a57ea6726715e17"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP11_Colours.mp4"
+  },
+  "knitted-reels/EP12_Sweets": {
+   "asset": "EP12_Sweets.mp4",
+   "dir": "EP12 Sweets",
+   "duration": 28.566667,
+   "ep": "EP12_Sweets",
+   "mb": 8.005778,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "93cbc8862987864e2a2a9f86e625de0584ced7af",
+    "b7d967f63ddbff27bcc4a07eaccda9aa46d3b59a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP12_Sweets.mp4"
+  },
+  "knitted-reels/EP13_Body_Parts": {
+   "asset": "EP13_Body_Parts.mp4",
+   "dir": "EP13 Body Parts",
+   "duration": 28.566667,
+   "ep": "EP13_Body_Parts",
+   "mb": 8.499311,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "a7777358b6d243ceada083aeb92f2e05fd8dca8a",
+    "ab8d9196f918d45a3912f3984ed42869477b56e3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP13_Body_Parts.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -8690,6 +8750,81 @@
     "3481320984654fc7030df05480e1f0f5425b0515"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP07_Kitchen_Play_Set.mp4"
+  },
+  "woodtoy-reels/EP08_Dollhouse": {
+   "asset": "EP08_Dollhouse.mp4",
+   "dir": "EP08 Dollhouse",
+   "duration": 28.6,
+   "ep": "EP08_Dollhouse",
+   "mb": 2.964598,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "be2adf34381e09ebedf92608ef40294c7e88f8d9",
+    "4cc3cee741fdf18f8420f3f1220a173791474488"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP08_Dollhouse.mp4"
+  },
+  "woodtoy-reels/EP09_Clothes": {
+   "asset": "EP09_Clothes.mp4",
+   "dir": "EP09 Clothes",
+   "duration": 28.6,
+   "ep": "EP09_Clothes",
+   "mb": 3.056215,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "5d9b7d647a56e893b237a6ec3f9005e3be20fafb",
+    "6237ca40456d7c5b98481b330a9095094692c1bf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP09_Clothes.mp4"
+  },
+  "woodtoy-reels/EP10_Shapes": {
+   "asset": "EP10_Shapes.mp4",
+   "dir": "EP10 Shapes",
+   "duration": 28.6,
+   "ep": "EP10_Shapes",
+   "mb": 3.28308,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "d67673ba315b7cd70a63902047d91241daf431b2",
+    "02513ca7aa1a19c725ed3a9451287f61e33a7895"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP10_Shapes.mp4"
+  },
+  "woodtoy-reels/EP11_Numbers": {
+   "asset": "EP11_Numbers.mp4",
+   "dir": "EP11 Numbers",
+   "duration": 28.6,
+   "ep": "EP11_Numbers",
+   "mb": 3.19736,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "1c55860b85fcd730ee878058566763c85a9cb071",
+    "0d6616872d11b2710c879b7a514188c5ea0080da"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP11_Numbers.mp4"
+  },
+  "woodtoy-reels/EP12_Colours": {
+   "asset": "EP12_Colours.mp4",
+   "dir": "EP12 Colours",
+   "duration": 28.6,
+   "ep": "EP12_Colours",
+   "mb": 3.281929,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "6b2fff5ae2976ea832609e7d0f52f65642adbda5",
+    "bff537d76496fe184dd15eeeacef4766152dbaff"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP12_Colours.mp4"
   },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
