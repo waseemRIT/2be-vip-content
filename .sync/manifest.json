@@ -6180,6 +6180,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP21_Eid_Joy.mp4"
   },
+  "papiermache-reels/EP22_Desserts": {
+   "asset": "EP22_Desserts.mp4",
+   "dir": "EP22 Desserts",
+   "duration": 28.566667,
+   "ep": "EP22_Desserts",
+   "mb": 5.659603,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "30516b7968dda50e8c3318949084ecefdde5d49f",
+    "a823b05f24253ffe41df3391d3964f52718bdcbf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP22_Desserts.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
