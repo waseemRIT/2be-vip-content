@@ -180,6 +180,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP12_The_Desert.mp4"
   },
+  "cardboard-reels/EP13_The_Mountain": {
+   "asset": "EP13_The_Mountain.mp4",
+   "dir": "EP13 The Mountain",
+   "duration": 28.566667,
+   "ep": "EP13_The_Mountain",
+   "mb": 7.123498,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "1afcc05ff9f65ee7ffa561e1ed094bae337a481e",
+    "50b5dd1bb2db047502c1ae0179f3e92ceafead83"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP13_The_Mountain.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
