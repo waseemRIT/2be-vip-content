@@ -7680,6 +7680,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP42_Furniture.mp4"
   },
+  "origami-reels/EP43_Toys": {
+   "asset": "EP43_Toys.mp4",
+   "dir": "EP43 Toys",
+   "duration": 28.6,
+   "ep": "EP43_Toys",
+   "mb": 4.070079,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "77b561de1dc8b8ab0fbe61ec1d14de4b12a41eb6",
+    "6f51de28d66150e2380ca7ac63c8dcb87773fc92"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP43_Toys.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
