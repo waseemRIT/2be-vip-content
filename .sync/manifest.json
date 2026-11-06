@@ -240,6 +240,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP16_At_the_Port.mp4"
   },
+  "cardboard-reels/EP17_Fruit_Market": {
+   "asset": "EP17_Fruit_Market.mp4",
+   "dir": "EP17 Fruit Market",
+   "duration": 28.566667,
+   "ep": "EP17_Fruit_Market",
+   "mb": 6.895581,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "83d96c417739dba94450b817cee0d1c182caeeaf",
+    "016446399f4c8c72d808609291852dfbae73f23e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP17_Fruit_Market.mp4"
+  },
+  "cardboard-reels/EP18_Street_Things": {
+   "asset": "EP18_Street_Things.mp4",
+   "dir": "EP18 Street Things",
+   "duration": 28.566667,
+   "ep": "EP18_Street_Things",
+   "mb": 7.180646,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "01fa35f59ca1c267a0309587784de8140296b0ea",
+    "6c896ea607c7035a00cba6575a25b72a77eb255d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP18_Street_Things.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
