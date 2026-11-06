@@ -105,6 +105,81 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP07_My_House.mp4"
   },
+  "cardboard-reels/EP08_Service_Vehicles": {
+   "asset": "EP08_Service_Vehicles.mp4",
+   "dir": "EP08 Service Vehicles",
+   "duration": 28.566667,
+   "ep": "EP08_Service_Vehicles",
+   "mb": 7.829921,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "87e9d724ffa6709c78559f1b5e80a5abc8a17f81",
+    "cbc60b659000a59dbb1190389fd9301e1f46bec2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP08_Service_Vehicles.mp4"
+  },
+  "cardboard-reels/EP09_In_the_Park": {
+   "asset": "EP09_In_the_Park.mp4",
+   "dir": "EP09 In the Park",
+   "duration": 28.566667,
+   "ep": "EP09_In_the_Park",
+   "mb": 7.103948,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "c70a15ebb4cbeca0f6548b4d25425dac1cba33f7",
+    "355f75534fea43352e06ba6bef582ecfccf2f726"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP09_In_the_Park.mp4"
+  },
+  "cardboard-reels/EP10_Shops": {
+   "asset": "EP10_Shops.mp4",
+   "dir": "EP10 Shops",
+   "duration": 28.566667,
+   "ep": "EP10_Shops",
+   "mb": 8.524937,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "3333cd69ce4fbef8c0650f33d7a41c0265c97ee9",
+    "113a36eeb3669daefd832faef473e44419434ee7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP10_Shops.mp4"
+  },
+  "cardboard-reels/EP11_Travel_Bag": {
+   "asset": "EP11_Travel_Bag.mp4",
+   "dir": "EP11 Travel Bag",
+   "duration": 28.566667,
+   "ep": "EP11_Travel_Bag",
+   "mb": 7.550154,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "f1fcf631b0e037d92b4f6b437a800ce4b451e2b0",
+    "ba90195053f6bccbb8931be1936601dc6a76b7f1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP11_Travel_Bag.mp4"
+  },
+  "cardboard-reels/EP12_The_Desert": {
+   "asset": "EP12_The_Desert.mp4",
+   "dir": "EP12 The Desert",
+   "duration": 28.566667,
+   "ep": "EP12_The_Desert",
+   "mb": 6.891807,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "545f4067f484d248d9ae57447153fe10e6bb2a51",
+    "8a3ed0d47e827861732f8bf8a6925707b56b6c15"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP12_The_Desert.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -4395,6 +4470,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP01_Space.mp4"
   },
+  "lowpoly-reels/EP02_Weather": {
+   "asset": "EP02_Weather.mp4",
+   "dir": "EP02 Weather",
+   "duration": 28.6,
+   "ep": "EP02_Weather",
+   "mb": 4.389892,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "f3b3c7220d723c426e5f1a48366a0433e607bc43",
+    "53e9e06752d9d4cea2e7e91711e90d9bade9a892"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP02_Weather.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
@@ -4409,6 +4499,96 @@
     "4bc28624202c84f4e0dbd86020e605567f89d200"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP01_Actions.mp4"
+  },
+  "marionette-reels/EP02_Morning": {
+   "asset": "EP02_Morning.mp4",
+   "dir": "EP02 Morning",
+   "duration": 28.6,
+   "ep": "EP02_Morning",
+   "mb": 6.831176,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "05dc80cb550115a34c6ff4b5fd031235fa54474e",
+    "b322628e230ba1b8acfff7ec0f5c1d5885ff8baf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP02_Morning.mp4"
+  },
+  "marionette-reels/EP03_Mealtime": {
+   "asset": "EP03_Mealtime.mp4",
+   "dir": "EP03 Mealtime",
+   "duration": 28.6,
+   "ep": "EP03_Mealtime",
+   "mb": 6.361301,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "6912d92744ae5279a357bb75d345183e766c8976",
+    "1f7971dce1df326214f6db8500d896b04fda5c2e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP03_Mealtime.mp4"
+  },
+  "marionette-reels/EP04_Bedtime": {
+   "asset": "EP04_Bedtime.mp4",
+   "dir": "EP04 Bedtime",
+   "duration": 28.6,
+   "ep": "EP04_Bedtime",
+   "mb": 6.281498,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "aabef069c4a44580b796c829af63da2e575fc366",
+    "cd9c06ccd77ae8772f7bbdf58629ade2dde8db91"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP04_Bedtime.mp4"
+  },
+  "marionette-reels/EP05_Feelings": {
+   "asset": "EP05_Feelings.mp4",
+   "dir": "EP05 Feelings",
+   "duration": 28.6,
+   "ep": "EP05_Feelings",
+   "mb": 6.026968,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "aa7d2ea0149d8b3a0eba2b58197def4eea1f69a0",
+    "bf1f8cdf6a0f627a7db6a0c296d16805e08efce3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP05_Feelings.mp4"
+  },
+  "marionette-reels/EP06_Playground": {
+   "asset": "EP06_Playground.mp4",
+   "dir": "EP06 Playground",
+   "duration": 28.6,
+   "ep": "EP06_Playground",
+   "mb": 7.437039,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "580f72f5cf71e8542048e8a52551bd757329c2c5",
+    "b8edd60da8a826ddf2b3a380e12550795fdf8e22"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP06_Playground.mp4"
+  },
+  "marionette-reels/EP07_Ball_Games": {
+   "asset": "EP07_Ball_Games.mp4",
+   "dir": "EP07 Ball Games",
+   "duration": 28.6,
+   "ep": "EP07_Ball_Games",
+   "mb": 6.307607,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "4aa6b4505bbe1df9b2b7ebbf64b7db1d978cb4e7",
+    "4a1313e0c0abd92844c73d72a6fb64149432f2a6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP07_Ball_Games.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
