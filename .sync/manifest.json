@@ -4290,6 +4290,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP01_Clothes.mp4"
   },
+  "knitted-reels/EP02_Winter_Wear": {
+   "asset": "EP02_Winter_Wear.mp4",
+   "dir": "EP02 Winter Wear",
+   "duration": 28.566667,
+   "ep": "EP02_Winter_Wear",
+   "mb": 7.815569,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "71abe2f6e298f1f2144397ee751958144e074f92",
+    "967f14670f89608835306a744ed9dbbf7d0e1949"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP02_Winter_Wear.mp4"
+  },
+  "knitted-reels/EP03_Bedroom": {
+   "asset": "EP03_Bedroom.mp4",
+   "dir": "EP03 Bedroom",
+   "duration": 28.566667,
+   "ep": "EP03_Bedroom",
+   "mb": 7.687401,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "f2323f6fe03bef1ced95803a80602ffd878a605f",
+    "37496c926c6fd651bfd573993d4a32f6cac0c1a2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP03_Bedroom.mp4"
+  },
+  "knitted-reels/EP04_Shoes": {
+   "asset": "EP04_Shoes.mp4",
+   "dir": "EP04 Shoes",
+   "duration": 28.566667,
+   "ep": "EP04_Shoes",
+   "mb": 7.891975,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "d6c35d00ca26b2d7a86cfb266d103f9e58ffd416",
+    "f103181ec9ca11a6f5a7d6756eee025025b0f3c1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP04_Shoes.mp4"
+  },
+  "knitted-reels/EP05_Fruits": {
+   "asset": "EP05_Fruits.mp4",
+   "dir": "EP05 Fruits",
+   "duration": 28.566667,
+   "ep": "EP05_Fruits",
+   "mb": 7.465274,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bc474ee4cdc2441bf6beb9b014ad6f129b0a9207",
+    "a08295caf6fb279a7229d2f2c7b43093c7420bc1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP05_Fruits.mp4"
+  },
+  "knitted-reels/EP06_Animals": {
+   "asset": "EP06_Animals.mp4",
+   "dir": "EP06 Animals",
+   "duration": 28.566667,
+   "ep": "EP06_Animals",
+   "mb": 8.570892,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "e97bbf12a76aeec345182dd0977cb7cd885321c6",
+    "afda4bb5e402035899e5b73d136a8fd59caf135f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP06_Animals.mp4"
+  },
+  "knitted-reels/EP07_Weather": {
+   "asset": "EP07_Weather.mp4",
+   "dir": "EP07 Weather",
+   "duration": 28.566667,
+   "ep": "EP07_Weather",
+   "mb": 8.60714,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "bb3c3e5510d7e6f9cddf5a49897d81e55a213978",
+    "d5a692521e0f48f948dca16dfeca1e98084e8183"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP07_Weather.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -4334,6 +4424,96 @@
     "128e09e7a3cea1efa6628b6df8cc286372660939"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP01_Animals.mp4"
+  },
+  "origami-reels/EP02_Farm_Animals": {
+   "asset": "EP02_Farm_Animals.mp4",
+   "dir": "EP02 Farm Animals",
+   "duration": 28.6,
+   "ep": "EP02_Farm_Animals",
+   "mb": 3.712843,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "d44d203d412bd4f0c31afb1adc05ab432bb8a19a",
+    "6541192287e026637c15a3906d0ba1d3f3748dd9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP02_Farm_Animals.mp4"
+  },
+  "origami-reels/EP03_Pets": {
+   "asset": "EP03_Pets.mp4",
+   "dir": "EP03 Pets",
+   "duration": 28.6,
+   "ep": "EP03_Pets",
+   "mb": 3.599874,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "3c7cdfdfcc90bb6482dcdefca3cc5a1e811dfe73",
+    "042b58d43150a106c6b1cb0fbe087775d03750ac"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP03_Pets.mp4"
+  },
+  "origami-reels/EP04_Shapes": {
+   "asset": "EP04_Shapes.mp4",
+   "dir": "EP04 Shapes",
+   "duration": 28.6,
+   "ep": "EP04_Shapes",
+   "mb": 3.384736,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "9cb9ff0b954b54b482fe8083b8b8c352f7adf7d0",
+    "374b6e54212989ce569d47f6a3a29f5feae9bfee"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP04_Shapes.mp4"
+  },
+  "origami-reels/EP05_Colors": {
+   "asset": "EP05_Colors.mp4",
+   "dir": "EP05 Colors",
+   "duration": 28.6,
+   "ep": "EP05_Colors",
+   "mb": 3.627461,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e14bcd142de4baaf9de3bcca0c8f74e039a7e640",
+    "4da940cd1d3c92ab69d48f87a67f648eb697b35e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP05_Colors.mp4"
+  },
+  "origami-reels/EP06_Flowers": {
+   "asset": "EP06_Flowers.mp4",
+   "dir": "EP06 Flowers",
+   "duration": 28.6,
+   "ep": "EP06_Flowers",
+   "mb": 4.716973,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e98b11c0d015504c1ffc7411daa8a7d20bcc772f",
+    "c8f2f40b658279c2fb63b79b68aad1846e6abfd7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP06_Flowers.mp4"
+  },
+  "origami-reels/EP07_Paper_Toys": {
+   "asset": "EP07_Paper_Toys.mp4",
+   "dir": "EP07 Paper Toys",
+   "duration": 28.6,
+   "ep": "EP07_Paper_Toys",
+   "mb": 3.936696,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e95c12f370f69bd2f40585d1c33a342f9c7751a1",
+    "b96651b0200b9ae76bba848c1a308ce6a8a3424a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP07_Paper_Toys.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
