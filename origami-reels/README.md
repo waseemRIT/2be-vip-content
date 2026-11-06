@@ -4,13 +4,13 @@ Folded-paper objects unfold while the English word appears with its pronunciatio
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**13 posts.** Click a thumbnail to open the post (video, caption and download link).
+**15 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Animals/"><img src="EP01%20Animals/thumbnail.jpg" width="160"><br><sub>EP01 · Animals</sub></a></td><td align="center" valign="top"><a href="EP02%20Farm%20Animals/"><img src="EP02%20Farm%20Animals/thumbnail.jpg" width="160"><br><sub>EP02 · Farm Animals</sub></a></td><td align="center" valign="top"><a href="EP03%20Pets/"><img src="EP03%20Pets/thumbnail.jpg" width="160"><br><sub>EP03 · Pets</sub></a></td><td align="center" valign="top"><a href="EP04%20Shapes/"><img src="EP04%20Shapes/thumbnail.jpg" width="160"><br><sub>EP04 · Shapes</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP05%20Colors/"><img src="EP05%20Colors/thumbnail.jpg" width="160"><br><sub>EP05 · Colors</sub></a></td><td align="center" valign="top"><a href="EP06%20Flowers/"><img src="EP06%20Flowers/thumbnail.jpg" width="160"><br><sub>EP06 · Flowers</sub></a></td><td align="center" valign="top"><a href="EP07%20Paper%20Toys/"><img src="EP07%20Paper%20Toys/thumbnail.jpg" width="160"><br><sub>EP07 · Paper Toys</sub></a></td><td align="center" valign="top"><a href="EP08%20Birds/"><img src="EP08%20Birds/thumbnail.jpg" width="160"><br><sub>EP08 · Birds</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP09%20Sea%20Animals/"><img src="EP09%20Sea%20Animals/thumbnail.jpg" width="160"><br><sub>EP09 · Sea Animals</sub></a></td><td align="center" valign="top"><a href="EP10%20Wild%20Animals/"><img src="EP10%20Wild%20Animals/thumbnail.jpg" width="160"><br><sub>EP10 · Wild Animals</sub></a></td><td align="center" valign="top"><a href="EP11%20Insects/"><img src="EP11%20Insects/thumbnail.jpg" width="160"><br><sub>EP11 · Insects</sub></a></td><td align="center" valign="top"><a href="EP12%20Trees%20and%20Leaves/"><img src="EP12%20Trees%20and%20Leaves/thumbnail.jpg" width="160"><br><sub>EP12 · Trees and Leaves</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP13%20Weather/"><img src="EP13%20Weather/thumbnail.jpg" width="160"><br><sub>EP13 · Weather</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP13%20Weather/"><img src="EP13%20Weather/thumbnail.jpg" width="160"><br><sub>EP13 · Weather</sub></a></td><td align="center" valign="top"><a href="EP14%20Desert%20Animals/"><img src="EP14%20Desert%20Animals/thumbnail.jpg" width="160"><br><sub>EP14 · Desert Animals</sub></a></td><td align="center" valign="top"><a href="EP15%20Transport/"><img src="EP15%20Transport/thumbnail.jpg" width="160"><br><sub>EP15 · Transport</sub></a></td></tr>
 </table>
 
 ---
@@ -23,13 +23,13 @@ Folded-paper objects unfold while the English word appears with its pronunciatio
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**13 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**15 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Animals/"><img src="EP01%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Animals</sub></a></td><td align="center" valign="top"><a href="EP02%20Farm%20Animals/"><img src="EP02%20Farm%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Farm Animals</sub></a></td><td align="center" valign="top"><a href="EP03%20Pets/"><img src="EP03%20Pets/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Pets</sub></a></td><td align="center" valign="top"><a href="EP04%20Shapes/"><img src="EP04%20Shapes/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Shapes</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP05%20Colors/"><img src="EP05%20Colors/thumbnail.jpg" width="160"><br><sub>الحلقة 05 · Colors</sub></a></td><td align="center" valign="top"><a href="EP06%20Flowers/"><img src="EP06%20Flowers/thumbnail.jpg" width="160"><br><sub>الحلقة 06 · Flowers</sub></a></td><td align="center" valign="top"><a href="EP07%20Paper%20Toys/"><img src="EP07%20Paper%20Toys/thumbnail.jpg" width="160"><br><sub>الحلقة 07 · Paper Toys</sub></a></td><td align="center" valign="top"><a href="EP08%20Birds/"><img src="EP08%20Birds/thumbnail.jpg" width="160"><br><sub>الحلقة 08 · Birds</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP09%20Sea%20Animals/"><img src="EP09%20Sea%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 09 · Sea Animals</sub></a></td><td align="center" valign="top"><a href="EP10%20Wild%20Animals/"><img src="EP10%20Wild%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 10 · Wild Animals</sub></a></td><td align="center" valign="top"><a href="EP11%20Insects/"><img src="EP11%20Insects/thumbnail.jpg" width="160"><br><sub>الحلقة 11 · Insects</sub></a></td><td align="center" valign="top"><a href="EP12%20Trees%20and%20Leaves/"><img src="EP12%20Trees%20and%20Leaves/thumbnail.jpg" width="160"><br><sub>الحلقة 12 · Trees and Leaves</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP13%20Weather/"><img src="EP13%20Weather/thumbnail.jpg" width="160"><br><sub>الحلقة 13 · Weather</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP13%20Weather/"><img src="EP13%20Weather/thumbnail.jpg" width="160"><br><sub>الحلقة 13 · Weather</sub></a></td><td align="center" valign="top"><a href="EP14%20Desert%20Animals/"><img src="EP14%20Desert%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 14 · Desert Animals</sub></a></td><td align="center" valign="top"><a href="EP15%20Transport/"><img src="EP15%20Transport/thumbnail.jpg" width="160"><br><sub>الحلقة 15 · Transport</sub></a></td></tr>
 </table>
 
 </div>

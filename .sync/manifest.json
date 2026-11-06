@@ -5415,6 +5415,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP13_Weather.mp4"
   },
+  "origami-reels/EP14_Desert_Animals": {
+   "asset": "EP14_Desert_Animals.mp4",
+   "dir": "EP14 Desert Animals",
+   "duration": 28.6,
+   "ep": "EP14_Desert_Animals",
+   "mb": 4.046413,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "d35e5c3b1d36fad0b9323f02d7112e2fe084c377",
+    "1a08ed9f6df3d96f832dd447f202562eabacebb3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP14_Desert_Animals.mp4"
+  },
+  "origami-reels/EP15_Transport": {
+   "asset": "EP15_Transport.mp4",
+   "dir": "EP15 Transport",
+   "duration": 28.6,
+   "ep": "EP15_Transport",
+   "mb": 5.634472,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "8beecd73ab6ccb55ee6245bdc780943960bd1e46",
+    "c3dcebd64a540aea9138c8c4a05c8808d5456275"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP15_Transport.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
