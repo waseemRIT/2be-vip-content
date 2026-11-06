@@ -4755,6 +4755,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP07_Sea_Creatures.mp4"
   },
+  "lowpoly-reels/EP08_3D_Shapes": {
+   "asset": "EP08_3D_Shapes.mp4",
+   "dir": "EP08 3D Shapes",
+   "duration": 28.6,
+   "ep": "EP08_3D_Shapes",
+   "mb": 3.872939,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "041954954c96bdade1cd536765ee276691d1cc99",
+    "c430c0f935223a5435b9d4debcf92123df6767a8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP08_3D_Shapes.mp4"
+  },
+  "lowpoly-reels/EP09_At_Home": {
+   "asset": "EP09_At_Home.mp4",
+   "dir": "EP09 At Home",
+   "duration": 28.6,
+   "ep": "EP09_At_Home",
+   "mb": 3.926841,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "823839150ffbc310038b9770e58218a1e8ea25e0",
+    "77405305a9c7dbd385604027bb5e5b0545883302"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP09_At_Home.mp4"
+  },
+  "lowpoly-reels/EP10_Vehicles": {
+   "asset": "EP10_Vehicles.mp4",
+   "dir": "EP10 Vehicles",
+   "duration": 28.6,
+   "ep": "EP10_Vehicles",
+   "mb": 4.129694,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "7ac8e2e9828f9dfd9f603682789dde8646744622",
+    "8912651c2dc75bdb24f5cca63757d8bf40d66e93"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP10_Vehicles.mp4"
+  },
+  "lowpoly-reels/EP11_Ball_Games": {
+   "asset": "EP11_Ball_Games.mp4",
+   "dir": "EP11 Ball Games",
+   "duration": 28.6,
+   "ep": "EP11_Ball_Games",
+   "mb": 7.765314,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "802ccaa486ef49f9aa5181939aae583721b0dc58",
+    "7b160d57d54cd2689e998a896b5e8e7f5116f1ed"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP11_Ball_Games.mp4"
+  },
+  "lowpoly-reels/EP12_Kitchen": {
+   "asset": "EP12_Kitchen.mp4",
+   "dir": "EP12 Kitchen",
+   "duration": 28.6,
+   "ep": "EP12_Kitchen",
+   "mb": 3.068736,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "96122b638053261f3e5ce11b6d7d3bc657e25613",
+    "6d239437835a93afa046ad17c053b85c5e18b438"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP12_Kitchen.mp4"
+  },
+  "lowpoly-reels/EP13_Living_Room": {
+   "asset": "EP13_Living_Room.mp4",
+   "dir": "EP13 Living Room",
+   "duration": 28.6,
+   "ep": "EP13_Living_Room",
+   "mb": 3.352085,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "762839722678da49a3089efd6d68eceddbcfd407",
+    "c1e1c20b2d595350d16f91a77baf03f88851c0a5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP13_Living_Room.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
