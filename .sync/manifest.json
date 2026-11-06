@@ -585,6 +585,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP39_Bakery_Shelf.mp4"
   },
+  "cardboard-reels/EP40_Vegetable_Stall": {
+   "asset": "EP40_Vegetable_Stall.mp4",
+   "dir": "EP40 Vegetable Stall",
+   "duration": 28.566667,
+   "ep": "EP40_Vegetable_Stall",
+   "mb": 8.158817,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "5e01c8c2ab07394986e83d397101f1dcf13bb4a1",
+    "9fbf67cf338c7d0f3e5a8a3dadcea7ed61426c38"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP40_Vegetable_Stall.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
