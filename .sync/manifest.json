@@ -7665,6 +7665,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP41_Shoes.mp4"
   },
+  "origami-reels/EP42_Furniture": {
+   "asset": "EP42_Furniture.mp4",
+   "dir": "EP42 Furniture",
+   "duration": 28.6,
+   "ep": "EP42_Furniture",
+   "mb": 3.918133,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "0b0ad18556930f10eb0e485ec5d8f5ca852c5ac1",
+    "8c77f0445abce4fd007a3fdd3a1a6e764b28fddf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP42_Furniture.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
