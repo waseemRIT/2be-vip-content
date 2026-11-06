@@ -12,9 +12,9 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 28 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be with Youssef — Mistake Fixes](youssef-stick-figures/)**<br>Stick-figure family scenes (Egyptian Arabic): one common English mistake, said wrong, struck out and fixed. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 250 |
-| <img src="origami-reels/sample.gif" width="120"> | **[Origami Reels](origami-reels/)**<br>Folded-paper objects unfold while the English word appears with its pronunciation in Arabic letters. | 16 |
+| <img src="origami-reels/sample.gif" width="120"> | **[Origami Reels](origami-reels/)**<br>Folded-paper objects unfold while the English word appears with its pronunciation in Arabic letters. | 19 |
 | <img src="clay-reels/sample.gif" width="120"> | **[Clay Reels](clay-reels/)**<br>Clay objects squash into shape while the English word appears with its pronunciation in Arabic letters. | 19 |
-| <img src="knitted-reels/sample.gif" width="120"> | **[Knitted Reels](knitted-reels/)**<br>Wool objects are knitted row by row while the English word is stitched in. | 13 |
+| <img src="knitted-reels/sample.gif" width="120"> | **[Knitted Reels](knitted-reels/)**<br>Wool objects are knitted row by row while the English word is stitched in. | 19 |
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[Wooden Toy Reels](woodtoy-reels/)**<br>Wooden toys drop and bounce on the table while the English letters bounce in. | 13 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[Cardboard Reels](cardboard-reels/)**<br>Cardboard cut-outs slide in while the English word is stamped on. | 19 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[Marionette Reels](marionette-reels/)**<br>A string puppet acts out each verb while the English word swings in on a wooden sign. | 13 |
@@ -44,9 +44,9 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 28 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be مع يوسف — تصحيح الأخطاء](youssef-stick-figures/)**<br>مشاهد عائلية برسوم بسيطة (بالعامية المصرية): غلطة إنجليزية شائعة، تُقال غلط، ثم تُشطب وتُصحَّح. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 250 |
-| <img src="origami-reels/sample.gif" width="120"> | **[ريلز الأوريغامي](origami-reels/)**<br>كائنات من الورق المطوي تنفتح، والكلمة الإنجليزية تظهر مع نطقها بالحروف العربية. | 16 |
+| <img src="origami-reels/sample.gif" width="120"> | **[ريلز الأوريغامي](origami-reels/)**<br>كائنات من الورق المطوي تنفتح، والكلمة الإنجليزية تظهر مع نطقها بالحروف العربية. | 19 |
 | <img src="clay-reels/sample.gif" width="120"> | **[ريلز الصلصال](clay-reels/)**<br>أشياء من الصلصال تتشكّل أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 19 |
-| <img src="knitted-reels/sample.gif" width="120"> | **[ريلز الصوف المحبوك](knitted-reels/)**<br>أشياء تُحاك من الصوف صفاً بعد صف، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 13 |
+| <img src="knitted-reels/sample.gif" width="120"> | **[ريلز الصوف المحبوك](knitted-reels/)**<br>أشياء تُحاك من الصوف صفاً بعد صف، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 19 |
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[ريلز الألعاب الخشبية](woodtoy-reels/)**<br>ألعاب خشبية تقفز على الطاولة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 13 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[ريلز الكرتون المقصوص](cardboard-reels/)**<br>قطع كرتون تنزلق إلى المشهد، والكلمة الإنجليزية تُختم مع نطقها بالحروف العربية. | 19 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[ريلز الدمية المتحركة](marionette-reels/)**<br>دمية خيوط تمثّل الفعل أمامك، مع الفعل الإنجليزي ونطقه بالحروف العربية. | 13 |
