@@ -5850,6 +5850,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP26_Toys.mp4"
   },
+  "lowpoly-reels/EP27_Bathroom": {
+   "asset": "EP27_Bathroom.mp4",
+   "dir": "EP27 Bathroom",
+   "duration": 28.6,
+   "ep": "EP27_Bathroom",
+   "mb": 3.906886,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "8ff9696e0ed86bc3d750821338ad9a47ec7586ac",
+    "cb9d5a672618aa4b43f9ef9e72f0321723bcdd62"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP27_Bathroom.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
