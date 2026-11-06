@@ -5070,6 +5070,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP07_In_the_Kitchen.mp4"
   },
+  "papiermache-reels/EP08_My_Home": {
+   "asset": "EP08_My_Home.mp4",
+   "dir": "EP08 My Home",
+   "duration": 28.566667,
+   "ep": "EP08_My_Home",
+   "mb": 5.296951,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "2a945df8c35d276f4d007d3dc80aea4fc2784ed1",
+    "6330271391eb1e6674278d1d5e5ff16b4744e7fb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP08_My_Home.mp4"
+  },
+  "papiermache-reels/EP09_Clothes": {
+   "asset": "EP09_Clothes.mp4",
+   "dir": "EP09 Clothes",
+   "duration": 28.566667,
+   "ep": "EP09_Clothes",
+   "mb": 5.492251,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "6d4c49574114704e4147ec1792639545ae10c167",
+    "bdd604e292b16ca8023294f415aa142971c52edc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP09_Clothes.mp4"
+  },
+  "papiermache-reels/EP10_Vegetables": {
+   "asset": "EP10_Vegetables.mp4",
+   "dir": "EP10 Vegetables",
+   "duration": 28.566667,
+   "ep": "EP10_Vegetables",
+   "mb": 5.136783,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "dfb80d291d93bfa1edf6d64fb065ccaae573d649",
+    "40ec38de4d8ca5caf6c1635b467b893763855854"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP10_Vegetables.mp4"
+  },
+  "papiermache-reels/EP11_School_Bag": {
+   "asset": "EP11_School_Bag.mp4",
+   "dir": "EP11 School Bag",
+   "duration": 28.566667,
+   "ep": "EP11_School_Bag",
+   "mb": 5.422936,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "bb85dd24b497a227415701649855bbc3ffd7519b",
+    "c5dd98b6e359aef91d57e9cca3b646d4d31ac235"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP11_School_Bag.mp4"
+  },
+  "papiermache-reels/EP12_Music_Time": {
+   "asset": "EP12_Music_Time.mp4",
+   "dir": "EP12 Music Time",
+   "duration": 28.566667,
+   "ep": "EP12_Music_Time",
+   "mb": 5.614275,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "23a3c2f25c3e1295fae48a406482a6efcd2c2529",
+    "fbfbd7265e0e72c472c907c8fdab82ce7008d94d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP12_Music_Time.mp4"
+  },
+  "papiermache-reels/EP13_Breakfast": {
+   "asset": "EP13_Breakfast.mp4",
+   "dir": "EP13 Breakfast",
+   "duration": 28.566667,
+   "ep": "EP13_Breakfast",
+   "mb": 5.028709,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "5475208446eff9a6db81c322eab0448bce32d5bc",
+    "c4477199d0db26d600f309d3e14db0285212d641"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP13_Breakfast.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
