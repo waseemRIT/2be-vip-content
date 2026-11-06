@@ -8745,6 +8745,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP46_Playtime.mp4"
   },
+  "papiermache-reels/EP48_Kitchen_Machines": {
+   "asset": "EP48_Kitchen_Machines.mp4",
+   "dir": "EP48 Kitchen Machines",
+   "duration": 28.566667,
+   "ep": "EP48_Kitchen_Machines",
+   "mb": 5.71836,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "99ecb922fe209cd92ad579951a4edc4b27692fc4",
+    "86a23ed24fa5e6b93440ee1fd1b8d9b253d3f981"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP48_Kitchen_Machines.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
