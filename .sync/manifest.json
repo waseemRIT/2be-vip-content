@@ -1380,6 +1380,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP43_Sauces.mp4"
   },
+  "clay-reels/EP44_Sea_Creatures": {
+   "asset": "EP44_Sea_Creatures.mp4",
+   "dir": "EP44 Sea Creatures",
+   "duration": 28.566667,
+   "ep": "EP44_Sea_Creatures",
+   "mb": 6.202483,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "62c3003f6ff1ec605576c7ead0629549d25a434b",
+    "8fc9a5ed7f185067e423a264f80311b73f9b348f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP44_Sea_Creatures.mp4"
+  },
+  "clay-reels/EP45_Little_Bugs": {
+   "asset": "EP45_Little_Bugs.mp4",
+   "dir": "EP45 Little Bugs",
+   "duration": 28.566667,
+   "ep": "EP45_Little_Bugs",
+   "mb": 6.270122,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "31fdce8017aefa34ccc8176ceec78b3d4f318380",
+    "fdaf4bcaa40486555084f78c53a76624c71204fc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP45_Little_Bugs.mp4"
+  },
+  "clay-reels/EP46_Bread_Basket": {
+   "asset": "EP46_Bread_Basket.mp4",
+   "dir": "EP46 Bread Basket",
+   "duration": 28.566667,
+   "ep": "EP46_Bread_Basket",
+   "mb": 5.745866,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "26dd92e35903f38bac6b9dcaee106cec4877a7cf",
+    "79cfdfb2abac42cf46adb0e10935315b2b8fa283"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP46_Bread_Basket.mp4"
+  },
+  "clay-reels/EP47_More_Drinks": {
+   "asset": "EP47_More_Drinks.mp4",
+   "dir": "EP47 More Drinks",
+   "duration": 28.566667,
+   "ep": "EP47_More_Drinks",
+   "mb": 5.652667,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "08e47c43122c10cb68b2cb67038ad7d776ae0e64",
+    "4554d25f40301785a01b3f8439ad35baff6fd31b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP47_More_Drinks.mp4"
+  },
+  "clay-reels/EP48_Kitchen_Helpers": {
+   "asset": "EP48_Kitchen_Helpers.mp4",
+   "dir": "EP48 Kitchen Helpers",
+   "duration": 28.566667,
+   "ep": "EP48_Kitchen_Helpers",
+   "mb": 5.740129,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "45c8e2f1d516ecf16b1454cf928ed82db411d5a1",
+    "c64bec792bb0e14a7d53346ae363c2527b04b7e4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP48_Kitchen_Helpers.mp4"
+  },
+  "clay-reels/EP49_Candy_Shop": {
+   "asset": "EP49_Candy_Shop.mp4",
+   "dir": "EP49 Candy Shop",
+   "duration": 28.566667,
+   "ep": "EP49_Candy_Shop",
+   "mb": 5.867792,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "45dab311515c3de5152751f5fa14623103202d12",
+    "64dc4d73ec562293ce2d61968e21af9e7a641540"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP49_Candy_Shop.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -8054,6 +8144,36 @@
     "6f51de28d66150e2380ca7ac63c8dcb87773fc92"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP43_Toys.mp4"
+  },
+  "origami-reels/EP44_Music": {
+   "asset": "EP44_Music.mp4",
+   "dir": "EP44 Music",
+   "duration": 28.6,
+   "ep": "EP44_Music",
+   "mb": 4.490114,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "b7d9df3e8bcbd11e41534d4925ad81ccff2773ef",
+    "16d2e4379314b7ac4010790b980f23a01737fdc8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP44_Music.mp4"
+  },
+  "origami-reels/EP45_Flat_Shapes": {
+   "asset": "EP45_Flat_Shapes.mp4",
+   "dir": "EP45 Flat Shapes",
+   "duration": 28.6,
+   "ep": "EP45_Flat_Shapes",
+   "mb": 3.289698,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "5eb661e95a98e2929dbb63b955b32269d03b079a",
+    "23f4bb67d73e13f83eab384318721beede16cf53"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP45_Flat_Shapes.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
