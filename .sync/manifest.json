@@ -645,6 +645,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP43_At_the_Hotel.mp4"
   },
+  "cardboard-reels/EP44_Old_Market": {
+   "asset": "EP44_Old_Market.mp4",
+   "dir": "EP44 Old Market",
+   "duration": 28.566667,
+   "ep": "EP44_Old_Market",
+   "mb": 8.316877,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "ac808ba0250846e683c04cff6b6435b6d8f9d4e2",
+    "801f59596c94fe79049680cf84860144fe839f63"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP44_Old_Market.mp4"
+  },
+  "cardboard-reels/EP45_Island_Trip": {
+   "asset": "EP45_Island_Trip.mp4",
+   "dir": "EP45 Island Trip",
+   "duration": 28.566667,
+   "ep": "EP45_Island_Trip",
+   "mb": 8.154806,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "d4a5f800353e83fc5f62fe20970400754ebbc055",
+    "857cbe27313c0727cbdafceb014bffbb0160a4d1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP45_Island_Trip.mp4"
+  },
+  "cardboard-reels/EP46_Snowy_Place": {
+   "asset": "EP46_Snowy_Place.mp4",
+   "dir": "EP46 Snowy Place",
+   "duration": 28.566667,
+   "ep": "EP46_Snowy_Place",
+   "mb": 7.672542,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "0605e33a58e8f6246636216646d0332a8421064f",
+    "c0ebe095d3d3beaec6d2394196be1445f37d03c5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP46_Snowy_Place.mp4"
+  },
+  "cardboard-reels/EP47_Picnic": {
+   "asset": "EP47_Picnic.mp4",
+   "dir": "EP47 Picnic",
+   "duration": 28.566667,
+   "ep": "EP47_Picnic",
+   "mb": 7.5966,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "ca8fb89a5f97da1146fc2d2ed96f75220a7a99a6",
+    "9c2f4e3b636d3e5ef47bca816eb616f559e1c3f2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP47_Picnic.mp4"
+  },
+  "cardboard-reels/EP48_Fun_Fair": {
+   "asset": "EP48_Fun_Fair.mp4",
+   "dir": "EP48 Fun Fair",
+   "duration": 28.566667,
+   "ep": "EP48_Fun_Fair",
+   "mb": 7.961583,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "ae78179fe6df08884174c19a8d74fc593cdddaab",
+    "0c8367e4b26af202315b59102e511e7a894d2d2e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP48_Fun_Fair.mp4"
+  },
+  "cardboard-reels/EP49_Sports_Places": {
+   "asset": "EP49_Sports_Places.mp4",
+   "dir": "EP49 Sports Places",
+   "duration": 28.566667,
+   "ep": "EP49_Sports_Places",
+   "mb": 8.455802,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "1f7ae3afd5e0e567e1e9f6834e0e609ac21a39f1",
+    "25cad9111eb87fedc992f214527ad81bb2bdc817"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP49_Sports_Places.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -8609,6 +8699,51 @@
     "a433a66627e040050496675d07817cba341eb0d3"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP43_Little_Bugs.mp4"
+  },
+  "papiermache-reels/EP44_Birds": {
+   "asset": "EP44_Birds.mp4",
+   "dir": "EP44 Birds",
+   "duration": 28.566667,
+   "ep": "EP44_Birds",
+   "mb": 5.879223,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "ba16e136843703147129e2cbff23cd122b71e054",
+    "7ed1ef5e6310e97e32a8a66b6c244a5f79a788d2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP44_Birds.mp4"
+  },
+  "papiermache-reels/EP45_Desert_Trip": {
+   "asset": "EP45_Desert_Trip.mp4",
+   "dir": "EP45 Desert Trip",
+   "duration": 28.566667,
+   "ep": "EP45_Desert_Trip",
+   "mb": 5.696528,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "b7d1c6723618d526518f8b9e056b3f7ba620f292",
+    "9a93f4b582d90f6b2407ec933e6a1a5c9d444565"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP45_Desert_Trip.mp4"
+  },
+  "papiermache-reels/EP46_Playtime": {
+   "asset": "EP46_Playtime.mp4",
+   "dir": "EP46 Playtime",
+   "duration": 28.566667,
+   "ep": "EP46_Playtime",
+   "mb": 6.011168,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "545a8cbaaa22470372923e882bf1185f4129a490",
+    "f9349be77e6fa90e956505f63e346d21942a5661"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP46_Playtime.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
