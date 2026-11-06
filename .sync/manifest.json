@@ -465,6 +465,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP31_Outside_the_House.mp4"
   },
+  "cardboard-reels/EP32_Garden_Tools": {
+   "asset": "EP32_Garden_Tools.mp4",
+   "dir": "EP32 Garden Tools",
+   "duration": 28.566667,
+   "ep": "EP32_Garden_Tools",
+   "mb": 7.090479,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "1747278972691a44a5ba0027c4c2f7832fae1bfe",
+    "bdde5bd168fb6b1579b2d0608778dc1909ac93d1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP32_Garden_Tools.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
