@@ -6810,6 +6810,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP27_In_the_Garden.mp4"
   },
+  "papiermache-reels/EP28_Arts_and_Crafts": {
+   "asset": "EP28_Arts_and_Crafts.mp4",
+   "dir": "EP28 Arts and Crafts",
+   "duration": 28.566667,
+   "ep": "EP28_Arts_and_Crafts",
+   "mb": 5.383177,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "e766b4065e675b9ed8add3cc85740b042923f0c3",
+    "6585279797593fdc676c592c0393dbf8b3c913fa"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP28_Arts_and_Crafts.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
