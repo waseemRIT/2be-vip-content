@@ -5115,6 +5115,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP13_Living_Room.mp4"
   },
+  "lowpoly-reels/EP14_Bedroom": {
+   "asset": "EP14_Bedroom.mp4",
+   "dir": "EP14 Bedroom",
+   "duration": 28.6,
+   "ep": "EP14_Bedroom",
+   "mb": 3.685071,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "fe60cbcadb33a86a8d5c5be7ac4e6449085a2c04",
+    "0ea713eb8dc82f1c1ab81f86fa1c4d36af649334"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP14_Bedroom.mp4"
+  },
+  "lowpoly-reels/EP15_School_Bag": {
+   "asset": "EP15_School_Bag.mp4",
+   "dir": "EP15 School Bag",
+   "duration": 28.6,
+   "ep": "EP15_School_Bag",
+   "mb": 3.59844,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "abc9ae5de8ffa3d595b4d9117f1cbdbb5297cb37",
+    "e88fd509d81ef5243d6ce85881c6569c882ce12e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP15_School_Bag.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
