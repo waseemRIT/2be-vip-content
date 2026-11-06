@@ -11661,6 +11661,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP31_Construction_Set.mp4"
   },
+  "woodtoy-reels/EP32_Farm_Set": {
+   "asset": "EP32_Farm_Set.mp4",
+   "dir": "EP32 Farm Set",
+   "duration": 28.6,
+   "ep": "EP32_Farm_Set",
+   "mb": 3.817137,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "76e67803ed9ada1a9edbb6c8770bdd8a58e7aba7",
+    "547c2f98eb78107945dec4aba60c5e93d8ede486"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP32_Farm_Set.mp4"
+  },
+  "woodtoy-reels/EP33_Kitchen_Appliances": {
+   "asset": "EP33_Kitchen_Appliances.mp4",
+   "dir": "EP33 Kitchen Appliances",
+   "duration": 28.6,
+   "ep": "EP33_Kitchen_Appliances",
+   "mb": 3.072093,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "c3cedfc215e2e83d944533794116344eafde82f8",
+    "1167d2b5465cf34207f097b370881b4d7367fa59"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP33_Kitchen_Appliances.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
