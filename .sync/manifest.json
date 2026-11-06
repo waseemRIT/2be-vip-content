@@ -5565,6 +5565,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP19_Breakfast.mp4"
   },
+  "lowpoly-reels/EP20_Gadgets": {
+   "asset": "EP20_Gadgets.mp4",
+   "dir": "EP20 Gadgets",
+   "duration": 28.6,
+   "ep": "EP20_Gadgets",
+   "mb": 4.149485,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "f9355ac5d9f12fb81926154ce3b6b3bd2571d1cb",
+    "ad970b673f46a06575d95358178646079c257479"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP20_Gadgets.mp4"
+  },
+  "lowpoly-reels/EP21_Pets": {
+   "asset": "EP21_Pets.mp4",
+   "dir": "EP21 Pets",
+   "duration": 28.6,
+   "ep": "EP21_Pets",
+   "mb": 3.695075,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "c278effc9bb48598deb1a2cf281627830e7210db",
+    "60ec145233f8c1a5f9c8940538e12f054a71be4e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP21_Pets.mp4"
+  },
+  "lowpoly-reels/EP22_Insects": {
+   "asset": "EP22_Insects.mp4",
+   "dir": "EP22 Insects",
+   "duration": 28.6,
+   "ep": "EP22_Insects",
+   "mb": 4.148355,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "2c760a9caf6751a1f6e9e380d8a755e27be1a362",
+    "cf2c28b900a0449779ddda40452fcb967a4d18c8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP22_Insects.mp4"
+  },
+  "lowpoly-reels/EP23_Birds": {
+   "asset": "EP23_Birds.mp4",
+   "dir": "EP23 Birds",
+   "duration": 28.6,
+   "ep": "EP23_Birds",
+   "mb": 3.492635,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "1848e2d098b6f158020a25aa2fd28ac148e62129",
+    "bc2f8ad3574798147b718933e483161169c600b1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP23_Birds.mp4"
+  },
+  "lowpoly-reels/EP24_Desserts": {
+   "asset": "EP24_Desserts.mp4",
+   "dir": "EP24 Desserts",
+   "duration": 28.6,
+   "ep": "EP24_Desserts",
+   "mb": 3.226862,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "d76e0537187d0d4be4a5c1bb1feedcb4cbcc7cf9",
+    "efb7f0d01f10ba8fe7f3a1b904e8920f3b33038b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP24_Desserts.mp4"
+  },
+  "lowpoly-reels/EP25_Drinks": {
+   "asset": "EP25_Drinks.mp4",
+   "dir": "EP25 Drinks",
+   "duration": 28.6,
+   "ep": "EP25_Drinks",
+   "mb": 3.294026,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "787cf4f862dc0b80bb5d10219ce6845d2b907870",
+    "b6b54e5e12239789c79c47e71caac08aaaf05547"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP25_Drinks.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
