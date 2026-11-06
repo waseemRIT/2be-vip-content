@@ -1020,6 +1020,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP31_Ice_Cream_Shop.mp4"
   },
+  "clay-reels/EP32_Table_Setting": {
+   "asset": "EP32_Table_Setting.mp4",
+   "dir": "EP32 Table Setting",
+   "duration": 28.566667,
+   "ep": "EP32_Table_Setting",
+   "mb": 5.825032,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "ee6a3c59ce05bb2c892ac61893e41e9b1571359c",
+    "908e77b58eb0c1f070d7f135e233f78e4961f114"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP32_Table_Setting.mp4"
+  },
+  "clay-reels/EP33_Party_Food": {
+   "asset": "EP33_Party_Food.mp4",
+   "dir": "EP33 Party Food",
+   "duration": 28.566667,
+   "ep": "EP33_Party_Food",
+   "mb": 5.567604,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "1da140d596774744670ce2454d69223519d24ece",
+    "8c5d551ad092bb04fd918bc5ab3e58fe31621fb4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP33_Party_Food.mp4"
+  },
+  "clay-reels/EP34_Seafood": {
+   "asset": "EP34_Seafood.mp4",
+   "dir": "EP34 Seafood",
+   "duration": 28.566667,
+   "ep": "EP34_Seafood",
+   "mb": 6.093685,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "9b1928920bdc62df2525ae5c2381f385da464884",
+    "1865f6f5cf20426229833192f4fb28f0b93b7781"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP34_Seafood.mp4"
+  },
+  "clay-reels/EP35_Grains": {
+   "asset": "EP35_Grains.mp4",
+   "dir": "EP35 Grains",
+   "duration": 28.566667,
+   "ep": "EP35_Grains",
+   "mb": 6.731248,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "4de98259f65f6886e629784b54b06bbc62c8be59",
+    "f07bd290b02a9d52726efa7aa55421fe0fad272d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP35_Grains.mp4"
+  },
+  "clay-reels/EP36_Round_Toys": {
+   "asset": "EP36_Round_Toys.mp4",
+   "dir": "EP36 Round Toys",
+   "duration": 28.566667,
+   "ep": "EP36_Round_Toys",
+   "mb": 5.873019,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "7fc653c6a176a6005db1adc7e51aabda5afbad70",
+    "13df38b81726313dc8ed004db487dcbe4637ae8b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP36_Round_Toys.mp4"
+  },
+  "clay-reels/EP37_Kitchen_Appliances": {
+   "asset": "EP37_Kitchen_Appliances.mp4",
+   "dir": "EP37 Kitchen Appliances",
+   "duration": 28.566667,
+   "ep": "EP37_Kitchen_Appliances",
+   "mb": 6.001064,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "7a30a9c3d3f63e21a96d06c08c4a00f7deee9129",
+    "94fc3127797c8543ff5bc8716109b7f9a7d6600a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP37_Kitchen_Appliances.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -7499,6 +7589,36 @@
     "e22b0dad61e9be509c3d1010d5e4dbf5f5b792ba"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP35_Bedroom.mp4"
+  },
+  "papiermache-reels/EP36_Gift_Wrapping": {
+   "asset": "EP36_Gift_Wrapping.mp4",
+   "dir": "EP36 Gift Wrapping",
+   "duration": 28.566667,
+   "ep": "EP36_Gift_Wrapping",
+   "mb": 5.684773,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "dbd4ad884734bf175ee39bff0be7e37e7db768e2",
+    "bd70375627651405654f4c2145f162700d9b9f78"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP36_Gift_Wrapping.mp4"
+  },
+  "papiermache-reels/EP37_Wedding_Day": {
+   "asset": "EP37_Wedding_Day.mp4",
+   "dir": "EP37 Wedding Day",
+   "duration": 28.566667,
+   "ep": "EP37_Wedding_Day",
+   "mb": 5.921571,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "964632ac9908bad1be2caad2a567b20500404e32",
+    "1f2f0f830c6bf9155abc67c474af0cefac75e31a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP37_Wedding_Day.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
