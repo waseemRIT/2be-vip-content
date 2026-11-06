@@ -8130,6 +8130,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP41_Fair_Games.mp4"
   },
+  "papiermache-reels/EP42_Ball_Games": {
+   "asset": "EP42_Ball_Games.mp4",
+   "dir": "EP42 Ball Games",
+   "duration": 28.566667,
+   "ep": "EP42_Ball_Games",
+   "mb": 6.615333,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "5c8974bf80d048cf5d63a2198a65cc11a0675870",
+    "9e9ade3819b85f4e717261e45c1de3a367ea98d4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP42_Ball_Games.mp4"
+  },
+  "papiermache-reels/EP43_Little_Bugs": {
+   "asset": "EP43_Little_Bugs.mp4",
+   "dir": "EP43 Little Bugs",
+   "duration": 28.566667,
+   "ep": "EP43_Little_Bugs",
+   "mb": 6.014484,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "b4f7cc1f6f6ce3fcac23a4ebf109b321ef5596ed",
+    "a433a66627e040050496675d07817cba341eb0d3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP43_Little_Bugs.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
