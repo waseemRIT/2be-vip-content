@@ -5520,6 +5520,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP13_Breakfast.mp4"
   },
+  "papiermache-reels/EP14_At_the_Beach": {
+   "asset": "EP14_At_the_Beach.mp4",
+   "dir": "EP14 At the Beach",
+   "duration": 28.566667,
+   "ep": "EP14_At_the_Beach",
+   "mb": 5.328859,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "b8812dc1374732f743e14a93061d971ef477fc7b",
+    "3fc5f984ba585fc8c79d20279a44bb63698a66ce"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP14_At_the_Beach.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
