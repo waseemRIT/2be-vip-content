@@ -300,6 +300,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP07_Kitchen.mp4"
   },
+  "clay-reels/EP08_Snacks": {
+   "asset": "EP08_Snacks.mp4",
+   "dir": "EP08 Snacks",
+   "duration": 28.566667,
+   "ep": "EP08_Snacks",
+   "mb": 6.296336,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "73736b6cdde01ba196dfc01102373cd63edf7083",
+    "9483438f1776ab1a8585f4c888bca583e01ea610"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP08_Snacks.mp4"
+  },
+  "clay-reels/EP09_Pets": {
+   "asset": "EP09_Pets.mp4",
+   "dir": "EP09 Pets",
+   "duration": 28.566667,
+   "ep": "EP09_Pets",
+   "mb": 6.231223,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "7edaf166a1e8a779d9510a081cae4c0665f0a565",
+    "8f7baf4531ccac2dbdd2c74dd52ce07f44957677"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP09_Pets.mp4"
+  },
+  "clay-reels/EP10_Farm_Animals": {
+   "asset": "EP10_Farm_Animals.mp4",
+   "dir": "EP10 Farm Animals",
+   "duration": 28.566667,
+   "ep": "EP10_Farm_Animals",
+   "mb": 5.731364,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "dd75cc7c39b963b97404c0da25bcb32c3dae1592",
+    "5b00fa720298c7e79e30d499219dcd4b812f8bee"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP10_Farm_Animals.mp4"
+  },
+  "clay-reels/EP11_Dairy": {
+   "asset": "EP11_Dairy.mp4",
+   "dir": "EP11 Dairy",
+   "duration": 28.566667,
+   "ep": "EP11_Dairy",
+   "mb": 5.599513,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "f035a9fc203ddce327ef13d73453927dfff3ee19",
+    "b1fc0a09745992ad07181f694d5231edf06f85a6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP11_Dairy.mp4"
+  },
+  "clay-reels/EP12_Lunch": {
+   "asset": "EP12_Lunch.mp4",
+   "dir": "EP12 Lunch",
+   "duration": 28.566667,
+   "ep": "EP12_Lunch",
+   "mb": 5.714315,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "fe8d67f3270a5f47fcb882ec1e03c5b76ee36e1b",
+    "48706776f22cf7b5fc7520e6e317f89970ab9d4f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP12_Lunch.mp4"
+  },
+  "clay-reels/EP13_Arab_Breakfast": {
+   "asset": "EP13_Arab_Breakfast.mp4",
+   "dir": "EP13 Arab Breakfast",
+   "duration": 28.566667,
+   "ep": "EP13_Arab_Breakfast",
+   "mb": 6.117388,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "b0ad77991b294ee693ed3cf9b7d2f09cbe80fdbd",
+    "615ba2de59768071430b6c5cc72a71fc2bd17d16"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP13_Arab_Breakfast.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -4784,6 +4874,96 @@
     "b96651b0200b9ae76bba848c1a308ce6a8a3424a"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP07_Paper_Toys.mp4"
+  },
+  "origami-reels/EP08_Birds": {
+   "asset": "EP08_Birds.mp4",
+   "dir": "EP08 Birds",
+   "duration": 28.6,
+   "ep": "EP08_Birds",
+   "mb": 4.202807,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "068523ed8c30421abfe0a7b7a825daf82e7ff8fd",
+    "6e266e2f1d327256e2b15a5718cd72a2bafb7291"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP08_Birds.mp4"
+  },
+  "origami-reels/EP09_Sea_Animals": {
+   "asset": "EP09_Sea_Animals.mp4",
+   "dir": "EP09 Sea Animals",
+   "duration": 28.6,
+   "ep": "EP09_Sea_Animals",
+   "mb": 4.809758,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "1b2c4fda070c6ff0cc8193045b2ca448b504e824",
+    "538abe560d139c36cad030dbdc512e718f1c398e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP09_Sea_Animals.mp4"
+  },
+  "origami-reels/EP10_Wild_Animals": {
+   "asset": "EP10_Wild_Animals.mp4",
+   "dir": "EP10 Wild Animals",
+   "duration": 28.6,
+   "ep": "EP10_Wild_Animals",
+   "mb": 3.984959,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "b32fe456d0caec8582e11853bb1174e980620542",
+    "6ec019b02f803da1083a3b50afb2fd9f49e61361"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP10_Wild_Animals.mp4"
+  },
+  "origami-reels/EP11_Insects": {
+   "asset": "EP11_Insects.mp4",
+   "dir": "EP11 Insects",
+   "duration": 28.6,
+   "ep": "EP11_Insects",
+   "mb": 4.273914,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "506b33e6c5cda41e679f73a2250aec7ebd750755",
+    "651747f5724c668ba40afb9be07db12e78836079"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP11_Insects.mp4"
+  },
+  "origami-reels/EP12_Trees_and_Leaves": {
+   "asset": "EP12_Trees_and_Leaves.mp4",
+   "dir": "EP12 Trees and Leaves",
+   "duration": 28.6,
+   "ep": "EP12_Trees_and_Leaves",
+   "mb": 4.14398,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "0d4d429469800b843b2c7d04cec1cfc4e96d5a7b",
+    "9da530fca49f07752a73e3f166e4c0832b1a82a0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP12_Trees_and_Leaves.mp4"
+  },
+  "origami-reels/EP13_Weather": {
+   "asset": "EP13_Weather.mp4",
+   "dir": "EP13 Weather",
+   "duration": 28.6,
+   "ep": "EP13_Weather",
+   "mb": 4.562559,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "95a88f47d2b83afe2e27744a17293495c6327c2b",
+    "b7d902a28b20d9c3ed50e62d27a22ff5b1006381"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP13_Weather.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
