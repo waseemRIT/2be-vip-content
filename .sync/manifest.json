@@ -7110,6 +7110,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP34_Space.mp4"
   },
+  "origami-reels/EP35_Beach": {
+   "asset": "EP35_Beach.mp4",
+   "dir": "EP35 Beach",
+   "duration": 28.6,
+   "ep": "EP35_Beach",
+   "mb": 3.828305,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "071d33b7ca514178f6804fa320098164729032d3",
+    "e76bdc075e413e71a0cfd3c585c020905a907bf8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP35_Beach.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
