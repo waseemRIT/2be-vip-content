@@ -5970,6 +5970,66 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP39_Party.mp4"
   },
+  "knitted-reels/EP40_Garden": {
+   "asset": "EP40_Garden.mp4",
+   "dir": "EP40 Garden",
+   "duration": 28.566667,
+   "ep": "EP40_Garden",
+   "mb": 8.521289,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "68b98ca4a0b4c3db8df94edf7c194de89647101a",
+    "a7c4000b746e23dd6ebad1122bf8d4ed79b3811d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP40_Garden.mp4"
+  },
+  "knitted-reels/EP41_Flowers": {
+   "asset": "EP41_Flowers.mp4",
+   "dir": "EP41 Flowers",
+   "duration": 28.566667,
+   "ep": "EP41_Flowers",
+   "mb": 8.720643,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "0cc512e7d72d442b6a877d4b0371eeb55525bab4",
+    "760e7750a36f6d01a8cda04a413eee42b9036db3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP41_Flowers.mp4"
+  },
+  "knitted-reels/EP42_Hair_Things": {
+   "asset": "EP42_Hair_Things.mp4",
+   "dir": "EP42 Hair Things",
+   "duration": 28.566667,
+   "ep": "EP42_Hair_Things",
+   "mb": 9.409141,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "9b9e45e7d79714b29ddb9bd479b1a66ab0a55d5b",
+    "04b138617e45d788b713c0b0f3f89fcce1676a8a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP42_Hair_Things.mp4"
+  },
+  "knitted-reels/EP43_Laundry": {
+   "asset": "EP43_Laundry.mp4",
+   "dir": "EP43 Laundry",
+   "duration": 28.566667,
+   "ep": "EP43_Laundry",
+   "mb": 9.11954,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "97df12a3fa484026bbfc468d346f2f55105e73fb",
+    "f1af0e49d29953a4e62608a1cc4e8f4ba5620319"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP43_Laundry.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
@@ -12320,6 +12380,96 @@
     "1e51cf8c2b94eaf0e12f5a08e4f8ee07bd90b51a"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP37_Summer_Fruit.mp4"
+  },
+  "woodtoy-reels/EP38_More_Vegetables": {
+   "asset": "EP38_More_Vegetables.mp4",
+   "dir": "EP38 More Vegetables",
+   "duration": 28.6,
+   "ep": "EP38_More_Vegetables",
+   "mb": 3.625509,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "bd636ee58f1f037e74b5c174e955ff677faf77e2",
+    "67d0cdfa9c6b382a8adf7619a742161202343498"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP38_More_Vegetables.mp4"
+  },
+  "woodtoy-reels/EP39_Game_Box": {
+   "asset": "EP39_Game_Box.mp4",
+   "dir": "EP39 Game Box",
+   "duration": 28.6,
+   "ep": "EP39_Game_Box",
+   "mb": 3.668541,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "591692bf204dae93551395660acad8cdcc88d6e8",
+    "93c28ad16775fd65496383e8e7f5a78686416a47"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP39_Game_Box.mp4"
+  },
+  "woodtoy-reels/EP40_Toy_Friends": {
+   "asset": "EP40_Toy_Friends.mp4",
+   "dir": "EP40 Toy Friends",
+   "duration": 28.6,
+   "ep": "EP40_Toy_Friends",
+   "mb": 3.448137,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "05984abbaf8b8c8ca04c98c4b8a2b90f0fae4b39",
+    "136d25d355f7429ad599f84a0e0bf09dd09192bf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP40_Toy_Friends.mp4"
+  },
+  "woodtoy-reels/EP41_Accessories": {
+   "asset": "EP41_Accessories.mp4",
+   "dir": "EP41 Accessories",
+   "duration": 28.6,
+   "ep": "EP41_Accessories",
+   "mb": 3.63806,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "5d85e72a88013e12fdf7940573fbb684adbe3ce9",
+    "2952f6c09cafbc93e8d0b874b065b60563c2c4e2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP41_Accessories.mp4"
+  },
+  "woodtoy-reels/EP42_Outdoor_Clothes": {
+   "asset": "EP42_Outdoor_Clothes.mp4",
+   "dir": "EP42 Outdoor Clothes",
+   "duration": 28.6,
+   "ep": "EP42_Outdoor_Clothes",
+   "mb": 3.365054,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "3bad257f00718d4a04b342daa61ad2fa93919105",
+    "38f56c035e943b600dc12b30fc3c1753f87aff80"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP42_Outdoor_Clothes.mp4"
+  },
+  "woodtoy-reels/EP43_Sports_Set": {
+   "asset": "EP43_Sports_Set.mp4",
+   "dir": "EP43 Sports Set",
+   "duration": 28.6,
+   "ep": "EP43_Sports_Set",
+   "mb": 3.455089,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "b0a4ec01f15af9d25f8c1ad65c8b3b7ebac8225c",
+    "3808e572fc3a43a3727d9d0c8deac66eddb89148"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP43_Sports_Set.mp4"
   },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
