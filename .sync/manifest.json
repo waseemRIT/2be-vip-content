@@ -6585,6 +6585,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP37_Plants.mp4"
   },
+  "lowpoly-reels/EP38_In_the_Garden": {
+   "asset": "EP38_In_the_Garden.mp4",
+   "dir": "EP38 In the Garden",
+   "duration": 28.6,
+   "ep": "EP38_In_the_Garden",
+   "mb": 4.198526,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "f659a504bf4729ea6c40f2bebd78486e59a1b572",
+    "49755fe92256e53f25693cf4439dc4a99cbff07d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP38_In_the_Garden.mp4"
+  },
+  "lowpoly-reels/EP39_Kitchen_Machines": {
+   "asset": "EP39_Kitchen_Machines.mp4",
+   "dir": "EP39 Kitchen Machines",
+   "duration": 28.6,
+   "ep": "EP39_Kitchen_Machines",
+   "mb": 3.662216,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "a741a13120264c1d69b9d839966f7eec271e87af",
+    "710e47205ff1ab245748089362ae0c2fdd487ea2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP39_Kitchen_Machines.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
