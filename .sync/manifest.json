@@ -6225,6 +6225,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP31_By_the_Sea.mp4"
   },
+  "lowpoly-reels/EP32_Polar_World": {
+   "asset": "EP32_Polar_World.mp4",
+   "dir": "EP32 Polar World",
+   "duration": 28.6,
+   "ep": "EP32_Polar_World",
+   "mb": 3.68421,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "3d6b4251f98516bed1dd59dee0792f5002dffe0f",
+    "d22540131e794127fff1faaf0c116d9b0a886b4b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP32_Polar_World.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
