@@ -11691,6 +11691,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP33_Kitchen_Appliances.mp4"
   },
+  "woodtoy-reels/EP34_Tableware": {
+   "asset": "EP34_Tableware.mp4",
+   "dir": "EP34 Tableware",
+   "duration": 28.6,
+   "ep": "EP34_Tableware",
+   "mb": 3.092709,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "c758906cdab517e366243dba2daad6d11a62db78",
+    "89f7830d3ef60c40af671180e101ce626daea8e8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP34_Tableware.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
