@@ -5445,6 +5445,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP15_Transport.mp4"
   },
+  "origami-reels/EP16_Clothes": {
+   "asset": "EP16_Clothes.mp4",
+   "dir": "EP16 Clothes",
+   "duration": 28.6,
+   "ep": "EP16_Clothes",
+   "mb": 3.549501,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "60ffd74b8829bfa5bd9eacadb84897ca43e23418",
+    "8165f0db726c5b0fb05f87f4ecfbffafe92c4db8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP16_Clothes.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
