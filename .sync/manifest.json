@@ -4560,6 +4560,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP07_Weather.mp4"
   },
+  "knitted-reels/EP08_Baby_Things": {
+   "asset": "EP08_Baby_Things.mp4",
+   "dir": "EP08 Baby Things",
+   "duration": 28.566667,
+   "ep": "EP08_Baby_Things",
+   "mb": 8.141059,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "52ddf481c07ec9fa2343fe9fd961fe9e09777d2e",
+    "7ab13d07a262744918a0eadb13d1b2969b97cc1f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP08_Baby_Things.mp4"
+  },
+  "knitted-reels/EP09_Living_Room": {
+   "asset": "EP09_Living_Room.mp4",
+   "dir": "EP09 Living Room",
+   "duration": 28.566667,
+   "ep": "EP09_Living_Room",
+   "mb": 8.544969,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "dbfce5b0e7702d586fb768bd9f619d9914ef68b7",
+    "6c67fb46e02fccb8f4db95cc8a6b2e5b7817a7ff"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP09_Living_Room.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
