@@ -1,0 +1,49 @@
+# EP26 — Jewellery
+
+Part of **[Papier-mache Reels](../README.md)**.
+
+[![Jewellery](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP26_Jewellery.mp4)
+
+▶️ **[Watch / download the video](https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP26_Jewellery.mp4)** (0:29, 6 MB)
+
+## Caption
+
+```text
+Jewellery | مجوهرات — 5 English words 🎨
+Ring = خاتم · Necklace = قلادة · Bracelet = سوار · Earring = قرط · Watch = ساعة يد
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Brightly Fancy" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+---
+
+<div dir="rtl">
+
+# الحلقة 26 — Jewellery
+
+جزء من **[ريلز ورق الجرائد المعجون](../README.md)**.
+
+[![Jewellery](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP26_Jewellery.mp4)
+
+▶️ **[شاهد / حمّل الفيديو](https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP26_Jewellery.mp4)** (0:29، 6 ميجابايت)
+
+## الكابشن
+
+```text
+Jewellery | مجوهرات — 5 English words 🎨
+Ring = خاتم · Necklace = قلادة · Bracelet = سوار · Earring = قرط · Watch = ساعة يد
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Brightly Fancy" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+</div>

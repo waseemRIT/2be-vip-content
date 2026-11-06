@@ -6780,6 +6780,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP25_At_the_Souq.mp4"
   },
+  "papiermache-reels/EP26_Jewellery": {
+   "asset": "EP26_Jewellery.mp4",
+   "dir": "EP26 Jewellery",
+   "duration": 28.566667,
+   "ep": "EP26_Jewellery",
+   "mb": 5.859107,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "111c3a0bd947ee6e848edab42c85f321cea33523",
+    "7c5526c0f1a164cde31493e95dd8f140544a72e3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP26_Jewellery.mp4"
+  },
+  "papiermache-reels/EP27_In_the_Garden": {
+   "asset": "EP27_In_the_Garden.mp4",
+   "dir": "EP27 In the Garden",
+   "duration": 28.566667,
+   "ep": "EP27_In_the_Garden",
+   "mb": 5.70381,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "027b7f05a31616bce11b522b248f881f53627fc7",
+    "d8eb457088fb1b16b3a5cd9c4be35f55f53256f7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP27_In_the_Garden.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
