@@ -6240,6 +6240,81 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP32_Polar_World.mp4"
   },
+  "lowpoly-reels/EP33_Camping": {
+   "asset": "EP33_Camping.mp4",
+   "dir": "EP33 Camping",
+   "duration": 28.6,
+   "ep": "EP33_Camping",
+   "mb": 3.889773,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "029409d4fc6d5686169b38055b8a719c6ddec390",
+    "0c7140f0070c53ad3915634ff2f908042423d639"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP33_Camping.mp4"
+  },
+  "lowpoly-reels/EP34_Jungle": {
+   "asset": "EP34_Jungle.mp4",
+   "dir": "EP34 Jungle",
+   "duration": 28.6,
+   "ep": "EP34_Jungle",
+   "mb": 3.734036,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "bface8e86a2cde2093773ac9a1f2195bfdd2758a",
+    "762d15ccf822a170ab9c9248550d439f4d2bbc26"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP34_Jungle.mp4"
+  },
+  "lowpoly-reels/EP35_Savanna": {
+   "asset": "EP35_Savanna.mp4",
+   "dir": "EP35 Savanna",
+   "duration": 28.6,
+   "ep": "EP35_Savanna",
+   "mb": 3.392861,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "97ec4dcfe18e36d4fd7a1ad289c68286a8dfd05b",
+    "1762f12555dd419ec726a6aa1dff2924917dfe30"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP35_Savanna.mp4"
+  },
+  "lowpoly-reels/EP36_Forest_Animals": {
+   "asset": "EP36_Forest_Animals.mp4",
+   "dir": "EP36 Forest Animals",
+   "duration": 28.6,
+   "ep": "EP36_Forest_Animals",
+   "mb": 3.680365,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "6395fa64bc99076f0caf7e5df2577883f3195b95",
+    "6804ff66c15d06e276d95933eceb1c2d822431d3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP36_Forest_Animals.mp4"
+  },
+  "lowpoly-reels/EP37_Plants": {
+   "asset": "EP37_Plants.mp4",
+   "dir": "EP37 Plants",
+   "duration": 28.6,
+   "ep": "EP37_Plants",
+   "mb": 3.504388,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "7b5c6004b00deef6fd959064d1bb652484a564f5",
+    "07b22e8c9e8dce929888d11054ea9082ee8f5688"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP37_Plants.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
@@ -6704,6 +6779,81 @@
     "64e4c4bf3144e277c4d2ec55b1df3d39611da9d0"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP31_Getting_Dressed.mp4"
+  },
+  "marionette-reels/EP32_Where_Is_He": {
+   "asset": "EP32_Where_Is_He.mp4",
+   "dir": "EP32 Where Is He",
+   "duration": 28.6,
+   "ep": "EP32_Where_Is_He",
+   "mb": 6.063332,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "138150a1c23760bdc89ea2bfac4b915f95692145",
+    "877abd83610bf37185325ca991aa09413e02ece2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP32_Where_Is_He.mp4"
+  },
+  "marionette-reels/EP33_Directions": {
+   "asset": "EP33_Directions.mp4",
+   "dir": "EP33 Directions",
+   "duration": 28.6,
+   "ep": "EP33_Directions",
+   "mb": 7.425463,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "e4b0b5c2d2b5938c1b8c714599ecc730f96ff707",
+    "19bdc3d5cb2640f021689fdae4bda14f0877fa18"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP33_Directions.mp4"
+  },
+  "marionette-reels/EP34_Fast_and_Slow": {
+   "asset": "EP34_Fast_and_Slow.mp4",
+   "dir": "EP34 Fast and Slow",
+   "duration": 28.6,
+   "ep": "EP34_Fast_and_Slow",
+   "mb": 7.337786,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "1ac5760e56579d096540f9602033ed6882e6f512",
+    "28c9cb25bc560c932b001dcbf6961c89ecf1fd2a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP34_Fast_and_Slow.mp4"
+  },
+  "marionette-reels/EP35_Beach": {
+   "asset": "EP35_Beach.mp4",
+   "dir": "EP35 Beach",
+   "duration": 28.6,
+   "ep": "EP35_Beach",
+   "mb": 8.103887,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "f01ac1c1a0a2015624d0cca15f184cc9fdc8821a",
+    "7a9e912d7514bfb323b8cdc664fc5d2de22259a5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP35_Beach.mp4"
+  },
+  "marionette-reels/EP36_Camping": {
+   "asset": "EP36_Camping.mp4",
+   "dir": "EP36 Camping",
+   "duration": 28.6,
+   "ep": "EP36_Camping",
+   "mb": 7.725086,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "7504414528928e2b407e2b05289b1a016b282106",
+    "118ebc0beb15b0db8472d0fe3207b21da614938e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP36_Camping.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
