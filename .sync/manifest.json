@@ -1170,6 +1170,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP10_Farm_animals.mp4"
   },
+  "felt-songs/EP11 Wild animals": {
+   "asset": "EP11_Wild_animals.mp4",
+   "dir": "EP11 Wild animals",
+   "duration": 86.6,
+   "ep": "EP11 Wild animals",
+   "mb": 42.0161,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "5a94047aafdc7b3fa8f22a3ee9ef46f8ebe19f9a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP11_Wild_animals.mp4"
+  },
   "felt-songs/EP12 Sea animals": {
    "asset": "EP12_Sea_animals.mp4",
    "dir": "EP12 Sea animals",
@@ -1184,6 +1199,21 @@
     null
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP12_Sea_animals.mp4"
+  },
+  "felt-songs/EP13 Pets": {
+   "asset": "EP13_Pets.mp4",
+   "dir": "EP13 Pets",
+   "duration": 79.0,
+   "ep": "EP13 Pets",
+   "mb": 38.099654,
+   "readme_v": 2,
+   "series": "felt-songs",
+   "sig": [
+    3,
+    "293c0599fb997962f4bb439183ba18f28544ddae",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-felt-songs/EP13_Pets.mp4"
   },
   "hamada-shadow-puppet/EP01 The Ring": {
    "asset": "EP01_The_Ring.mp4",
