@@ -480,6 +480,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP13_Arab_Breakfast.mp4"
   },
+  "clay-reels/EP14_At_the_Table": {
+   "asset": "EP14_At_the_Table.mp4",
+   "dir": "EP14 At the Table",
+   "duration": 28.566667,
+   "ep": "EP14_At_the_Table",
+   "mb": 5.829932,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "67cedbbbecb97f2c0ae3cada08e0d88339d5f50d",
+    "40214ae78b8f8c981010a8f43b8c537af091d364"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP14_At_the_Table.mp4"
+  },
+  "clay-reels/EP15_Toys": {
+   "asset": "EP15_Toys.mp4",
+   "dir": "EP15 Toys",
+   "duration": 28.566667,
+   "ep": "EP15_Toys",
+   "mb": 5.650358,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "4a595efc07456d4b980fb68c8cf4d83c0faf5c82",
+    "1a4ac028251e964f4d1bfc6e06a24fac2bf49724"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP15_Toys.mp4"
+  },
+  "clay-reels/EP16_Baking": {
+   "asset": "EP16_Baking.mp4",
+   "dir": "EP16 Baking",
+   "duration": 28.566667,
+   "ep": "EP16_Baking",
+   "mb": 5.873432,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "7afae2d8c73db1ea06903fad85dc3a6ef52f95be",
+    "af89ba6eb960daec6eb3d56c670fbf20ff388f8d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP16_Baking.mp4"
+  },
+  "clay-reels/EP17_Big_Fruits": {
+   "asset": "EP17_Big_Fruits.mp4",
+   "dir": "EP17 Big Fruits",
+   "duration": 28.566667,
+   "ep": "EP17_Big_Fruits",
+   "mb": 6.064303,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "674df3f69f0ba89210ff3a9c7d2012da7da4dda6",
+    "ea52845a67e3199e5f10edcb1dff930fc5108740"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP17_Big_Fruits.mp4"
+  },
+  "clay-reels/EP18_Green_Vegetables": {
+   "asset": "EP18_Green_Vegetables.mp4",
+   "dir": "EP18 Green Vegetables",
+   "duration": 28.566667,
+   "ep": "EP18_Green_Vegetables",
+   "mb": 5.69988,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "9b8d881cfdb58c6e40582824d6cb248d522c75d6",
+    "d543264b23d27b948aa9661183f166d737b5b5b1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP18_Green_Vegetables.mp4"
+  },
+  "clay-reels/EP19_Shapes": {
+   "asset": "EP19_Shapes.mp4",
+   "dir": "EP19 Shapes",
+   "duration": 28.566667,
+   "ep": "EP19_Shapes",
+   "mb": 5.303177,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "ca103ad9e60044030ed5013974b4be594d35b6ed",
+    "5b96f7ed7df02417487d19b4cc6afc3b94374529"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP19_Shapes.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -5534,6 +5624,81 @@
     "3fc5f984ba585fc8c79d20279a44bb63698a66ce"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP14_At_the_Beach.mp4"
+  },
+  "papiermache-reels/EP15_Pets": {
+   "asset": "EP15_Pets.mp4",
+   "dir": "EP15 Pets",
+   "duration": 28.566667,
+   "ep": "EP15_Pets",
+   "mb": 5.49044,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "62839422f1f886c7d647dd4e431093b5346f0156",
+    "75ca7d0725562453cff8683ac6e04c495c53d7d6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP15_Pets.mp4"
+  },
+  "papiermache-reels/EP16_Picnic": {
+   "asset": "EP16_Picnic.mp4",
+   "dir": "EP16 Picnic",
+   "duration": 28.566667,
+   "ep": "EP16_Picnic",
+   "mb": 5.793002,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "f7aeda1ce274a1ae43f1613ff00feaf271297b4a",
+    "8548019ba916041c172cb74b35314392205bbf2f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP16_Picnic.mp4"
+  },
+  "papiermache-reels/EP17_Weather": {
+   "asset": "EP17_Weather.mp4",
+   "dir": "EP17 Weather",
+   "duration": 28.566667,
+   "ep": "EP17_Weather",
+   "mb": 5.46654,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "ea910cd4d83e40d773190d944964381aded8faa1",
+    "b02b6e3f9c81d6cf8bcf2345fbd0176dae378674"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP17_Weather.mp4"
+  },
+  "papiermache-reels/EP18_My_Face": {
+   "asset": "EP18_My_Face.mp4",
+   "dir": "EP18 My Face",
+   "duration": 28.566667,
+   "ep": "EP18_My_Face",
+   "mb": 6.068933,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "ec5e1208dd9f36bc7ef3565479dc7077f440b1d7",
+    "df2a09cf2e3d71c0519ac6376a20c810bf6b865a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP18_My_Face.mp4"
+  },
+  "papiermache-reels/EP19_Vehicles": {
+   "asset": "EP19_Vehicles.mp4",
+   "dir": "EP19 Vehicles",
+   "duration": 28.566667,
+   "ep": "EP19_Vehicles",
+   "mb": 5.74991,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "20786ea9f89c746af57942713ae77e1998600e25",
+    "0d66a744ed3a1aa8adfa2362fa70005faca2a4ec"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP19_Vehicles.mp4"
   },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
