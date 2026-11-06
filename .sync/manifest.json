@@ -555,6 +555,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP37_Toy_Shop.mp4"
   },
+  "cardboard-reels/EP38_Clothes_Shop": {
+   "asset": "EP38_Clothes_Shop.mp4",
+   "dir": "EP38 Clothes Shop",
+   "duration": 28.566667,
+   "ep": "EP38_Clothes_Shop",
+   "mb": 7.900654,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "32a76d59c023479ce2a6fd1a05f4791c21d7df2c",
+    "6b7f65e3a65f94c5d8c0f8336b7c90ad8f3e4976"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP38_Clothes_Shop.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
