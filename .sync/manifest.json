@@ -11736,6 +11736,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP36_Jungle.mp4"
   },
+  "woodtoy-reels/EP37_Summer_Fruit": {
+   "asset": "EP37_Summer_Fruit.mp4",
+   "dir": "EP37 Summer Fruit",
+   "duration": 28.6,
+   "ep": "EP37_Summer_Fruit",
+   "mb": 3.465257,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "b65d8345cd7ef00306880d41b035cc8d2396f00a",
+    "1e51cf8c2b94eaf0e12f5a08e4f8ee07bd90b51a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP37_Summer_Fruit.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
