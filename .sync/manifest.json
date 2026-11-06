@@ -8031,6 +8031,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP01_Toys.mp4"
   },
+  "woodtoy-reels/EP02_Fruit": {
+   "asset": "EP02_Fruit.mp4",
+   "dir": "EP02 Fruit",
+   "duration": 28.6,
+   "ep": "EP02_Fruit",
+   "mb": 2.908761,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "c66ab6ce6d8bedfdc4b61f69208af06a1e3163af",
+    "a34a435bce981648458f1ed7716a8581c64c9dfc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP02_Fruit.mp4"
+  },
+  "woodtoy-reels/EP03_Vegetables": {
+   "asset": "EP03_Vegetables.mp4",
+   "dir": "EP03 Vegetables",
+   "duration": 28.6,
+   "ep": "EP03_Vegetables",
+   "mb": 2.842256,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "125157fce412db3cb11cde584e8fa237dac89d20",
+    "5fa8603962cd45ab952d11c0235400ef067b8f29"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP03_Vegetables.mp4"
+  },
+  "woodtoy-reels/EP04_Farm_Animals": {
+   "asset": "EP04_Farm_Animals.mp4",
+   "dir": "EP04 Farm Animals",
+   "duration": 28.6,
+   "ep": "EP04_Farm_Animals",
+   "mb": 3.056553,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "3b2594d4a5d75dafd6b813d4a2fc09e944c09a66",
+    "6946b4352119464495d891c6272c63bc9632318d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP04_Farm_Animals.mp4"
+  },
+  "woodtoy-reels/EP05_Pets": {
+   "asset": "EP05_Pets.mp4",
+   "dir": "EP05 Pets",
+   "duration": 28.6,
+   "ep": "EP05_Pets",
+   "mb": 3.296864,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "a4909fb58a15806f449627b942a8646d8c74fa13",
+    "c44a8e544582dbc53ac1134be11b7566dfffeeee"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP05_Pets.mp4"
+  },
+  "woodtoy-reels/EP06_Toy_Vehicles": {
+   "asset": "EP06_Toy_Vehicles.mp4",
+   "dir": "EP06 Toy Vehicles",
+   "duration": 28.6,
+   "ep": "EP06_Toy_Vehicles",
+   "mb": 2.983184,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "95b097ac3b579e5e39bc73a46e3fb6323f6a83b6",
+    "204fd9ca61334a46acb983e55feafe45b4f02c18"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP06_Toy_Vehicles.mp4"
+  },
+  "woodtoy-reels/EP07_Kitchen_Play_Set": {
+   "asset": "EP07_Kitchen_Play_Set.mp4",
+   "dir": "EP07 Kitchen Play Set",
+   "duration": 28.6,
+   "ep": "EP07_Kitchen_Play_Set",
+   "mb": 3.025251,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "a6e58780ebd56ede29e202a4e3e10f2791b304e3",
+    "3481320984654fc7030df05480e1f0f5425b0515"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP07_Kitchen_Play_Set.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
