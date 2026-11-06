@@ -6165,6 +6165,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP20_Bathroom.mp4"
   },
+  "papiermache-reels/EP21_Eid_Joy": {
+   "asset": "EP21_Eid_Joy.mp4",
+   "dir": "EP21 Eid Joy",
+   "duration": 28.566667,
+   "ep": "EP21_Eid_Joy",
+   "mb": 5.549893,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "c266ec7e9397a808f876ebf9547c69898939fcfb",
+    "632a0b97fc282cffa7729766fdab5fae2bf834ed"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP21_Eid_Joy.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
