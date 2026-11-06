@@ -6840,6 +6840,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP29_Wild_Animals.mp4"
   },
+  "papiermache-reels/EP30_Sea_Creatures": {
+   "asset": "EP30_Sea_Creatures.mp4",
+   "dir": "EP30 Sea Creatures",
+   "duration": 28.566667,
+   "ep": "EP30_Sea_Creatures",
+   "mb": 5.896958,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "805d928eb5ad0d78bf7303416fe51dae1f7885c4",
+    "2142f4216dad8eec36d212c5a403bc7b1d508b01"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP30_Sea_Creatures.mp4"
+  },
+  "papiermache-reels/EP31_Drinks": {
+   "asset": "EP31_Drinks.mp4",
+   "dir": "EP31 Drinks",
+   "duration": 28.566667,
+   "ep": "EP31_Drinks",
+   "mb": 5.649703,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "1b62904a54ea3a1e13f548b89a0f6693d557e4fc",
+    "489b4bb2906a3afd8e3497315b1f609d6954a81d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP31_Drinks.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
