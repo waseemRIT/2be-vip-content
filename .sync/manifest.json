@@ -840,6 +840,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP25_Bakery.mp4"
   },
+  "clay-reels/EP26_Round_Animals": {
+   "asset": "EP26_Round_Animals.mp4",
+   "dir": "EP26 Round Animals",
+   "duration": 28.566667,
+   "ep": "EP26_Round_Animals",
+   "mb": 6.179755,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "bfa2d9ad4fdd7829a2071e61bfdcc1ec7d113516",
+    "66edc36c4fa24241055a66b500af3e60fbf2c2d8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP26_Round_Animals.mp4"
+  },
+  "clay-reels/EP27_Sour_Fruits": {
+   "asset": "EP27_Sour_Fruits.mp4",
+   "dir": "EP27 Sour Fruits",
+   "duration": 28.566667,
+   "ep": "EP27_Sour_Fruits",
+   "mb": 6.088127,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "a3493eb92c2715cb673850a27209e11983bde3f3",
+    "bd74fed642d3f2f2fd6c9bd74a1a690abb3117d5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP27_Sour_Fruits.mp4"
+  },
+  "clay-reels/EP28_Sweet_Breakfast": {
+   "asset": "EP28_Sweet_Breakfast.mp4",
+   "dir": "EP28 Sweet Breakfast",
+   "duration": 28.566667,
+   "ep": "EP28_Sweet_Breakfast",
+   "mb": 6.225375,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "0e8d1f50dedc9a1e83661218c6cecef1d3c7099a",
+    "21ba81bccf8e709e2990c6598f8b0df3d22be9e5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP28_Sweet_Breakfast.mp4"
+  },
+  "clay-reels/EP29_Picnic": {
+   "asset": "EP29_Picnic.mp4",
+   "dir": "EP29 Picnic",
+   "duration": 28.566667,
+   "ep": "EP29_Picnic",
+   "mb": 6.079581,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "3bfc38056b2cbd47b1eaae16bd5f515a63ccfad3",
+    "869812235a6fb4a9be9eac5305d57c9da1b0d3d5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP29_Picnic.mp4"
+  },
+  "clay-reels/EP30_Root_Vegetables": {
+   "asset": "EP30_Root_Vegetables.mp4",
+   "dir": "EP30 Root Vegetables",
+   "duration": 28.566667,
+   "ep": "EP30_Root_Vegetables",
+   "mb": 5.630007,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "62567d74dd2cd013ee4dbdabf337912d27ebc0b4",
+    "8b92e06be65524e513e43b32564d727c07e1a9da"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP30_Root_Vegetables.mp4"
+  },
+  "clay-reels/EP31_Ice_Cream_Shop": {
+   "asset": "EP31_Ice_Cream_Shop.mp4",
+   "dir": "EP31 Ice Cream Shop",
+   "duration": 28.566667,
+   "ep": "EP31_Ice_Cream_Shop",
+   "mb": 5.68856,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "72e329cb9bb9683449747ad7d85e650858e4fc72",
+    "33efe6e5e609bbc8a152bd964c598d81bd6bc5f7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP31_Ice_Cream_Shop.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
