@@ -375,6 +375,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP25_Wild_Weather.mp4"
   },
+  "cardboard-reels/EP26_Weather_Clothes": {
+   "asset": "EP26_Weather_Clothes.mp4",
+   "dir": "EP26 Weather Clothes",
+   "duration": 28.566667,
+   "ep": "EP26_Weather_Clothes",
+   "mb": 8.097805,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "cbc359d81dfa5d681e187f1e218219987a1ac5ef",
+    "553659c69953d0a32598cc470172b3e7b2d717b3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP26_Weather_Clothes.mp4"
+  },
+  "cardboard-reels/EP27_City_Buildings": {
+   "asset": "EP27_City_Buildings.mp4",
+   "dir": "EP27 City Buildings",
+   "duration": 28.566667,
+   "ep": "EP27_City_Buildings",
+   "mb": 8.914907,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "0d485ad04a7ef4ce9b26438ae02dd1d182b68953",
+    "83c318fd233950a210b26424cee6e9230f172e8f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP27_City_Buildings.mp4"
+  },
+  "cardboard-reels/EP28_Street_Food": {
+   "asset": "EP28_Street_Food.mp4",
+   "dir": "EP28 Street Food",
+   "duration": 28.566667,
+   "ep": "EP28_Street_Food",
+   "mb": 8.492045,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "8626802edb252e817ff776ae1545c4b46757be8c",
+    "e51fe7cac2c4b4f490cd7cbd17399466d371adb7"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP28_Street_Food.mp4"
+  },
+  "cardboard-reels/EP29_Car_Care": {
+   "asset": "EP29_Car_Care.mp4",
+   "dir": "EP29 Car Care",
+   "duration": 28.566667,
+   "ep": "EP29_Car_Care",
+   "mb": 8.199638,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "ea7aec50920a862290b393bed35e6de775b4f876",
+    "7a20a50661a5e4cf4267a9ab4821e0b5de04121b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP29_Car_Care.mp4"
+  },
+  "cardboard-reels/EP30_Traffic_Items": {
+   "asset": "EP30_Traffic_Items.mp4",
+   "dir": "EP30 Traffic Items",
+   "duration": 28.566667,
+   "ep": "EP30_Traffic_Items",
+   "mb": 8.04059,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "4e955f4f96f11b30fda618cf9d499e117b6544bd",
+    "ef6069dc51d50db00844756b7531cef7c525ff3d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP30_Traffic_Items.mp4"
+  },
+  "cardboard-reels/EP31_Outside_the_House": {
+   "asset": "EP31_Outside_the_House.mp4",
+   "dir": "EP31 Outside the House",
+   "duration": 28.566667,
+   "ep": "EP31_Outside_the_House",
+   "mb": 8.029885,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "1deb631ce88d71a5b60edf8659e2cc4f5302d47d",
+    "49f8f366223b99b432cc0f6ffee8a2483893aebd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP31_Outside_the_House.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
@@ -5759,6 +5849,96 @@
     "274cfb2ae2c7c31a396fbcb89cfcd9143070c00a"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP19_The_Body.mp4"
+  },
+  "marionette-reels/EP20_Travel": {
+   "asset": "EP20_Travel.mp4",
+   "dir": "EP20 Travel",
+   "duration": 28.6,
+   "ep": "EP20_Travel",
+   "mb": 6.863141,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "5f0f80a75d7e427c7004642742bb1cce0a72a0af",
+    "0c505319ee37b34d1a0482740b75564df24f0185"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP20_Travel.mp4"
+  },
+  "marionette-reels/EP21_Hands": {
+   "asset": "EP21_Hands.mp4",
+   "dir": "EP21 Hands",
+   "duration": 28.6,
+   "ep": "EP21_Hands",
+   "mb": 6.620865,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "7528baf4280b3047ff78d75328ba898b065e50ab",
+    "b596b32a5b751f9f7702c08ed05b08d70ce99344"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP21_Hands.mp4"
+  },
+  "marionette-reels/EP22_Exercise": {
+   "asset": "EP22_Exercise.mp4",
+   "dir": "EP22 Exercise",
+   "duration": 28.6,
+   "ep": "EP22_Exercise",
+   "mb": 6.695672,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "2777c6b99db77f0d602afeedf593cbf6abe489c4",
+    "a9bb37791c0f5e97cd4e27e0e35b7e98ce922858"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP22_Exercise.mp4"
+  },
+  "marionette-reels/EP23_Shopping": {
+   "asset": "EP23_Shopping.mp4",
+   "dir": "EP23 Shopping",
+   "duration": 28.6,
+   "ep": "EP23_Shopping",
+   "mb": 7.079362,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "394fe165348f23fada78acf94f7a7b79c530795a",
+    "b82da2d4efb842b92ed637a553a3cb07792984c1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP23_Shopping.mp4"
+  },
+  "marionette-reels/EP24_Art_Class": {
+   "asset": "EP24_Art_Class.mp4",
+   "dir": "EP24 Art Class",
+   "duration": 28.6,
+   "ep": "EP24_Art_Class",
+   "mb": 6.655464,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "23ba4edf1008d1f1168211d1bcac79e5f2dee356",
+    "87dc89aebd75c86fe8cb4a1696d704c7b1f1c286"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP24_Art_Class.mp4"
+  },
+  "marionette-reels/EP25_Toys": {
+   "asset": "EP25_Toys.mp4",
+   "dir": "EP25 Toys",
+   "duration": 28.6,
+   "ep": "EP25_Toys",
+   "mb": 6.648922,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "26934d1d0c997c0963427ef4fa35804f2786fb24",
+    "698eef4895d4feece2c8d8ae03838634d542fe30"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4"
   },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",

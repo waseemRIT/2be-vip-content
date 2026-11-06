@@ -1,0 +1,49 @@
+# EP25 — Toys
+
+Part of **[Marionette Reels](../README.md)**.
+
+[![Toys](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4)
+
+▶️ **[Watch / download the video](https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4)** (0:29, 7 MB)
+
+## Caption
+
+```text
+Toys | الألعاب — 5 English words 🎨
+Stack = يكدّس · Knock down = يهدم · Bounce = ينطّط · Tidy = يرتّب · Push = يدفع
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Happy Alley" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+---
+
+<div dir="rtl">
+
+# الحلقة 25 — Toys
+
+جزء من **[ريلز الدمية المتحركة](../README.md)**.
+
+[![Toys](thumbnail.jpg)](https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4)
+
+▶️ **[شاهد / حمّل الفيديو](https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP25_Toys.mp4)** (0:29، 7 ميجابايت)
+
+## الكابشن
+
+```text
+Toys | الألعاب — 5 English words 🎨
+Stack = يكدّس · Knock down = يهدم · Bounce = ينطّط · Tidy = يرتّب · Push = يدفع
+
+تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
+Learn English with 2Be.vip — link in bio
+
+Music: "Happy Alley" Kevin MacLeod (incompetech.com) — CC BY 4.0
+
+#2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
+```
+
+</div>
