@@ -6855,6 +6855,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP36_Camping.mp4"
   },
+  "marionette-reels/EP37_Sports_Day": {
+   "asset": "EP37_Sports_Day.mp4",
+   "dir": "EP37 Sports Day",
+   "duration": 28.6,
+   "ep": "EP37_Sports_Day",
+   "mb": 7.50039,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "909812f54f78f9355cb33708bd9a90e3ea756afc",
+    "ad4bef63b9a4d9579808008bc47de1715ba5b272"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP37_Sports_Day.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
