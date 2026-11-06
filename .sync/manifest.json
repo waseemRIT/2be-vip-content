@@ -7125,6 +7125,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP35_Beach.mp4"
   },
+  "origami-reels/EP36_Boats": {
+   "asset": "EP36_Boats.mp4",
+   "dir": "EP36 Boats",
+   "duration": 28.6,
+   "ep": "EP36_Boats",
+   "mb": 4.242968,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "6ab3a6ee07ae972b016ad58a7f3ed8e45f3ba8f7",
+    "e0f0db4ab1c05f70e57c60fb13262d37b1825cea"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP36_Boats.mp4"
+  },
+  "origami-reels/EP37_Flying_Machines": {
+   "asset": "EP37_Flying_Machines.mp4",
+   "dir": "EP37 Flying Machines",
+   "duration": 28.6,
+   "ep": "EP37_Flying_Machines",
+   "mb": 4.20837,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "d23c9fba73f68ef8f21d5cb80cb8ad6e23513a33",
+    "f0bf5b43840f69695927813860b0f55adf4d4414"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP37_Flying_Machines.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
