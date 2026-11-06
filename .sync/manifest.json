@@ -210,6 +210,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP14_At_the_Airport.mp4"
   },
+  "cardboard-reels/EP15_Train_Station": {
+   "asset": "EP15_Train_Station.mp4",
+   "dir": "EP15 Train Station",
+   "duration": 28.566667,
+   "ep": "EP15_Train_Station",
+   "mb": 7.490712,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "00e376648ac1e82bf0f05ef0f062600225bc5321",
+    "11f54ab46887ecd61913332d0024a5d47c0d907e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP15_Train_Station.mp4"
+  },
+  "cardboard-reels/EP16_At_the_Port": {
+   "asset": "EP16_At_the_Port.mp4",
+   "dir": "EP16 At the Port",
+   "duration": 28.566667,
+   "ep": "EP16_At_the_Port",
+   "mb": 7.452266,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "953f49bda44daaf57e69b4df4b2412a3040098a6",
+    "ad566ecb13128246f872d8087bccc1b7df0dabfa"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP16_At_the_Port.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
