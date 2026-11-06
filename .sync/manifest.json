@@ -1200,6 +1200,96 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP37_Kitchen_Appliances.mp4"
   },
+  "clay-reels/EP38_Forest_Friends": {
+   "asset": "EP38_Forest_Friends.mp4",
+   "dir": "EP38 Forest Friends",
+   "duration": 28.566667,
+   "ep": "EP38_Forest_Friends",
+   "mb": 6.10552,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "93c5c172d77a4d6fc25f9afbadd6d9655aecb008",
+    "fdee2044c60d9898cb7f74801466324b673ac607"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP38_Forest_Friends.mp4"
+  },
+  "clay-reels/EP39_Containers": {
+   "asset": "EP39_Containers.mp4",
+   "dir": "EP39 Containers",
+   "duration": 28.566667,
+   "ep": "EP39_Containers",
+   "mb": 5.325763,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "c1eef9357a6fd84ae0a197be6addc917f6bb1bd0",
+    "9580dbe53bff71344484c339e410e989815a5253"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP39_Containers.mp4"
+  },
+  "clay-reels/EP40_Baby_Animals": {
+   "asset": "EP40_Baby_Animals.mp4",
+   "dir": "EP40 Baby Animals",
+   "duration": 28.566667,
+   "ep": "EP40_Baby_Animals",
+   "mb": 5.91217,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "dbd414c874e1ea17994a136a7121400d54020a62",
+    "53d8cd068f31776731074b9721dfc0a264e4745a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP40_Baby_Animals.mp4"
+  },
+  "clay-reels/EP41_Street_Food": {
+   "asset": "EP41_Street_Food.mp4",
+   "dir": "EP41 Street Food",
+   "duration": 28.566667,
+   "ep": "EP41_Street_Food",
+   "mb": 5.353405,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "76590df1ab3b2e8414485a3eee98b8b0604348c8",
+    "4aa69d5040fa25a230bfdbc9704a2d7aeb7d20d3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP41_Street_Food.mp4"
+  },
+  "clay-reels/EP42_Fruit_Bowl": {
+   "asset": "EP42_Fruit_Bowl.mp4",
+   "dir": "EP42 Fruit Bowl",
+   "duration": 28.566667,
+   "ep": "EP42_Fruit_Bowl",
+   "mb": 5.655137,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "2a7719ec26650ed489a10b98e5591a523cf764ed",
+    "2f02266a8dcaf7b31f0d9744cefb75bf08bc1aa4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP42_Fruit_Bowl.mp4"
+  },
+  "clay-reels/EP43_Sauces": {
+   "asset": "EP43_Sauces.mp4",
+   "dir": "EP43 Sauces",
+   "duration": 28.566667,
+   "ep": "EP43_Sauces",
+   "mb": 5.493559,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "af112d0aec00e89a2bc14119f7d790baea96292e",
+    "80ef3ab7b4f30ff583aa58302aa8329b9f617119"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP43_Sauces.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
@@ -7514,6 +7604,36 @@
     "f0bf5b43840f69695927813860b0f55adf4d4414"
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP37_Flying_Machines.mp4"
+  },
+  "origami-reels/EP38_Road_Vehicles": {
+   "asset": "EP38_Road_Vehicles.mp4",
+   "dir": "EP38 Road Vehicles",
+   "duration": 28.6,
+   "ep": "EP38_Road_Vehicles",
+   "mb": 5.316245,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "9d69f57fa2c92761a7a8743019699e5719ab326a",
+    "a6f7e3283a6d12e3a5c41935333d6d2fbc722a74"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP38_Road_Vehicles.mp4"
+  },
+  "origami-reels/EP39_Emergency_Vehicles": {
+   "asset": "EP39_Emergency_Vehicles.mp4",
+   "dir": "EP39 Emergency Vehicles",
+   "duration": 28.6,
+   "ep": "EP39_Emergency_Vehicles",
+   "mb": 5.50173,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "6665e3e23c312af5d7f89044c6446bcb90d82ba8",
+    "3cb513c0e91f27920b5df30f45ec93b55d9862f1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP39_Emergency_Vehicles.mp4"
   },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
