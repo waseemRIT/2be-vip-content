@@ -6525,6 +6525,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP52_Pets.mp4"
   },
+  "knitted-reels/EP53_Kitchen_Tools": {
+   "asset": "EP53_Kitchen_Tools.mp4",
+   "dir": "EP53 Kitchen Tools",
+   "duration": 28.566667,
+   "ep": "EP53_Kitchen_Tools",
+   "mb": 8.207197,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "4194af8c8799e600828949dac45b962733da9dc8",
+    "b9f54dad26982074bed0c71c9e37438074b2b8d8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP53_Kitchen_Tools.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
