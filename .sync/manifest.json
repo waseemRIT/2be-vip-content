@@ -13191,6 +13191,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP50_Nature.mp4"
   },
+  "woodtoy-reels/EP51_Beach": {
+   "asset": "EP51_Beach.mp4",
+   "dir": "EP51 Beach",
+   "duration": 28.6,
+   "ep": "EP51_Beach",
+   "mb": 3.55478,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "2149a96a046b177e1a42614a670b4e354cdd0a37",
+    "5e9958adba931990b15b8fed1fb12ac84304f5f8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP51_Beach.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
