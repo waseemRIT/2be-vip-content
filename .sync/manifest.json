@@ -9405,6 +9405,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP54_Sweet_Treats.mp4"
   },
+  "papiermache-reels/EP55_Summer_Fun": {
+   "asset": "EP55_Summer_Fun.mp4",
+   "dir": "EP55 Summer Fun",
+   "duration": 28.566667,
+   "ep": "EP55_Summer_Fun",
+   "mb": 5.662664,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "f899a497399e16db82643080d85391d71117501b",
+    "ed481f88c5aa35613f3c673a91effe4726ac1636"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP55_Summer_Fun.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
