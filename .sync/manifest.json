@@ -1665,6 +1665,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP56_Birthday.mp4"
   },
+  "clay-reels/EP57_Festive_Night": {
+   "asset": "EP57_Festive_Night.mp4",
+   "dir": "EP57 Festive Night",
+   "duration": 28.566667,
+   "ep": "EP57_Festive_Night",
+   "mb": 5.681362,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "ff5d321ed4a8e4446ceda050fa143373ddee2ca8",
+    "aeca923776530eaa9036d3cecfab6538fb7cafa5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP57_Festive_Night.mp4"
+  },
+  "clay-reels/EP58_Toy_Music": {
+   "asset": "EP58_Toy_Music.mp4",
+   "dir": "EP58 Toy Music",
+   "duration": 28.566667,
+   "ep": "EP58_Toy_Music",
+   "mb": 5.996851,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "c3d768547128ccacfa831a58697cecde432fcb64",
+    "657ca689df6780ce8560c5924f9dba3f58ae94df"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP58_Toy_Music.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
