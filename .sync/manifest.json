@@ -6540,6 +6540,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP53_Kitchen_Tools.mp4"
   },
+  "knitted-reels/EP54_More_Fruits": {
+   "asset": "EP54_More_Fruits.mp4",
+   "dir": "EP54 More Fruits",
+   "duration": 28.566667,
+   "ep": "EP54_More_Fruits",
+   "mb": 8.336813,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "d71e9e0e05d5130af6e6f700f4397b9864ddf964",
+    "9ce3f4eaade2cc03f536e8c7caa77fe86c267933"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP54_More_Fruits.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
