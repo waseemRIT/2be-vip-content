@@ -13941,6 +13941,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP57_Party_Time.mp4"
   },
+  "woodtoy-reels/EP58_Bakery": {
+   "asset": "EP58_Bakery.mp4",
+   "dir": "EP58 Bakery",
+   "duration": 28.6,
+   "ep": "EP58_Bakery",
+   "mb": 3.236397,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "da30f3bf7c3fd25dcca170ee56dfa3ca096c253e",
+    "b189085faaed2dd9a76da0f7b25c78a06e859ad2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP58_Bakery.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
