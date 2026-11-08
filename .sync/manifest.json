@@ -9945,6 +9945,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP60_On_the_Road.mp4"
   },
+  "papiermache-reels/EP61_In_the_Sky": {
+   "asset": "EP61_In_the_Sky.mp4",
+   "dir": "EP61 In the Sky",
+   "duration": 28.566667,
+   "ep": "EP61_In_the_Sky",
+   "mb": 5.532748,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "67efb0399550da9483f4f6c7478b891172125c03",
+    "ca95d831d52bd51111bc1c5ef34ce7509fca83e8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP61_In_the_Sky.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
