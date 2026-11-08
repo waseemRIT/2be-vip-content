@@ -6495,6 +6495,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP50_Drinks.mp4"
   },
+  "knitted-reels/EP51_Nursery": {
+   "asset": "EP51_Nursery.mp4",
+   "dir": "EP51 Nursery",
+   "duration": 28.566667,
+   "ep": "EP51_Nursery",
+   "mb": 8.532955,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "822348a2af09b4fdb2a7c47f74f0615eb4f49823",
+    "93432df862a4e978f3ba73404f5826e08d67df90"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP51_Nursery.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
