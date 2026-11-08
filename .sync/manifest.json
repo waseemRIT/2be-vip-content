@@ -9360,6 +9360,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP51_In_the_City.mp4"
   },
+  "papiermache-reels/EP52_Musical_Instruments": {
+   "asset": "EP52_Musical_Instruments.mp4",
+   "dir": "EP52 Musical Instruments",
+   "duration": 28.566667,
+   "ep": "EP52_Musical_Instruments",
+   "mb": 5.921995,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "e6559efe23a5282074cdca2ae4e239b1e23ac772",
+    "b108821b31d4a981820d8b6a6785047739b71a35"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP52_Musical_Instruments.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
