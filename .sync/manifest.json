@@ -6960,6 +6960,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP44_Jewelry.mp4"
   },
+  "lowpoly-reels/EP45_City_Street": {
+   "asset": "EP45_City_Street.mp4",
+   "dir": "EP45 City Street",
+   "duration": 28.6,
+   "ep": "EP45_City_Street",
+   "mb": 3.901341,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "b876473fc0be456836847f8df9d4d8bc90a798bb",
+    "737482c20d18d4755953ddd18214f13ae41dfbb9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP45_City_Street.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
