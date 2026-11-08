@@ -7380,6 +7380,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP54_Science_Tools.mp4"
   },
+  "lowpoly-reels/EP55_Energy": {
+   "asset": "EP55_Energy.mp4",
+   "dir": "EP55 Energy",
+   "duration": 28.6,
+   "ep": "EP55_Energy",
+   "mb": 4.165088,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "6dbaa8cb4611e794c9080ce6746035d1302e038a",
+    "9b80787e7b1fb9a7d9fb6281c7affe8b7927caca"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP55_Energy.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
