@@ -7335,6 +7335,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP51_Solar_System.mp4"
   },
+  "lowpoly-reels/EP52_Stargazing": {
+   "asset": "EP52_Stargazing.mp4",
+   "dir": "EP52 Stargazing",
+   "duration": 28.6,
+   "ep": "EP52_Stargazing",
+   "mb": 3.668055,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "ebe722a0b3cef44f6f543370764e9aa5e43c6ea1",
+    "3dd7f64be774c82cdde2c2bd07b01e26536f6704"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP52_Stargazing.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
