@@ -8730,6 +8730,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP52_Farm_Life.mp4"
   },
+  "origami-reels/EP53_Farm_Friends": {
+   "asset": "EP53_Farm_Friends.mp4",
+   "dir": "EP53 Farm Friends",
+   "duration": 28.6,
+   "ep": "EP53_Farm_Friends",
+   "mb": 4.403006,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "2e64cb9b0eefb26e5923d1964817f99691bd47d0",
+    "d6af656fad3fdaa4bd67b1e11dfb59f57d8e6022"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP53_Farm_Friends.mp4"
+  },
+  "origami-reels/EP54_Savanna": {
+   "asset": "EP54_Savanna.mp4",
+   "dir": "EP54 Savanna",
+   "duration": 28.6,
+   "ep": "EP54_Savanna",
+   "mb": 4.088418,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "5234e81c9caf1c6bcb52dd4f69320b43b76f0252",
+    "eced440969d139d6587f3f00fbc2d5369ebb8c51"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP54_Savanna.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
