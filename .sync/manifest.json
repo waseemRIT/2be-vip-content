@@ -7710,6 +7710,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP45_How_Do_I_Feel.mp4"
   },
+  "marionette-reels/EP46_Strong_and_Weak": {
+   "asset": "EP46_Strong_and_Weak.mp4",
+   "dir": "EP46 Strong and Weak",
+   "duration": 28.6,
+   "ep": "EP46_Strong_and_Weak",
+   "mb": 6.56272,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "d0f3411b2289e2bd80c39effd4949dfc05066f67",
+    "2ce9f1c631ab8907ebc898e64f4e0ed209200257"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP46_Strong_and_Weak.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
