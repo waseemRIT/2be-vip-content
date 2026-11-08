@@ -1710,6 +1710,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP59_Beach.mp4"
   },
+  "clay-reels/EP60_Weather": {
+   "asset": "EP60_Weather.mp4",
+   "dir": "EP60 Weather",
+   "duration": 28.566667,
+   "ep": "EP60_Weather",
+   "mb": 5.700406,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "e6c7cf033bf876ae09f08c78b9fb1925936afbb5",
+    "cc99eb328c5061be3e0c521a90486d26860c575b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP60_Weather.mp4"
+  },
+  "clay-reels/EP61_Space": {
+   "asset": "EP61_Space.mp4",
+   "dir": "EP61 Space",
+   "duration": 28.566667,
+   "ep": "EP61_Space",
+   "mb": 6.271024,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "d74b5799624dc6abb89095decdd5df63fefeb17d",
+    "4a02d3943c5a0966f3efd357ea1ed057cd0d14c6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP61_Space.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
