@@ -1620,6 +1620,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP53_Barbecue.mp4"
   },
+  "clay-reels/EP54_Cleaning_Up": {
+   "asset": "EP54_Cleaning_Up.mp4",
+   "dir": "EP54 Cleaning Up",
+   "duration": 28.566667,
+   "ep": "EP54_Cleaning_Up",
+   "mb": 5.727337,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "8d725d2ad70f6e3d6dacbe11bfa131647397680f",
+    "6388ca8f904c67b46d9a6304372e806ba04bb4ec"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP54_Cleaning_Up.mp4"
+  },
+  "clay-reels/EP55_Bedroom": {
+   "asset": "EP55_Bedroom.mp4",
+   "dir": "EP55 Bedroom",
+   "duration": 28.566667,
+   "ep": "EP55_Bedroom",
+   "mb": 5.346596,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "686240acac38dd3e99adf62ad8ef642f895dd9b8",
+    "bdd2438925d01f76fe8e1ba132b969b54bd8df37"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP55_Bedroom.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
