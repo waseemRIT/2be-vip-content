@@ -8205,6 +8205,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP54_Doors_and_Lights.mp4"
   },
+  "marionette-reels/EP55_In_Class": {
+   "asset": "EP55_In_Class.mp4",
+   "dir": "EP55 In Class",
+   "duration": 28.6,
+   "ep": "EP55_In_Class",
+   "mb": 7.45781,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "824086a73402642229e0a0c6c011e9f1a129b6b6",
+    "08272d7a2c54ec81c631bc44032d740accd9597b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP55_In_Class.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
