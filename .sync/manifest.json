@@ -8160,6 +8160,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP51_Clean_or_Dirty.mp4"
   },
+  "marionette-reels/EP52_Snack_Time": {
+   "asset": "EP52_Snack_Time.mp4",
+   "dir": "EP52 Snack Time",
+   "duration": 28.6,
+   "ep": "EP52_Snack_Time",
+   "mb": 7.649033,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "1cf0d88154b677bdc0967d8d4f8c7bfe5a5c6a44",
+    "79067254792e948cf3e1dcad5d2031501c730fe2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP52_Snack_Time.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
