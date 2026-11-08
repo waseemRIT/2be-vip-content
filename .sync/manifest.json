@@ -1605,6 +1605,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP52_Jungle_Animals.mp4"
   },
+  "clay-reels/EP53_Barbecue": {
+   "asset": "EP53_Barbecue.mp4",
+   "dir": "EP53 Barbecue",
+   "duration": 28.566667,
+   "ep": "EP53_Barbecue",
+   "mb": 5.718943,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "f7f899565479196592736d55b1debf1c731d7c55",
+    "b26257573dd8aeddaa20311071fbbe0997662555"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP53_Barbecue.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
