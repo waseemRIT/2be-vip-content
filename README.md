@@ -12,7 +12,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="sami-family/sample.gif" width="120"> | **[2Be with the Sami Family](sami-family/)**<br>Felt-animation family stories (Gulf Arabic) about everyday moments where English makes the difference. | 28 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be with Youssef — Mistake Fixes](youssef-stick-figures/)**<br>Stick-figure family scenes (Egyptian Arabic): one common English mistake, said wrong, struck out and fixed. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[Handwriting Reels](handwriting/)**<br>A pen writes English words and their Arabic meaning on paper — one themed word list per reel. | 250 |
-| <img src="origami-reels/sample.gif" width="120"> | **[Origami Reels](origami-reels/)**<br>Folded-paper objects unfold while the English word appears with its pronunciation in Arabic letters. | 57 |
+| <img src="origami-reels/sample.gif" width="120"> | **[Origami Reels](origami-reels/)**<br>Folded-paper objects unfold while the English word appears with its pronunciation in Arabic letters. | 59 |
 | <img src="clay-reels/sample.gif" width="120"> | **[Clay Reels](clay-reels/)**<br>Clay objects squash into shape while the English word appears with its pronunciation in Arabic letters. | 61 |
 | <img src="knitted-reels/sample.gif" width="120"> | **[Knitted Reels](knitted-reels/)**<br>Wool objects are knitted row by row while the English word is stitched in. | 55 |
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[Wooden Toy Reels](woodtoy-reels/)**<br>Wooden toys drop and bounce on the table while the English letters bounce in. | 60 |
@@ -44,7 +44,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="sami-family/sample.gif" width="120"> | **[2Be مع عائلة سامي](sami-family/)**<br>قصص عائلية برسوم اللباد (باللهجة الخليجية) عن لحظات يومية يصنع فيها الإنجليزي الفرق. | 28 |
 | <img src="youssef-stick-figures/sample.gif" width="120"> | **[2Be مع يوسف — تصحيح الأخطاء](youssef-stick-figures/)**<br>مشاهد عائلية برسوم بسيطة (بالعامية المصرية): غلطة إنجليزية شائعة، تُقال غلط، ثم تُشطب وتُصحَّح. | 7 |
 | <img src="handwriting/sample.gif" width="120"> | **[ريلز الكتابة بخط اليد](handwriting/)**<br>قلم يكتب كلمات إنجليزية ومعناها بالعربي على الورق — قائمة كلمات بموضوع واحد في كل ريل. | 250 |
-| <img src="origami-reels/sample.gif" width="120"> | **[ريلز الأوريغامي](origami-reels/)**<br>كائنات من الورق المطوي تنفتح، والكلمة الإنجليزية تظهر مع نطقها بالحروف العربية. | 57 |
+| <img src="origami-reels/sample.gif" width="120"> | **[ريلز الأوريغامي](origami-reels/)**<br>كائنات من الورق المطوي تنفتح، والكلمة الإنجليزية تظهر مع نطقها بالحروف العربية. | 59 |
 | <img src="clay-reels/sample.gif" width="120"> | **[ريلز الصلصال](clay-reels/)**<br>أشياء من الصلصال تتشكّل أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 61 |
 | <img src="knitted-reels/sample.gif" width="120"> | **[ريلز الصوف المحبوك](knitted-reels/)**<br>أشياء تُحاك من الصوف صفاً بعد صف، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 55 |
 | <img src="woodtoy-reels/sample.gif" width="120"> | **[ريلز الألعاب الخشبية](woodtoy-reels/)**<br>ألعاب خشبية تقفز على الطاولة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 60 |

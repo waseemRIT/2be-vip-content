@@ -9165,6 +9165,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP57_River_Life.mp4"
   },
+  "origami-reels/EP58_Night_Animals": {
+   "asset": "EP58_Night_Animals.mp4",
+   "dir": "EP58 Night Animals",
+   "duration": 28.6,
+   "ep": "EP58_Night_Animals",
+   "mb": 4.166401,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e2a247d6539e233798e544e853fcc2057a53c221",
+    "88d84e573d6b3b74e95f161af5e44862ea77d27b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP58_Night_Animals.mp4"
+  },
+  "origami-reels/EP59_Sea_Creatures": {
+   "asset": "EP59_Sea_Creatures.mp4",
+   "dir": "EP59 Sea Creatures",
+   "duration": 28.6,
+   "ep": "EP59_Sea_Creatures",
+   "mb": 5.337071,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "719089b7047841cdd960f17ea01775818c660643",
+    "98ed2667e6a2ee18fea6b59414fad0ceb6a4c223"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP59_Sea_Creatures.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
