@@ -8190,6 +8190,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP53_Yard_Work.mp4"
   },
+  "marionette-reels/EP54_Doors_and_Lights": {
+   "asset": "EP54_Doors_and_Lights.mp4",
+   "dir": "EP54 Doors and Lights",
+   "duration": 28.6,
+   "ep": "EP54_Doors_and_Lights",
+   "mb": 7.863369,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "ce0fb866dd61fc02e10de4403d6b73616ae09679",
+    "e3ea569821361801a5e5debb379ff27655d17e88"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP54_Doors_and_Lights.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
