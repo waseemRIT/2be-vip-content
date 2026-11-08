@@ -7365,6 +7365,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP53_Science_Lab.mp4"
   },
+  "lowpoly-reels/EP54_Science_Tools": {
+   "asset": "EP54_Science_Tools.mp4",
+   "dir": "EP54 Science Tools",
+   "duration": 28.6,
+   "ep": "EP54_Science_Tools",
+   "mb": 4.359056,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "08f4d2d5bf1b460bfb612bf0ddcb57b7b3608031",
+    "7b713bc326e8d124dde270ab588df973872aab92"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP54_Science_Tools.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
