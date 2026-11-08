@@ -9870,6 +9870,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP55_Summer_Fun.mp4"
   },
+  "papiermache-reels/EP56_Winter_Clothes": {
+   "asset": "EP56_Winter_Clothes.mp4",
+   "dir": "EP56 Winter Clothes",
+   "duration": 28.566667,
+   "ep": "EP56_Winter_Clothes",
+   "mb": 5.717203,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "990c66aaaaa25c357784bf410fabfd46d77aa599",
+    "4caababdd5b3eee9d5fb6e0eea3a41b317972bdf"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP56_Winter_Clothes.mp4"
+  },
+  "papiermache-reels/EP57_Bags_and_Things": {
+   "asset": "EP57_Bags_and_Things.mp4",
+   "dir": "EP57 Bags and Things",
+   "duration": 28.566667,
+   "ep": "EP57_Bags_and_Things",
+   "mb": 5.510363,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "e99840c16a9b71b463c428bfd1ff3b926548c306",
+    "0011862f8e63f943ef39d29181469c27eadea8a2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP57_Bags_and_Things.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
