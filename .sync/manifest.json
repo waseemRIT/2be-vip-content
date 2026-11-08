@@ -7020,6 +7020,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP48_At_the_Airport.mp4"
   },
+  "lowpoly-reels/EP49_Outer_Space": {
+   "asset": "EP49_Outer_Space.mp4",
+   "dir": "EP49 Outer Space",
+   "duration": 28.6,
+   "ep": "EP49_Outer_Space",
+   "mb": 5.38339,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "b917c7ade1b333f543a4de3f4e93ed9e298c2432",
+    "c737283c4bdbb501e510a1cd430363e9b9ea883e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP49_Outer_Space.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
