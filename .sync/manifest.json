@@ -780,6 +780,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP52_Bike_Parts.mp4"
   },
+  "cardboard-reels/EP53_Rail_Rides": {
+   "asset": "EP53_Rail_Rides.mp4",
+   "dir": "EP53 Rail Rides",
+   "duration": 28.566667,
+   "ep": "EP53_Rail_Rides",
+   "mb": 8.174996,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "51d8ba179d1802dd4186ce6393ce1d9628de428e",
+    "6d98e71e00918f7f71e3b8867bf8f5af4c0e2300"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP53_Rail_Rides.mp4"
+  },
+  "cardboard-reels/EP54_Toolbox": {
+   "asset": "EP54_Toolbox.mp4",
+   "dir": "EP54 Toolbox",
+   "duration": 28.566667,
+   "ep": "EP54_Toolbox",
+   "mb": 6.907373,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "341bd5b567959fc4b733c2c0161b5e50ae982b53",
+    "e37aa5170f7c4ef795ba143465f14cbf4face2cc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP54_Toolbox.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
