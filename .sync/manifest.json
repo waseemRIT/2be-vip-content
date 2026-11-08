@@ -6555,6 +6555,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP54_More_Fruits.mp4"
   },
+  "knitted-reels/EP55_Home_Textiles": {
+   "asset": "EP55_Home_Textiles.mp4",
+   "dir": "EP55 Home Textiles",
+   "duration": 28.566667,
+   "ep": "EP55_Home_Textiles",
+   "mb": 10.071614,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "4f72e26de9369faebf08a2b3f60c2fe94a22d1a2",
+    "4e36ec1f797f81f4560af858f63c20d6ecae8081"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP55_Home_Textiles.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
