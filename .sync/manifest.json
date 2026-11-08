@@ -13176,6 +13176,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP48_Road_Set.mp4"
   },
+  "woodtoy-reels/EP50_Nature": {
+   "asset": "EP50_Nature.mp4",
+   "dir": "EP50 Nature",
+   "duration": 28.6,
+   "ep": "EP50_Nature",
+   "mb": 3.053403,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "cd3af3479def477490b97716a168f4866876d830",
+    "d0889764afcc680d644892d92d0a7946dce9d789"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP50_Nature.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
