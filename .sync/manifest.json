@@ -1560,6 +1560,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP49_Candy_Shop.mp4"
   },
+  "clay-reels/EP50_Cooking_Vegetables": {
+   "asset": "EP50_Cooking_Vegetables.mp4",
+   "dir": "EP50 Cooking Vegetables",
+   "duration": 28.566667,
+   "ep": "EP50_Cooking_Vegetables",
+   "mb": 5.637537,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "e44765d23bf03b472fb262df2f4b19c094d26db8",
+    "3d2194fe88bc4066e2789d14539e5d7ed293afce"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP50_Cooking_Vegetables.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
