@@ -9915,6 +9915,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP58_Home_Decor.mp4"
   },
+  "papiermache-reels/EP59_Playground": {
+   "asset": "EP59_Playground.mp4",
+   "dir": "EP59 Playground",
+   "duration": 28.566667,
+   "ep": "EP59_Playground",
+   "mb": 5.386889,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "a7fe44c3685684632d64d972d0da5355f9881220",
+    "5e4bb29d932b25b7b1e4865419544eca9d974484"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP59_Playground.mp4"
+  },
+  "papiermache-reels/EP60_On_the_Road": {
+   "asset": "EP60_On_the_Road.mp4",
+   "dir": "EP60 On the Road",
+   "duration": 28.566667,
+   "ep": "EP60_On_the_Road",
+   "mb": 5.778974,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "b1dea7d6f700c3a9496029b3d6c04345772cf542",
+    "78b513026c61d7cbc792eb0b8ce832ec4948b752"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP60_On_the_Road.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
