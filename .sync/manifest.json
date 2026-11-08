@@ -7320,6 +7320,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP50_Space_Mission.mp4"
   },
+  "lowpoly-reels/EP51_Solar_System": {
+   "asset": "EP51_Solar_System.mp4",
+   "dir": "EP51 Solar System",
+   "duration": 28.6,
+   "ep": "EP51_Solar_System",
+   "mb": 6.901904,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "15863e39a233193fbd7f2281e04dd524e3e9a9b1",
+    "06dc8e0d5532c94ac291cce958b268a01d20312c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP51_Solar_System.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
