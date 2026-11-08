@@ -13806,6 +13806,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP48_Road_Set.mp4"
   },
+  "woodtoy-reels/EP49_House_Parts": {
+   "asset": "EP49_House_Parts.mp4",
+   "dir": "EP49 House Parts",
+   "duration": 28.6,
+   "ep": "EP49_House_Parts",
+   "mb": 2.970666,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "a154cf97bb404b032b59796c4441f95f748efe77",
+    "8a17b3954daaeee4085109633df12abf7a584e21"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP49_House_Parts.mp4"
+  },
   "woodtoy-reels/EP50_Nature": {
    "asset": "EP50_Nature.mp4",
    "dir": "EP50 Nature",
