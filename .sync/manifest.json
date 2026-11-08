@@ -6480,6 +6480,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP49_Lunch.mp4"
   },
+  "knitted-reels/EP50_Drinks": {
+   "asset": "EP50_Drinks.mp4",
+   "dir": "EP50 Drinks",
+   "duration": 28.566667,
+   "ep": "EP50_Drinks",
+   "mb": 8.646953,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "880a2e5fff8aada96de12dbddae97081fc66d741",
+    "dfd31acd0204904275896165905fe6b85fbff1f8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP50_Drinks.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
