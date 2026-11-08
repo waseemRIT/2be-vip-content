@@ -6975,6 +6975,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP45_City_Street.mp4"
   },
+  "lowpoly-reels/EP46_On_the_Road": {
+   "asset": "EP46_On_the_Road.mp4",
+   "dir": "EP46 On the Road",
+   "duration": 28.6,
+   "ep": "EP46_On_the_Road",
+   "mb": 5.062909,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "4f4e776460ce65c7152c6d6a79e3c530d79cca99",
+    "66eb9177584b1114c6196979210364c590afaa8a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP46_On_the_Road.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
