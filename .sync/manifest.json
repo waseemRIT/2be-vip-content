@@ -9330,6 +9330,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP49_Nature.mp4"
   },
+  "papiermache-reels/EP50_Space": {
+   "asset": "EP50_Space.mp4",
+   "dir": "EP50 Space",
+   "duration": 28.566667,
+   "ep": "EP50_Space",
+   "mb": 6.065547,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "c792f0441594e19e0e9d08e07a90d436a408165f",
+    "87a171598f0fba2afc28750f08f2842ba3c39cc9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP50_Space.mp4"
+  },
+  "papiermache-reels/EP51_In_the_City": {
+   "asset": "EP51_In_the_City.mp4",
+   "dir": "EP51 In the City",
+   "duration": 28.566667,
+   "ep": "EP51_In_the_City",
+   "mb": 5.610842,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "2892e9b9b90ce0229aa309c2bb87c4b6cabd5260",
+    "7653afc2f08b17e7de8c050372363b5bc24c1540"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP51_In_the_City.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
