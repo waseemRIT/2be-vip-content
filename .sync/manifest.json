@@ -9375,6 +9375,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP52_Musical_Instruments.mp4"
   },
+  "papiermache-reels/EP53_Pantry": {
+   "asset": "EP53_Pantry.mp4",
+   "dir": "EP53 Pantry",
+   "duration": 28.566667,
+   "ep": "EP53_Pantry",
+   "mb": 5.550284,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "45f4f671fabf3ad04667a2ffb3c99fb42f4b8cf2",
+    "1cb8348046173d8e9c5dcb162ba9f4f1b8afc684"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP53_Pantry.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
