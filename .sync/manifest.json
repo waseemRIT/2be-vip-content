@@ -9390,6 +9390,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP53_Pantry.mp4"
   },
+  "papiermache-reels/EP54_Sweet_Treats": {
+   "asset": "EP54_Sweet_Treats.mp4",
+   "dir": "EP54 Sweet Treats",
+   "duration": 28.566667,
+   "ep": "EP54_Sweet_Treats",
+   "mb": 5.385634,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "4df82c5c7f37ce9856839d188a748e21cb6d9320",
+    "f8a17ec1001838b793facc5ca188ec4a57a2ec5b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP54_Sweet_Treats.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",

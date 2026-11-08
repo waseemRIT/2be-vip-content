@@ -4,7 +4,7 @@ Handmade papier-mache objects are built piece by piece while the English word is
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**53 posts.** Click a thumbnail to open the post (video, caption and download link).
+**54 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Celebrations/"><img src="EP01%20Celebrations/thumbnail.jpg" width="160"><br><sub>EP01 · Celebrations</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruits/"><img src="EP02%20Fruits/thumbnail.jpg" width="160"><br><sub>EP02 · Fruits</sub></a></td><td align="center" valign="top"><a href="EP03%20Sweets/"><img src="EP03%20Sweets/thumbnail.jpg" width="160"><br><sub>EP03 · Sweets</sub></a></td><td align="center" valign="top"><a href="EP04%20Birthday%20Party/"><img src="EP04%20Birthday%20Party/thumbnail.jpg" width="160"><br><sub>EP04 · Birthday Party</sub></a></td></tr>
@@ -20,7 +20,7 @@ Handmade papier-mache objects are built piece by piece while the English word is
 <tr><td align="center" valign="top"><a href="EP41%20Fair%20Games/"><img src="EP41%20Fair%20Games/thumbnail.jpg" width="160"><br><sub>EP41 · Fair Games</sub></a></td><td align="center" valign="top"><a href="EP42%20Ball%20Games/"><img src="EP42%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>EP42 · Ball Games</sub></a></td><td align="center" valign="top"><a href="EP43%20Little%20Bugs/"><img src="EP43%20Little%20Bugs/thumbnail.jpg" width="160"><br><sub>EP43 · Little Bugs</sub></a></td><td align="center" valign="top"><a href="EP44%20Birds/"><img src="EP44%20Birds/thumbnail.jpg" width="160"><br><sub>EP44 · Birds</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP45%20Desert%20Trip/"><img src="EP45%20Desert%20Trip/thumbnail.jpg" width="160"><br><sub>EP45 · Desert Trip</sub></a></td><td align="center" valign="top"><a href="EP46%20Playtime/"><img src="EP46%20Playtime/thumbnail.jpg" width="160"><br><sub>EP46 · Playtime</sub></a></td><td align="center" valign="top"><a href="EP47%20Kitchen%20Tools/"><img src="EP47%20Kitchen%20Tools/thumbnail.jpg" width="160"><br><sub>EP47 · Kitchen Tools</sub></a></td><td align="center" valign="top"><a href="EP48%20Kitchen%20Machines/"><img src="EP48%20Kitchen%20Machines/thumbnail.jpg" width="160"><br><sub>EP48 · Kitchen Machines</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP49%20Nature/"><img src="EP49%20Nature/thumbnail.jpg" width="160"><br><sub>EP49 · Nature</sub></a></td><td align="center" valign="top"><a href="EP50%20Space/"><img src="EP50%20Space/thumbnail.jpg" width="160"><br><sub>EP50 · Space</sub></a></td><td align="center" valign="top"><a href="EP51%20In%20the%20City/"><img src="EP51%20In%20the%20City/thumbnail.jpg" width="160"><br><sub>EP51 · In the City</sub></a></td><td align="center" valign="top"><a href="EP52%20Musical%20Instruments/"><img src="EP52%20Musical%20Instruments/thumbnail.jpg" width="160"><br><sub>EP52 · Musical Instruments</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP53%20Pantry/"><img src="EP53%20Pantry/thumbnail.jpg" width="160"><br><sub>EP53 · Pantry</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP53%20Pantry/"><img src="EP53%20Pantry/thumbnail.jpg" width="160"><br><sub>EP53 · Pantry</sub></a></td><td align="center" valign="top"><a href="EP54%20Sweet%20Treats/"><img src="EP54%20Sweet%20Treats/thumbnail.jpg" width="160"><br><sub>EP54 · Sweet Treats</sub></a></td></tr>
 </table>
 
 ---
@@ -33,7 +33,7 @@ Handmade papier-mache objects are built piece by piece while the English word is
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**53 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**54 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Celebrations/"><img src="EP01%20Celebrations/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Celebrations</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruits/"><img src="EP02%20Fruits/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Fruits</sub></a></td><td align="center" valign="top"><a href="EP03%20Sweets/"><img src="EP03%20Sweets/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Sweets</sub></a></td><td align="center" valign="top"><a href="EP04%20Birthday%20Party/"><img src="EP04%20Birthday%20Party/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Birthday Party</sub></a></td></tr>
@@ -49,7 +49,7 @@ Handmade papier-mache objects are built piece by piece while the English word is
 <tr><td align="center" valign="top"><a href="EP41%20Fair%20Games/"><img src="EP41%20Fair%20Games/thumbnail.jpg" width="160"><br><sub>الحلقة 41 · Fair Games</sub></a></td><td align="center" valign="top"><a href="EP42%20Ball%20Games/"><img src="EP42%20Ball%20Games/thumbnail.jpg" width="160"><br><sub>الحلقة 42 · Ball Games</sub></a></td><td align="center" valign="top"><a href="EP43%20Little%20Bugs/"><img src="EP43%20Little%20Bugs/thumbnail.jpg" width="160"><br><sub>الحلقة 43 · Little Bugs</sub></a></td><td align="center" valign="top"><a href="EP44%20Birds/"><img src="EP44%20Birds/thumbnail.jpg" width="160"><br><sub>الحلقة 44 · Birds</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP45%20Desert%20Trip/"><img src="EP45%20Desert%20Trip/thumbnail.jpg" width="160"><br><sub>الحلقة 45 · Desert Trip</sub></a></td><td align="center" valign="top"><a href="EP46%20Playtime/"><img src="EP46%20Playtime/thumbnail.jpg" width="160"><br><sub>الحلقة 46 · Playtime</sub></a></td><td align="center" valign="top"><a href="EP47%20Kitchen%20Tools/"><img src="EP47%20Kitchen%20Tools/thumbnail.jpg" width="160"><br><sub>الحلقة 47 · Kitchen Tools</sub></a></td><td align="center" valign="top"><a href="EP48%20Kitchen%20Machines/"><img src="EP48%20Kitchen%20Machines/thumbnail.jpg" width="160"><br><sub>الحلقة 48 · Kitchen Machines</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP49%20Nature/"><img src="EP49%20Nature/thumbnail.jpg" width="160"><br><sub>الحلقة 49 · Nature</sub></a></td><td align="center" valign="top"><a href="EP50%20Space/"><img src="EP50%20Space/thumbnail.jpg" width="160"><br><sub>الحلقة 50 · Space</sub></a></td><td align="center" valign="top"><a href="EP51%20In%20the%20City/"><img src="EP51%20In%20the%20City/thumbnail.jpg" width="160"><br><sub>الحلقة 51 · In the City</sub></a></td><td align="center" valign="top"><a href="EP52%20Musical%20Instruments/"><img src="EP52%20Musical%20Instruments/thumbnail.jpg" width="160"><br><sub>الحلقة 52 · Musical Instruments</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP53%20Pantry/"><img src="EP53%20Pantry/thumbnail.jpg" width="160"><br><sub>الحلقة 53 · Pantry</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP53%20Pantry/"><img src="EP53%20Pantry/thumbnail.jpg" width="160"><br><sub>الحلقة 53 · Pantry</sub></a></td><td align="center" valign="top"><a href="EP54%20Sweet%20Treats/"><img src="EP54%20Sweet%20Treats/thumbnail.jpg" width="160"><br><sub>الحلقة 54 · Sweet Treats</sub></a></td></tr>
 </table>
 
 </div>
