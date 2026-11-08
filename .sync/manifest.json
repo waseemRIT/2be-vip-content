@@ -7695,6 +7695,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP44_Fixing_Things.mp4"
   },
+  "marionette-reels/EP45_How_Do_I_Feel": {
+   "asset": "EP45_How_Do_I_Feel.mp4",
+   "dir": "EP45 How Do I Feel",
+   "duration": 28.6,
+   "ep": "EP45_How_Do_I_Feel",
+   "mb": 6.944922,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "f6a2d97f9cb4f3b4d6cbfc1faeb02ac1b2c7bf5c",
+    "5bc8d79d67a591ae174df244a5ce9cc90fbe6513"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP45_How_Do_I_Feel.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
