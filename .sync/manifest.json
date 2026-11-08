@@ -735,6 +735,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP49_Sports_Places.mp4"
   },
+  "cardboard-reels/EP50_Ball_Sports": {
+   "asset": "EP50_Ball_Sports.mp4",
+   "dir": "EP50 Ball Sports",
+   "duration": 28.566667,
+   "ep": "EP50_Ball_Sports",
+   "mb": 8.190201,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "8cafeb8ad3d11ac614ba3cc07928408e96c812fa",
+    "c6e50c5e1455b9fbd4c7be87b7b3687b62154c98"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP50_Ball_Sports.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
