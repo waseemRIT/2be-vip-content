@@ -13236,6 +13236,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP53_Camping.mp4"
   },
+  "woodtoy-reels/EP54_Shop_Play_Set": {
+   "asset": "EP54_Shop_Play_Set.mp4",
+   "dir": "EP54 Shop Play Set",
+   "duration": 28.6,
+   "ep": "EP54_Shop_Play_Set",
+   "mb": 3.621461,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "8bb59fa087aa97f8f816b3940b932a969729d5d4",
+    "bf00bbac3fd3fac2646755f7a134908c9a584e46"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP54_Shop_Play_Set.mp4"
+  },
+  "woodtoy-reels/EP55_Doctor_Kit": {
+   "asset": "EP55_Doctor_Kit.mp4",
+   "dir": "EP55 Doctor Kit",
+   "duration": 28.6,
+   "ep": "EP55_Doctor_Kit",
+   "mb": 2.967765,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "58be12c53d185a1049bfffafd50312b322f82050",
+    "64a69f807c882e4b6f3396632a24468f7a8628c8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP55_Doctor_Kit.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
