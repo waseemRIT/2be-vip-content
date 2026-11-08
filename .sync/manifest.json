@@ -7305,6 +7305,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP49_Outer_Space.mp4"
   },
+  "lowpoly-reels/EP50_Space_Mission": {
+   "asset": "EP50_Space_Mission.mp4",
+   "dir": "EP50 Space Mission",
+   "duration": 28.6,
+   "ep": "EP50_Space_Mission",
+   "mb": 4.718282,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "9915512d89636a55bede1e211f196fd3cb97fb03",
+    "dd4c7d4e53353c50af63cdb42aac11f53b50d495"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP50_Space_Mission.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
