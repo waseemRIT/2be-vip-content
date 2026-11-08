@@ -13971,6 +13971,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP59_Meals.mp4"
   },
+  "woodtoy-reels/EP60_Drinks": {
+   "asset": "EP60_Drinks.mp4",
+   "dir": "EP60 Drinks",
+   "duration": 28.6,
+   "ep": "EP60_Drinks",
+   "mb": 2.865639,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "ea104a479250a46ff117c83d027b489c8f9a3a55",
+    "9affc560680ec7ecc455b897137f5cfa14ec6f4c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP60_Drinks.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
