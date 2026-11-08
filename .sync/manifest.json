@@ -9900,6 +9900,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP57_Bags_and_Things.mp4"
   },
+  "papiermache-reels/EP58_Home_Decor": {
+   "asset": "EP58_Home_Decor.mp4",
+   "dir": "EP58 Home Decor",
+   "duration": 28.566667,
+   "ep": "EP58_Home_Decor",
+   "mb": 5.601329,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "4f49fb4f6dcc7da3fa4c47761230e7704020a16d",
+    "8d82693c2920c195c1a89ccab35bf519ef46636f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP58_Home_Decor.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
