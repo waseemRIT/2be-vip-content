@@ -8700,6 +8700,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP50_Garden_Flowers.mp4"
   },
+  "origami-reels/EP51_Green_Plants": {
+   "asset": "EP51_Green_Plants.mp4",
+   "dir": "EP51 Green Plants",
+   "duration": 28.6,
+   "ep": "EP51_Green_Plants",
+   "mb": 6.266616,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "3989bf77945b1b770019b5100bd2e7c42b272ede",
+    "261b759f05c1310165692fd82191465e1cb92412"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP51_Green_Plants.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
