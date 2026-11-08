@@ -1695,6 +1695,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP58_Toy_Music.mp4"
   },
+  "clay-reels/EP59_Beach": {
+   "asset": "EP59_Beach.mp4",
+   "dir": "EP59 Beach",
+   "duration": 28.566667,
+   "ep": "EP59_Beach",
+   "mb": 5.667537,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "47a141c711d0a80942adf9644ddeff558894f5ef",
+    "e0d8d2064f2eb9193465678a481aa80ef3ed7c73"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP59_Beach.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
