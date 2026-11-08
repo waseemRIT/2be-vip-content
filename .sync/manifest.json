@@ -750,6 +750,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP50_Ball_Sports.mp4"
   },
+  "cardboard-reels/EP51_Car_Parts": {
+   "asset": "EP51_Car_Parts.mp4",
+   "dir": "EP51 Car Parts",
+   "duration": 28.566667,
+   "ep": "EP51_Car_Parts",
+   "mb": 7.696507,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "8849b3a543dbcbb968be7b63344d3ef432aab18c",
+    "39edf1a18dc2431a511852bded35ffa957ec6518"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP51_Car_Parts.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
