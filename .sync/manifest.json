@@ -7680,6 +7680,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP43_Hobbies.mp4"
   },
+  "marionette-reels/EP44_Fixing_Things": {
+   "asset": "EP44_Fixing_Things.mp4",
+   "dir": "EP44 Fixing Things",
+   "duration": 28.6,
+   "ep": "EP44_Fixing_Things",
+   "mb": 7.218948,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "d2d00dfbbef9f0ae16dce6613b2e7d8094058767",
+    "12ea36c3a4b5951408d650d24919f5bcec3aa55e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP44_Fixing_Things.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
