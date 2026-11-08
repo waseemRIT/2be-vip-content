@@ -9195,6 +9195,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP59_Sea_Creatures.mp4"
   },
+  "origami-reels/EP60_Origami_Classics": {
+   "asset": "EP60_Origami_Classics.mp4",
+   "dir": "EP60 Origami Classics",
+   "duration": 28.6,
+   "ep": "EP60_Origami_Classics",
+   "mb": 3.961627,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "b78344e768c3bba1605b44d8da4b1a0b102dbecd",
+    "a931413b2b9cff5383d2b4ed58d2ef87f2d02059"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP60_Origami_Classics.mp4"
+  },
+  "origami-reels/EP61_Stationery": {
+   "asset": "EP61_Stationery.mp4",
+   "dir": "EP61 Stationery",
+   "duration": 28.6,
+   "ep": "EP61_Stationery",
+   "mb": 3.540412,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "56dd2f15a41ff0ca7646050de5dc34a32f60cb6d",
+    "1956487c8d050f569a8b5618df15cde10efb64ad"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP61_Stationery.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
