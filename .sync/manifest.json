@@ -13221,6 +13221,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP52_Picnic.mp4"
   },
+  "woodtoy-reels/EP53_Camping": {
+   "asset": "EP53_Camping.mp4",
+   "dir": "EP53 Camping",
+   "duration": 28.6,
+   "ep": "EP53_Camping",
+   "mb": 3.079664,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "92d5e6976126d04d179f2160e370f631bcbcbf15",
+    "f82013d592bd0906030085829dd080c23c7fad22"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP53_Camping.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
