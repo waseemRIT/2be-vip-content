@@ -6510,6 +6510,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP51_Nursery.mp4"
   },
+  "knitted-reels/EP52_Pets": {
+   "asset": "EP52_Pets.mp4",
+   "dir": "EP52 Pets",
+   "duration": 28.566667,
+   "ep": "EP52_Pets",
+   "mb": 9.340333,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "fd316c721502624beea64625a78020ce1bb2543d",
+    "a793ebf12a80f187a430c9db0c4168f3a3503072"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP52_Pets.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
