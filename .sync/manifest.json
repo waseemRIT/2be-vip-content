@@ -7005,6 +7005,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP47_Emergency_Vehicles.mp4"
   },
+  "lowpoly-reels/EP48_At_the_Airport": {
+   "asset": "EP48_At_the_Airport.mp4",
+   "dir": "EP48 At the Airport",
+   "duration": 28.6,
+   "ep": "EP48_At_the_Airport",
+   "mb": 3.882899,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "998decb18f6e93ee6c4e41b669f61827ffe4c194",
+    "4fc77cc84024d7be1650a022afcc4871186c5eca"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP48_At_the_Airport.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
