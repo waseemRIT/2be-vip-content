@@ -8175,6 +8175,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP52_Snack_Time.mp4"
   },
+  "marionette-reels/EP53_Yard_Work": {
+   "asset": "EP53_Yard_Work.mp4",
+   "dir": "EP53 Yard Work",
+   "duration": 28.6,
+   "ep": "EP53_Yard_Work",
+   "mb": 7.683847,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "da42c18074f88acced8c9633b00b8cb4099d72de",
+    "7716375f94997cae09b01d7a742ce89e6e71797b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP53_Yard_Work.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
