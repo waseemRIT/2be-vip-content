@@ -7740,6 +7740,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP47_At_the_Airport.mp4"
   },
+  "marionette-reels/EP48_On_the_Farm": {
+   "asset": "EP48_On_the_Farm.mp4",
+   "dir": "EP48 On the Farm",
+   "duration": 28.6,
+   "ep": "EP48_On_the_Farm",
+   "mb": 8.101994,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "db4c2b3f5c271193fd1fdbf8d2a231f358b31536",
+    "ce3323ddab5e1902afb00e015ffe20a827b1c3a1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP48_On_the_Farm.mp4"
+  },
+  "marionette-reels/EP49_Space": {
+   "asset": "EP49_Space.mp4",
+   "dir": "EP49 Space",
+   "duration": 28.6,
+   "ep": "EP49_Space",
+   "mb": 8.482998,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "550b1a57bf0d188b587c3d0586ca4eec36cec184",
+    "1c733dfd946130d1a994cbb57b8497e6b5c01327"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP49_Space.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
