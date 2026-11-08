@@ -765,6 +765,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP51_Car_Parts.mp4"
   },
+  "cardboard-reels/EP52_Bike_Parts": {
+   "asset": "EP52_Bike_Parts.mp4",
+   "dir": "EP52 Bike Parts",
+   "duration": 28.566667,
+   "ep": "EP52_Bike_Parts",
+   "mb": 7.778474,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "71347bf6ee43e30511c6b95ed24d4abc29b79a1b",
+    "ac69c1811acda082cb25a212670be9e093445977"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP52_Bike_Parts.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
