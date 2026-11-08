@@ -13911,6 +13911,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP55_Doctor_Kit.mp4"
   },
+  "woodtoy-reels/EP56_Majlis_Set": {
+   "asset": "EP56_Majlis_Set.mp4",
+   "dir": "EP56 Majlis Set",
+   "duration": 28.6,
+   "ep": "EP56_Majlis_Set",
+   "mb": 3.180927,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "17e066018dccc688b6e07f9f5cb0057e23365fe4",
+    "7a953c6117c7cdff8744f9c5587bdc5b63478819"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP56_Majlis_Set.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
