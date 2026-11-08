@@ -8715,6 +8715,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP51_Green_Plants.mp4"
   },
+  "origami-reels/EP52_Farm_Life": {
+   "asset": "EP52_Farm_Life.mp4",
+   "dir": "EP52 Farm Life",
+   "duration": 28.6,
+   "ep": "EP52_Farm_Life",
+   "mb": 5.239941,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "6e53f26241646e098e9a56e405059933f1aff3ea",
+    "6456acd846945ae9bb630327218a469158ed01a3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP52_Farm_Life.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
