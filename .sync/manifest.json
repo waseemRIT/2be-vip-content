@@ -7725,6 +7725,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP46_Strong_and_Weak.mp4"
   },
+  "marionette-reels/EP47_At_the_Airport": {
+   "asset": "EP47_At_the_Airport.mp4",
+   "dir": "EP47 At the Airport",
+   "duration": 28.6,
+   "ep": "EP47_At_the_Airport",
+   "mb": 8.008984,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "300897b8a2768b2392f56e1184bfbc8792f32b3d",
+    "3ff6965c31ff9a5c2c03faeb80972d85f9246586"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP47_At_the_Airport.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
