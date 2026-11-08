@@ -8760,6 +8760,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP54_Savanna.mp4"
   },
+  "origami-reels/EP55_Australian_Animals": {
+   "asset": "EP55_Australian_Animals.mp4",
+   "dir": "EP55 Australian Animals",
+   "duration": 28.6,
+   "ep": "EP55_Australian_Animals",
+   "mb": 4.134409,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "752642cca4ba3a9158ef4fb18a2b0485b6c43061",
+    "d3766e7eccad01836fe9be03cc4b6a73b80f6d9d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP55_Australian_Animals.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
