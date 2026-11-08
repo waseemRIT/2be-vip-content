@@ -9135,6 +9135,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP55_Australian_Animals.mp4"
   },
+  "origami-reels/EP56_Mountain_Animals": {
+   "asset": "EP56_Mountain_Animals.mp4",
+   "dir": "EP56 Mountain Animals",
+   "duration": 28.6,
+   "ep": "EP56_Mountain_Animals",
+   "mb": 4.651258,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "84e4a1ac96b079b707d002b0c2f262d48de8139a",
+    "850174e702295a639789ad30a6bdcdcc50e0c93e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP56_Mountain_Animals.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
