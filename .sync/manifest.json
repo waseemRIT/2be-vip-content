@@ -1575,6 +1575,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP50_Cooking_Vegetables.mp4"
   },
+  "clay-reels/EP51_Desert_Animals": {
+   "asset": "EP51_Desert_Animals.mp4",
+   "dir": "EP51 Desert Animals",
+   "duration": 28.566667,
+   "ep": "EP51_Desert_Animals",
+   "mb": 5.741228,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "4755b50b21055e5ab991e1a6b3ac6cfa323d5b0d",
+    "2378f6d2f3c6ad760beb990553116acac5985a26"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP51_Desert_Animals.mp4"
+  },
+  "clay-reels/EP52_Jungle_Animals": {
+   "asset": "EP52_Jungle_Animals.mp4",
+   "dir": "EP52 Jungle Animals",
+   "duration": 28.566667,
+   "ep": "EP52_Jungle_Animals",
+   "mb": 6.160182,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "221aeceebe53ff906ad0dcbc9fdef7dd2d7b90f4",
+    "bd2e7f7f57442626164973e379e4c3df6b6edd89"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP52_Jungle_Animals.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
