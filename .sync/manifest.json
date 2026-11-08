@@ -9150,6 +9150,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP56_Mountain_Animals.mp4"
   },
+  "origami-reels/EP57_River_Life": {
+   "asset": "EP57_River_Life.mp4",
+   "dir": "EP57 River Life",
+   "duration": 28.6,
+   "ep": "EP57_River_Life",
+   "mb": 4.167336,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "57782c50b0ccde75c8f78df023270e87678642ca",
+    "9038189be4c4d9be784432bbba1597be34dd0da6"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP57_River_Life.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
