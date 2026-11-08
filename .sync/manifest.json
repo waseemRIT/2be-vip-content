@@ -7350,6 +7350,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP52_Stargazing.mp4"
   },
+  "lowpoly-reels/EP53_Science_Lab": {
+   "asset": "EP53_Science_Lab.mp4",
+   "dir": "EP53 Science Lab",
+   "duration": 28.6,
+   "ep": "EP53_Science_Lab",
+   "mb": 3.487101,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "ea440f7420667bed7a5bca2afc9c637a61b68df9",
+    "f440870bfef9b521b876301e2bc50a2f0d80d3cc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP53_Science_Lab.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
