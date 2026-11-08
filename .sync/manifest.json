@@ -8130,6 +8130,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP49_Space.mp4"
   },
+  "marionette-reels/EP50_Hide_and_Seek": {
+   "asset": "EP50_Hide_and_Seek.mp4",
+   "dir": "EP50 Hide and Seek",
+   "duration": 28.6,
+   "ep": "EP50_Hide_and_Seek",
+   "mb": 6.190179,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "d48df9cf5653fb67df19a729c9780f342f38d1fd",
+    "0074f7057542a1a5dac8b5d4214966ad7a60bdf8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP50_Hide_and_Seek.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
