@@ -6945,6 +6945,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP43_Stormy_Day.mp4"
   },
+  "lowpoly-reels/EP44_Jewelry": {
+   "asset": "EP44_Jewelry.mp4",
+   "dir": "EP44 Jewelry",
+   "duration": 28.6,
+   "ep": "EP44_Jewelry",
+   "mb": 4.558838,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "f4e54ef4ffb6fa84a4b46502e3abc80d7e3f9dc7",
+    "ed7d38136138edf4aeb56361cb2975ca7d3a92d1"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP44_Jewelry.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
