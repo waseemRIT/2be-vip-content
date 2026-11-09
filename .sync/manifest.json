@@ -7575,6 +7575,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP55_Energy.mp4"
   },
+  "lowpoly-reels/EP56_Robots": {
+   "asset": "EP56_Robots.mp4",
+   "dir": "EP56 Robots",
+   "duration": 28.6,
+   "ep": "EP56_Robots",
+   "mb": 4.65709,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "1161f1815bf965681b97cc75591ddbe3d1841b70",
+    "7aafdd152ec68d040235c9e3a274de2431dcf45a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP56_Robots.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
