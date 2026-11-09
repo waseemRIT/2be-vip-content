@@ -840,6 +840,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP56_At_the_Supermarket.mp4"
   },
+  "cardboard-reels/EP57_Kitchen_Shop": {
+   "asset": "EP57_Kitchen_Shop.mp4",
+   "dir": "EP57 Kitchen Shop",
+   "duration": 28.566667,
+   "ep": "EP57_Kitchen_Shop",
+   "mb": 7.170349,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "7cebe5db3580e01e13407d5d673af8543f35efef",
+    "02d0b34474feff137dc48401c35d50f658d58dc5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP57_Kitchen_Shop.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
