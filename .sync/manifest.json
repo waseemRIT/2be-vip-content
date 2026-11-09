@@ -10500,6 +10500,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP61_In_the_Sky.mp4"
   },
+  "papiermache-reels/EP62_On_the_Water": {
+   "asset": "EP62_On_the_Water.mp4",
+   "dir": "EP62 On the Water",
+   "duration": 28.566667,
+   "ep": "EP62_On_the_Water",
+   "mb": 6.078966,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "fddd00c670e25a89c87451a89b2715d926952864",
+    "7185715616c6d061a9b5b625de9d1e17c526de4f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP62_On_the_Water.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
