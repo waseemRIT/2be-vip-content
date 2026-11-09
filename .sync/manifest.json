@@ -8505,6 +8505,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP56_Ball_Skills.mp4"
   },
+  "marionette-reels/EP57_Jobs": {
+   "asset": "EP57_Jobs.mp4",
+   "dir": "EP57 Jobs",
+   "duration": 28.6,
+   "ep": "EP57_Jobs",
+   "mb": 8.261102,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "026424618c103ae6e23ca48e4ae9169baa52ccc2",
+    "6d500964ec2bb0a1658393859e59e79da1707d1f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP57_Jobs.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
