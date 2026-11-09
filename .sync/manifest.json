@@ -1860,6 +1860,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP63_Clothes.mp4"
   },
+  "clay-reels/EP64_Face": {
+   "asset": "EP64_Face.mp4",
+   "dir": "EP64 Face",
+   "duration": 28.566667,
+   "ep": "EP64_Face",
+   "mb": 6.230185,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "17f8e782878b1754136fa03dea2bb82b0f7f3735",
+    "4ec6a3fef07fe7e4aa8126034924691b6345dede"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP64_Face.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
