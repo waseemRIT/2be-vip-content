@@ -15291,6 +15291,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP69_Classroom.mp4"
   },
+  "woodtoy-reels/EP70_Laundry": {
+   "asset": "EP70_Laundry.mp4",
+   "dir": "EP70 Laundry",
+   "duration": 28.6,
+   "ep": "EP70_Laundry",
+   "mb": 3.4708,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "60c1f9c0fba21709f26a1f40e311d4e0f1bbb00d",
+    "3744d01564575bfa643c1563b8b0cef91edd52f4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP70_Laundry.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
