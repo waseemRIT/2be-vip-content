@@ -1830,6 +1830,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP61_Space.mp4"
   },
+  "clay-reels/EP62_Vehicles": {
+   "asset": "EP62_Vehicles.mp4",
+   "dir": "EP62 Vehicles",
+   "duration": 28.566667,
+   "ep": "EP62_Vehicles",
+   "mb": 6.157566,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "b3223e1310179ab85786793f3b08fdedcb092ad7",
+    "b2dfd14e8cdd8c17836a6eca2986dd9b94ebdbe3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP62_Vehicles.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
