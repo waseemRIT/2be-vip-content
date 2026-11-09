@@ -4,7 +4,7 @@ Wooden toys drop and bounce on the table while the English letters bounce in.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**65 posts.** Click a thumbnail to open the post (video, caption and download link).
+**66 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Toys/"><img src="EP01%20Toys/thumbnail.jpg" width="160"><br><sub>EP01 · Toys</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruit/"><img src="EP02%20Fruit/thumbnail.jpg" width="160"><br><sub>EP02 · Fruit</sub></a></td><td align="center" valign="top"><a href="EP03%20Vegetables/"><img src="EP03%20Vegetables/thumbnail.jpg" width="160"><br><sub>EP03 · Vegetables</sub></a></td><td align="center" valign="top"><a href="EP04%20Farm%20Animals/"><img src="EP04%20Farm%20Animals/thumbnail.jpg" width="160"><br><sub>EP04 · Farm Animals</sub></a></td></tr>
@@ -23,7 +23,7 @@ Wooden toys drop and bounce on the table while the English letters bounce in.
 <tr><td align="center" valign="top"><a href="EP53%20Camping/"><img src="EP53%20Camping/thumbnail.jpg" width="160"><br><sub>EP53 · Camping</sub></a></td><td align="center" valign="top"><a href="EP54%20Shop%20Play%20Set/"><img src="EP54%20Shop%20Play%20Set/thumbnail.jpg" width="160"><br><sub>EP54 · Shop Play Set</sub></a></td><td align="center" valign="top"><a href="EP55%20Doctor%20Kit/"><img src="EP55%20Doctor%20Kit/thumbnail.jpg" width="160"><br><sub>EP55 · Doctor Kit</sub></a></td><td align="center" valign="top"><a href="EP56%20Majlis%20Set/"><img src="EP56%20Majlis%20Set/thumbnail.jpg" width="160"><br><sub>EP56 · Majlis Set</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Party%20Time/"><img src="EP57%20Party%20Time/thumbnail.jpg" width="160"><br><sub>EP57 · Party Time</sub></a></td><td align="center" valign="top"><a href="EP58%20Bakery/"><img src="EP58%20Bakery/thumbnail.jpg" width="160"><br><sub>EP58 · Bakery</sub></a></td><td align="center" valign="top"><a href="EP59%20Meals/"><img src="EP59%20Meals/thumbnail.jpg" width="160"><br><sub>EP59 · Meals</sub></a></td><td align="center" valign="top"><a href="EP60%20Drinks/"><img src="EP60%20Drinks/thumbnail.jpg" width="160"><br><sub>EP60 · Drinks</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP61%20Snacks/"><img src="EP61%20Snacks/thumbnail.jpg" width="160"><br><sub>EP61 · Snacks</sub></a></td><td align="center" valign="top"><a href="EP62%20Desert%20Animals/"><img src="EP62%20Desert%20Animals/thumbnail.jpg" width="160"><br><sub>EP62 · Desert Animals</sub></a></td><td align="center" valign="top"><a href="EP63%20Forest%20Animals/"><img src="EP63%20Forest%20Animals/thumbnail.jpg" width="160"><br><sub>EP63 · Forest Animals</sub></a></td><td align="center" valign="top"><a href="EP64%20Polar%20Animals/"><img src="EP64%20Polar%20Animals/thumbnail.jpg" width="160"><br><sub>EP64 · Polar Animals</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP65%20Baby%20Animals/"><img src="EP65%20Baby%20Animals/thumbnail.jpg" width="160"><br><sub>EP65 · Baby Animals</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP65%20Baby%20Animals/"><img src="EP65%20Baby%20Animals/thumbnail.jpg" width="160"><br><sub>EP65 · Baby Animals</sub></a></td><td align="center" valign="top"><a href="EP66%20Farm%20Friends/"><img src="EP66%20Farm%20Friends/thumbnail.jpg" width="160"><br><sub>EP66 · Farm Friends</sub></a></td></tr>
 </table>
 
 ---
@@ -36,7 +36,7 @@ Wooden toys drop and bounce on the table while the English letters bounce in.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**65 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**66 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Toys/"><img src="EP01%20Toys/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Toys</sub></a></td><td align="center" valign="top"><a href="EP02%20Fruit/"><img src="EP02%20Fruit/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Fruit</sub></a></td><td align="center" valign="top"><a href="EP03%20Vegetables/"><img src="EP03%20Vegetables/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Vegetables</sub></a></td><td align="center" valign="top"><a href="EP04%20Farm%20Animals/"><img src="EP04%20Farm%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Farm Animals</sub></a></td></tr>
@@ -55,7 +55,7 @@ Wooden toys drop and bounce on the table while the English letters bounce in.
 <tr><td align="center" valign="top"><a href="EP53%20Camping/"><img src="EP53%20Camping/thumbnail.jpg" width="160"><br><sub>الحلقة 53 · Camping</sub></a></td><td align="center" valign="top"><a href="EP54%20Shop%20Play%20Set/"><img src="EP54%20Shop%20Play%20Set/thumbnail.jpg" width="160"><br><sub>الحلقة 54 · Shop Play Set</sub></a></td><td align="center" valign="top"><a href="EP55%20Doctor%20Kit/"><img src="EP55%20Doctor%20Kit/thumbnail.jpg" width="160"><br><sub>الحلقة 55 · Doctor Kit</sub></a></td><td align="center" valign="top"><a href="EP56%20Majlis%20Set/"><img src="EP56%20Majlis%20Set/thumbnail.jpg" width="160"><br><sub>الحلقة 56 · Majlis Set</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Party%20Time/"><img src="EP57%20Party%20Time/thumbnail.jpg" width="160"><br><sub>الحلقة 57 · Party Time</sub></a></td><td align="center" valign="top"><a href="EP58%20Bakery/"><img src="EP58%20Bakery/thumbnail.jpg" width="160"><br><sub>الحلقة 58 · Bakery</sub></a></td><td align="center" valign="top"><a href="EP59%20Meals/"><img src="EP59%20Meals/thumbnail.jpg" width="160"><br><sub>الحلقة 59 · Meals</sub></a></td><td align="center" valign="top"><a href="EP60%20Drinks/"><img src="EP60%20Drinks/thumbnail.jpg" width="160"><br><sub>الحلقة 60 · Drinks</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP61%20Snacks/"><img src="EP61%20Snacks/thumbnail.jpg" width="160"><br><sub>الحلقة 61 · Snacks</sub></a></td><td align="center" valign="top"><a href="EP62%20Desert%20Animals/"><img src="EP62%20Desert%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 62 · Desert Animals</sub></a></td><td align="center" valign="top"><a href="EP63%20Forest%20Animals/"><img src="EP63%20Forest%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 63 · Forest Animals</sub></a></td><td align="center" valign="top"><a href="EP64%20Polar%20Animals/"><img src="EP64%20Polar%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 64 · Polar Animals</sub></a></td></tr>
-<tr><td align="center" valign="top"><a href="EP65%20Baby%20Animals/"><img src="EP65%20Baby%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 65 · Baby Animals</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP65%20Baby%20Animals/"><img src="EP65%20Baby%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 65 · Baby Animals</sub></a></td><td align="center" valign="top"><a href="EP66%20Farm%20Friends/"><img src="EP66%20Farm%20Friends/thumbnail.jpg" width="160"><br><sub>الحلقة 66 · Farm Friends</sub></a></td></tr>
 </table>
 
 </div>

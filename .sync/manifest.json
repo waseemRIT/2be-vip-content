@@ -14601,6 +14601,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP65_Baby_Animals.mp4"
   },
+  "woodtoy-reels/EP66_Farm_Friends": {
+   "asset": "EP66_Farm_Friends.mp4",
+   "dir": "EP66 Farm Friends",
+   "duration": 28.6,
+   "ep": "EP66_Farm_Friends",
+   "mb": 3.21292,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "e9c0d87d97b0f6fd80c83787093d4bdd1c479f74",
+    "c95ac583cce1b2aafd62792c138132c6695b4d49"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP66_Farm_Friends.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
