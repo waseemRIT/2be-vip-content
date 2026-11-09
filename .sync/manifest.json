@@ -7590,6 +7590,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP56_Robots.mp4"
   },
+  "lowpoly-reels/EP57_Computer_Desk": {
+   "asset": "EP57_Computer_Desk.mp4",
+   "dir": "EP57 Computer Desk",
+   "duration": 28.6,
+   "ep": "EP57_Computer_Desk",
+   "mb": 3.905822,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "b9aab643c8a7c96339e2d4c0c7149b836cfeb177",
+    "a0ca9aafb61c04089bfb947229ea046fd7be1d38"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP57_Computer_Desk.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
