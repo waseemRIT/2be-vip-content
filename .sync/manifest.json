@@ -6660,6 +6660,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP55_Home_Textiles.mp4"
   },
+  "knitted-reels/EP56_Space": {
+   "asset": "EP56_Space.mp4",
+   "dir": "EP56 Space",
+   "duration": 28.566667,
+   "ep": "EP56_Space",
+   "mb": 8.82738,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "9b2957f5f76c4a1eaa5db1b21389540894c75ef6",
+    "dd9baae313fed6ce4f9a95aa65a68c8260fdb5b2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP56_Space.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
