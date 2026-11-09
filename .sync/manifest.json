@@ -6930,6 +6930,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP61_Camping.mp4"
   },
+  "knitted-reels/EP62_Travel": {
+   "asset": "EP62_Travel.mp4",
+   "dir": "EP62 Travel",
+   "duration": 28.566667,
+   "ep": "EP62_Travel",
+   "mb": 9.244539,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "654ae3a608703d184b358048cf83640b7074b335",
+    "abb9d5a698578c7fe05f9826883d2e1c41e93c96"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP62_Travel.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
