@@ -15306,6 +15306,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP70_Laundry.mp4"
   },
+  "woodtoy-reels/EP71_Cleaning": {
+   "asset": "EP71_Cleaning.mp4",
+   "dir": "EP71 Cleaning",
+   "duration": 28.6,
+   "ep": "EP71_Cleaning",
+   "mb": 3.146854,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "6e6ff0459583404e85ef16801b758c1d0d9f370b",
+    "9e4dd22f594d3ee40a7009741af2724da92b6448"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP71_Cleaning.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
