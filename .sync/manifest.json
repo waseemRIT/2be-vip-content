@@ -9690,6 +9690,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP62_Classroom.mp4"
   },
+  "origami-reels/EP63_Cooking_Tools": {
+   "asset": "EP63_Cooking_Tools.mp4",
+   "dir": "EP63 Cooking Tools",
+   "duration": 28.6,
+   "ep": "EP63_Cooking_Tools",
+   "mb": 3.367104,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "a405e3a114e8d0a7441fe647d08dbac8642efac7",
+    "42c6fb52ce0908001771b27344053768354224e3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP63_Cooking_Tools.mp4"
+  },
+  "origami-reels/EP64_Gulf_Heritage": {
+   "asset": "EP64_Gulf_Heritage.mp4",
+   "dir": "EP64 Gulf Heritage",
+   "duration": 28.6,
+   "ep": "EP64_Gulf_Heritage",
+   "mb": 3.704592,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e511ea0f3248cc173ac045e1a8e3300ea33dfeee",
+    "7bdc93de7c5236f1137a0ad624f8f502bc0856a2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP64_Gulf_Heritage.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
