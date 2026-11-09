@@ -6990,6 +6990,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP65_My_Body.mp4"
   },
+  "knitted-reels/EP66_My_Face": {
+   "asset": "EP66_My_Face.mp4",
+   "dir": "EP66 My Face",
+   "duration": 28.566667,
+   "ep": "EP66_My_Face",
+   "mb": 8.757753,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "55379bfd3419a09c98601ea6fbd9680b8ca06033",
+    "085e5b826b16d197e945d1628a2c9925204d2026"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP66_My_Face.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
