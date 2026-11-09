@@ -6960,6 +6960,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP63_Fast_Food.mp4"
   },
+  "knitted-reels/EP64_Snacks": {
+   "asset": "EP64_Snacks.mp4",
+   "dir": "EP64 Snacks",
+   "duration": 28.566667,
+   "ep": "EP64_Snacks",
+   "mb": 8.256435,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "aa7011be68acb74ba1934479ce735679aa735602",
+    "7be4f390d42bfaa1d6d00a2f41b847aba6010046"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP64_Snacks.mp4"
+  },
+  "knitted-reels/EP65_My_Body": {
+   "asset": "EP65_My_Body.mp4",
+   "dir": "EP65 My Body",
+   "duration": 28.566667,
+   "ep": "EP65_My_Body",
+   "mb": 9.204249,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "e70d9b88c1c2d005364b0dd83d4e58e9a1122fb9",
+    "18282a5e69db0151f7b80a803ff05b8bf34f60a2"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP65_My_Body.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
