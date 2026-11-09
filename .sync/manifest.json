@@ -6690,6 +6690,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP57_Seaside.mp4"
   },
+  "knitted-reels/EP58_Forest": {
+   "asset": "EP58_Forest.mp4",
+   "dir": "EP58 Forest",
+   "duration": 28.566667,
+   "ep": "EP58_Forest",
+   "mb": 9.433046,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "8ef62e3a1fc07bd89cc0fcb8c984b9a54118b62a",
+    "f6d574f5cfa775a4e40c7ea2b587c6bacd94b24c"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP58_Forest.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
