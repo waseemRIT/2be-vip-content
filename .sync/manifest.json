@@ -9675,6 +9675,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP61_Stationery.mp4"
   },
+  "origami-reels/EP62_Classroom": {
+   "asset": "EP62_Classroom.mp4",
+   "dir": "EP62 Classroom",
+   "duration": 28.6,
+   "ep": "EP62_Classroom",
+   "mb": 3.588653,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "1bfbb53bf7f6ea5ff255b0c9a2d67e8f889a348b",
+    "e68553484dec6ea0e73b560702910d6023ec19f0"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP62_Classroom.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
