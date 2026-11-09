@@ -8490,6 +8490,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP55_In_Class.mp4"
   },
+  "marionette-reels/EP56_Ball_Skills": {
+   "asset": "EP56_Ball_Skills.mp4",
+   "dir": "EP56 Ball Skills",
+   "duration": 28.6,
+   "ep": "EP56_Ball_Skills",
+   "mb": 8.520167,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "837ca4e2bdfb74e0370c787e0d5f2e0a234e1998",
+    "c58062e64c3712fd862b1817e0207bc8377a7c06"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP56_Ball_Skills.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
