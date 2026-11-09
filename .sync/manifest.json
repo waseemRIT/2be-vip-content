@@ -6675,6 +6675,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP56_Space.mp4"
   },
+  "knitted-reels/EP57_Seaside": {
+   "asset": "EP57_Seaside.mp4",
+   "dir": "EP57 Seaside",
+   "duration": 28.566667,
+   "ep": "EP57_Seaside",
+   "mb": 8.773021,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "f65e60025608c38216e76c54d0d6143f7354a9b7",
+    "7f897251452b23708aa61f588a9925b616fec14a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP57_Seaside.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
