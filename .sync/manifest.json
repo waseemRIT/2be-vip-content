@@ -1905,6 +1905,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP66_Birds.mp4"
   },
+  "clay-reels/EP67_Kitchen_Counter": {
+   "asset": "EP67_Kitchen_Counter.mp4",
+   "dir": "EP67 Kitchen Counter",
+   "duration": 28.566667,
+   "ep": "EP67_Kitchen_Counter",
+   "mb": 5.890492,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "648858aaf455ee181a9716bd98b57cec01967dee",
+    "4607ae34fb710ec5e44a03a41646f142ad61b80d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP67_Kitchen_Counter.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
