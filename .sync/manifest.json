@@ -8565,6 +8565,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP60_Lock_and_Unlock.mp4"
   },
+  "marionette-reels/EP61_Like_Animals": {
+   "asset": "EP61_Like_Animals.mp4",
+   "dir": "EP61 Like Animals",
+   "duration": 28.6,
+   "ep": "EP61_Like_Animals",
+   "mb": 8.246195,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "9a9e0549d5997e87f8481766ce493c9153a721d0",
+    "afebefc9f0afe747a72f596be2ef06a0f74300b9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP61_Like_Animals.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",

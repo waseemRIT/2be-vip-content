@@ -4,7 +4,7 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**60 posts.** Click a thumbnail to open the post (video, caption and download link).
+**61 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Actions/"><img src="EP01%20Actions/thumbnail.jpg" width="160"><br><sub>EP01 · Actions</sub></a></td><td align="center" valign="top"><a href="EP02%20Morning/"><img src="EP02%20Morning/thumbnail.jpg" width="160"><br><sub>EP02 · Morning</sub></a></td><td align="center" valign="top"><a href="EP03%20Mealtime/"><img src="EP03%20Mealtime/thumbnail.jpg" width="160"><br><sub>EP03 · Mealtime</sub></a></td><td align="center" valign="top"><a href="EP04%20Bedtime/"><img src="EP04%20Bedtime/thumbnail.jpg" width="160"><br><sub>EP04 · Bedtime</sub></a></td></tr>
@@ -22,6 +22,7 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 <tr><td align="center" valign="top"><a href="EP49%20Space/"><img src="EP49%20Space/thumbnail.jpg" width="160"><br><sub>EP49 · Space</sub></a></td><td align="center" valign="top"><a href="EP50%20Hide%20and%20Seek/"><img src="EP50%20Hide%20and%20Seek/thumbnail.jpg" width="160"><br><sub>EP50 · Hide and Seek</sub></a></td><td align="center" valign="top"><a href="EP51%20Clean%20or%20Dirty/"><img src="EP51%20Clean%20or%20Dirty/thumbnail.jpg" width="160"><br><sub>EP51 · Clean or Dirty</sub></a></td><td align="center" valign="top"><a href="EP52%20Snack%20Time/"><img src="EP52%20Snack%20Time/thumbnail.jpg" width="160"><br><sub>EP52 · Snack Time</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP53%20Yard%20Work/"><img src="EP53%20Yard%20Work/thumbnail.jpg" width="160"><br><sub>EP53 · Yard Work</sub></a></td><td align="center" valign="top"><a href="EP54%20Doors%20and%20Lights/"><img src="EP54%20Doors%20and%20Lights/thumbnail.jpg" width="160"><br><sub>EP54 · Doors and Lights</sub></a></td><td align="center" valign="top"><a href="EP55%20In%20Class/"><img src="EP55%20In%20Class/thumbnail.jpg" width="160"><br><sub>EP55 · In Class</sub></a></td><td align="center" valign="top"><a href="EP56%20Ball%20Skills/"><img src="EP56%20Ball%20Skills/thumbnail.jpg" width="160"><br><sub>EP56 · Ball Skills</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Jobs/"><img src="EP57%20Jobs/thumbnail.jpg" width="160"><br><sub>EP57 · Jobs</sub></a></td><td align="center" valign="top"><a href="EP58%20Free%20Time/"><img src="EP58%20Free%20Time/thumbnail.jpg" width="160"><br><sub>EP58 · Free Time</sub></a></td><td align="center" valign="top"><a href="EP59%20Come%20and%20Go/"><img src="EP59%20Come%20and%20Go/thumbnail.jpg" width="160"><br><sub>EP59 · Come and Go</sub></a></td><td align="center" valign="top"><a href="EP60%20Lock%20and%20Unlock/"><img src="EP60%20Lock%20and%20Unlock/thumbnail.jpg" width="160"><br><sub>EP60 · Lock and Unlock</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP61%20Like%20Animals/"><img src="EP61%20Like%20Animals/thumbnail.jpg" width="160"><br><sub>EP61 · Like Animals</sub></a></td></tr>
 </table>
 
 ---
@@ -34,7 +35,7 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**60 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**61 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Actions/"><img src="EP01%20Actions/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Actions</sub></a></td><td align="center" valign="top"><a href="EP02%20Morning/"><img src="EP02%20Morning/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Morning</sub></a></td><td align="center" valign="top"><a href="EP03%20Mealtime/"><img src="EP03%20Mealtime/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · Mealtime</sub></a></td><td align="center" valign="top"><a href="EP04%20Bedtime/"><img src="EP04%20Bedtime/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · Bedtime</sub></a></td></tr>
@@ -52,6 +53,7 @@ A string puppet acts out each verb while the English word swings in on a wooden 
 <tr><td align="center" valign="top"><a href="EP49%20Space/"><img src="EP49%20Space/thumbnail.jpg" width="160"><br><sub>الحلقة 49 · Space</sub></a></td><td align="center" valign="top"><a href="EP50%20Hide%20and%20Seek/"><img src="EP50%20Hide%20and%20Seek/thumbnail.jpg" width="160"><br><sub>الحلقة 50 · Hide and Seek</sub></a></td><td align="center" valign="top"><a href="EP51%20Clean%20or%20Dirty/"><img src="EP51%20Clean%20or%20Dirty/thumbnail.jpg" width="160"><br><sub>الحلقة 51 · Clean or Dirty</sub></a></td><td align="center" valign="top"><a href="EP52%20Snack%20Time/"><img src="EP52%20Snack%20Time/thumbnail.jpg" width="160"><br><sub>الحلقة 52 · Snack Time</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP53%20Yard%20Work/"><img src="EP53%20Yard%20Work/thumbnail.jpg" width="160"><br><sub>الحلقة 53 · Yard Work</sub></a></td><td align="center" valign="top"><a href="EP54%20Doors%20and%20Lights/"><img src="EP54%20Doors%20and%20Lights/thumbnail.jpg" width="160"><br><sub>الحلقة 54 · Doors and Lights</sub></a></td><td align="center" valign="top"><a href="EP55%20In%20Class/"><img src="EP55%20In%20Class/thumbnail.jpg" width="160"><br><sub>الحلقة 55 · In Class</sub></a></td><td align="center" valign="top"><a href="EP56%20Ball%20Skills/"><img src="EP56%20Ball%20Skills/thumbnail.jpg" width="160"><br><sub>الحلقة 56 · Ball Skills</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Jobs/"><img src="EP57%20Jobs/thumbnail.jpg" width="160"><br><sub>الحلقة 57 · Jobs</sub></a></td><td align="center" valign="top"><a href="EP58%20Free%20Time/"><img src="EP58%20Free%20Time/thumbnail.jpg" width="160"><br><sub>الحلقة 58 · Free Time</sub></a></td><td align="center" valign="top"><a href="EP59%20Come%20and%20Go/"><img src="EP59%20Come%20and%20Go/thumbnail.jpg" width="160"><br><sub>الحلقة 59 · Come and Go</sub></a></td><td align="center" valign="top"><a href="EP60%20Lock%20and%20Unlock/"><img src="EP60%20Lock%20and%20Unlock/thumbnail.jpg" width="160"><br><sub>الحلقة 60 · Lock and Unlock</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP61%20Like%20Animals/"><img src="EP61%20Like%20Animals/thumbnail.jpg" width="160"><br><sub>الحلقة 61 · Like Animals</sub></a></td></tr>
 </table>
 
 </div>
