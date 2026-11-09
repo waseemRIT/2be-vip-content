@@ -9750,6 +9750,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP66_City_Street.mp4"
   },
+  "origami-reels/EP67_Camping": {
+   "asset": "EP67_Camping.mp4",
+   "dir": "EP67 Camping",
+   "duration": 28.6,
+   "ep": "EP67_Camping",
+   "mb": 3.704411,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "54e3915e76b19541b48877ae2ea8d1724fc4ddff",
+    "976a75edd1214c3221040b40cac172a372ad942e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP67_Camping.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
