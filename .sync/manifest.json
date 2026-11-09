@@ -10560,6 +10560,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP65_Tools.mp4"
   },
+  "papiermache-reels/EP66_Stationery": {
+   "asset": "EP66_Stationery.mp4",
+   "dir": "EP66 Stationery",
+   "duration": 28.566667,
+   "ep": "EP66_Stationery",
+   "mb": 5.668788,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "32cd47e9996a56f1539fbd670d7e842f3b9758ca",
+    "36e0a74fb7145fe1602391c570c05ac045220f05"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP66_Stationery.mp4"
+  },
+  "papiermache-reels/EP67_Classroom": {
+   "asset": "EP67_Classroom.mp4",
+   "dir": "EP67 Classroom",
+   "duration": 28.566667,
+   "ep": "EP67_Classroom",
+   "mb": 5.508666,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "f08e74e1558b8f02355769e4261e5669b9b0119a",
+    "26da0c6445feb200667289d01ff5a869e10bffec"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP67_Classroom.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
