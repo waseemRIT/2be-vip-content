@@ -15,7 +15,7 @@ Free English-learning posts from the 2Be.vip community: songs, stories, handwrit
 | <img src="origami-reels/sample.gif" width="120"> | **[Origami Reels](origami-reels/)**<br>Folded-paper objects unfold while the English word appears with its pronunciation in Arabic letters. | 61 |
 | <img src="clay-reels/sample.gif" width="120"> | **[Clay Reels](clay-reels/)**<br>Clay objects squash into shape while the English word appears with its pronunciation in Arabic letters. | 61 |
 | <img src="knitted-reels/sample.gif" width="120"> | **[Knitted Reels](knitted-reels/)**<br>Wool objects are knitted row by row while the English word is stitched in. | 61 |
-| <img src="woodtoy-reels/sample.gif" width="120"> | **[Wooden Toy Reels](woodtoy-reels/)**<br>Wooden toys drop and bounce on the table while the English letters bounce in. | 63 |
+| <img src="woodtoy-reels/sample.gif" width="120"> | **[Wooden Toy Reels](woodtoy-reels/)**<br>Wooden toys drop and bounce on the table while the English letters bounce in. | 65 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[Cardboard Reels](cardboard-reels/)**<br>Cardboard cut-outs slide in while the English word is stamped on. | 55 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[Marionette Reels](marionette-reels/)**<br>A string puppet acts out each verb while the English word swings in on a wooden sign. | 55 |
 | <img src="lowpoly-reels/sample.gif" width="120"> | **[Low-poly 3D Reels](lowpoly-reels/)**<br>Faceted 3D objects assemble from flying shards while the English word rises in. | 55 |
@@ -47,7 +47,7 @@ Made for **[2Be.vip](https://www.2be.vip)**
 | <img src="origami-reels/sample.gif" width="120"> | **[ريلز الأوريغامي](origami-reels/)**<br>كائنات من الورق المطوي تنفتح، والكلمة الإنجليزية تظهر مع نطقها بالحروف العربية. | 61 |
 | <img src="clay-reels/sample.gif" width="120"> | **[ريلز الصلصال](clay-reels/)**<br>أشياء من الصلصال تتشكّل أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 61 |
 | <img src="knitted-reels/sample.gif" width="120"> | **[ريلز الصوف المحبوك](knitted-reels/)**<br>أشياء تُحاك من الصوف صفاً بعد صف، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 61 |
-| <img src="woodtoy-reels/sample.gif" width="120"> | **[ريلز الألعاب الخشبية](woodtoy-reels/)**<br>ألعاب خشبية تقفز على الطاولة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 63 |
+| <img src="woodtoy-reels/sample.gif" width="120"> | **[ريلز الألعاب الخشبية](woodtoy-reels/)**<br>ألعاب خشبية تقفز على الطاولة، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 65 |
 | <img src="cardboard-reels/sample.gif" width="120"> | **[ريلز الكرتون المقصوص](cardboard-reels/)**<br>قطع كرتون تنزلق إلى المشهد، والكلمة الإنجليزية تُختم مع نطقها بالحروف العربية. | 55 |
 | <img src="marionette-reels/sample.gif" width="120"> | **[ريلز الدمية المتحركة](marionette-reels/)**<br>دمية خيوط تمثّل الفعل أمامك، مع الفعل الإنجليزي ونطقه بالحروف العربية. | 55 |
 | <img src="lowpoly-reels/sample.gif" width="120"> | **[ريلز المجسّمات ثلاثية الأبعاد](lowpoly-reels/)**<br>مجسّمات بأوجه هندسية تتجمّع أمامك، مع الكلمة الإنجليزية ونطقها بالحروف العربية. | 55 |
