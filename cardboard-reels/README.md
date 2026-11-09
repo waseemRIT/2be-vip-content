@@ -4,7 +4,7 @@ Cardboard cut-outs slide in while the English word is stamped on.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**60 posts.** Click a thumbnail to open the post (video, caption and download link).
+**61 posts.** Click a thumbnail to open the post (video, caption and download link).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Transport/"><img src="EP01%20Transport/thumbnail.jpg" width="160"><br><sub>EP01 · Transport</sub></a></td><td align="center" valign="top"><a href="EP02%20Weather/"><img src="EP02%20Weather/thumbnail.jpg" width="160"><br><sub>EP02 · Weather</sub></a></td><td align="center" valign="top"><a href="EP03%20City%20Places/"><img src="EP03%20City%20Places/thumbnail.jpg" width="160"><br><sub>EP03 · City Places</sub></a></td><td align="center" valign="top"><a href="EP04%20The%20Road/"><img src="EP04%20The%20Road/thumbnail.jpg" width="160"><br><sub>EP04 · The Road</sub></a></td></tr>
@@ -22,6 +22,7 @@ Cardboard cut-outs slide in while the English word is stamped on.
 <tr><td align="center" valign="top"><a href="EP49%20Sports%20Places/"><img src="EP49%20Sports%20Places/thumbnail.jpg" width="160"><br><sub>EP49 · Sports Places</sub></a></td><td align="center" valign="top"><a href="EP50%20Ball%20Sports/"><img src="EP50%20Ball%20Sports/thumbnail.jpg" width="160"><br><sub>EP50 · Ball Sports</sub></a></td><td align="center" valign="top"><a href="EP51%20Car%20Parts/"><img src="EP51%20Car%20Parts/thumbnail.jpg" width="160"><br><sub>EP51 · Car Parts</sub></a></td><td align="center" valign="top"><a href="EP52%20Bike%20Parts/"><img src="EP52%20Bike%20Parts/thumbnail.jpg" width="160"><br><sub>EP52 · Bike Parts</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP53%20Rail%20Rides/"><img src="EP53%20Rail%20Rides/thumbnail.jpg" width="160"><br><sub>EP53 · Rail Rides</sub></a></td><td align="center" valign="top"><a href="EP54%20Toolbox/"><img src="EP54%20Toolbox/thumbnail.jpg" width="160"><br><sub>EP54 · Toolbox</sub></a></td><td align="center" valign="top"><a href="EP55%20More%20Fruit/"><img src="EP55%20More%20Fruit/thumbnail.jpg" width="160"><br><sub>EP55 · More Fruit</sub></a></td><td align="center" valign="top"><a href="EP56%20At%20the%20Supermarket/"><img src="EP56%20At%20the%20Supermarket/thumbnail.jpg" width="160"><br><sub>EP56 · At the Supermarket</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Kitchen%20Shop/"><img src="EP57%20Kitchen%20Shop/thumbnail.jpg" width="160"><br><sub>EP57 · Kitchen Shop</sub></a></td><td align="center" valign="top"><a href="EP58%20Electronics%20Shop/"><img src="EP58%20Electronics%20Shop/thumbnail.jpg" width="160"><br><sub>EP58 · Electronics Shop</sub></a></td><td align="center" valign="top"><a href="EP59%20Sun%20and%20Rain/"><img src="EP59%20Sun%20and%20Rain/thumbnail.jpg" width="160"><br><sub>EP59 · Sun and Rain</sub></a></td><td align="center" valign="top"><a href="EP60%20Landscape/"><img src="EP60%20Landscape/thumbnail.jpg" width="160"><br><sub>EP60 · Landscape</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP61%20The%20Oasis/"><img src="EP61%20The%20Oasis/thumbnail.jpg" width="160"><br><sub>EP61 · The Oasis</sub></a></td></tr>
 </table>
 
 ---
@@ -34,7 +35,7 @@ Cardboard cut-outs slide in while the English word is stamped on.
 
 <p align="center"><img src="sample.gif" width="240" alt="sample"></p>
 
-**60 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
+**61 منشور.** اضغط على أي صورة لفتح المنشور (الفيديو والكابشن ورابط التحميل).
 
 <table>
 <tr><td align="center" valign="top"><a href="EP01%20Transport/"><img src="EP01%20Transport/thumbnail.jpg" width="160"><br><sub>الحلقة 01 · Transport</sub></a></td><td align="center" valign="top"><a href="EP02%20Weather/"><img src="EP02%20Weather/thumbnail.jpg" width="160"><br><sub>الحلقة 02 · Weather</sub></a></td><td align="center" valign="top"><a href="EP03%20City%20Places/"><img src="EP03%20City%20Places/thumbnail.jpg" width="160"><br><sub>الحلقة 03 · City Places</sub></a></td><td align="center" valign="top"><a href="EP04%20The%20Road/"><img src="EP04%20The%20Road/thumbnail.jpg" width="160"><br><sub>الحلقة 04 · The Road</sub></a></td></tr>
@@ -52,6 +53,7 @@ Cardboard cut-outs slide in while the English word is stamped on.
 <tr><td align="center" valign="top"><a href="EP49%20Sports%20Places/"><img src="EP49%20Sports%20Places/thumbnail.jpg" width="160"><br><sub>الحلقة 49 · Sports Places</sub></a></td><td align="center" valign="top"><a href="EP50%20Ball%20Sports/"><img src="EP50%20Ball%20Sports/thumbnail.jpg" width="160"><br><sub>الحلقة 50 · Ball Sports</sub></a></td><td align="center" valign="top"><a href="EP51%20Car%20Parts/"><img src="EP51%20Car%20Parts/thumbnail.jpg" width="160"><br><sub>الحلقة 51 · Car Parts</sub></a></td><td align="center" valign="top"><a href="EP52%20Bike%20Parts/"><img src="EP52%20Bike%20Parts/thumbnail.jpg" width="160"><br><sub>الحلقة 52 · Bike Parts</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP53%20Rail%20Rides/"><img src="EP53%20Rail%20Rides/thumbnail.jpg" width="160"><br><sub>الحلقة 53 · Rail Rides</sub></a></td><td align="center" valign="top"><a href="EP54%20Toolbox/"><img src="EP54%20Toolbox/thumbnail.jpg" width="160"><br><sub>الحلقة 54 · Toolbox</sub></a></td><td align="center" valign="top"><a href="EP55%20More%20Fruit/"><img src="EP55%20More%20Fruit/thumbnail.jpg" width="160"><br><sub>الحلقة 55 · More Fruit</sub></a></td><td align="center" valign="top"><a href="EP56%20At%20the%20Supermarket/"><img src="EP56%20At%20the%20Supermarket/thumbnail.jpg" width="160"><br><sub>الحلقة 56 · At the Supermarket</sub></a></td></tr>
 <tr><td align="center" valign="top"><a href="EP57%20Kitchen%20Shop/"><img src="EP57%20Kitchen%20Shop/thumbnail.jpg" width="160"><br><sub>الحلقة 57 · Kitchen Shop</sub></a></td><td align="center" valign="top"><a href="EP58%20Electronics%20Shop/"><img src="EP58%20Electronics%20Shop/thumbnail.jpg" width="160"><br><sub>الحلقة 58 · Electronics Shop</sub></a></td><td align="center" valign="top"><a href="EP59%20Sun%20and%20Rain/"><img src="EP59%20Sun%20and%20Rain/thumbnail.jpg" width="160"><br><sub>الحلقة 59 · Sun and Rain</sub></a></td><td align="center" valign="top"><a href="EP60%20Landscape/"><img src="EP60%20Landscape/thumbnail.jpg" width="160"><br><sub>الحلقة 60 · Landscape</sub></a></td></tr>
+<tr><td align="center" valign="top"><a href="EP61%20The%20Oasis/"><img src="EP61%20The%20Oasis/thumbnail.jpg" width="160"><br><sub>الحلقة 61 · The Oasis</sub></a></td></tr>
 </table>
 
 </div>
