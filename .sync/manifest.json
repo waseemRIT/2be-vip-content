@@ -870,6 +870,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP58_Electronics_Shop.mp4"
   },
+  "cardboard-reels/EP59_Sun_and_Rain": {
+   "asset": "EP59_Sun_and_Rain.mp4",
+   "dir": "EP59 Sun and Rain",
+   "duration": 28.566667,
+   "ep": "EP59_Sun_and_Rain",
+   "mb": 7.339401,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "20a3113cbd5a90dedc71f247efb7fa20cd90fcf7",
+    "8fdd00ba89197fa5c7ed93a5a5aabb87d8ec94ab"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP59_Sun_and_Rain.mp4"
+  },
+  "cardboard-reels/EP60_Landscape": {
+   "asset": "EP60_Landscape.mp4",
+   "dir": "EP60 Landscape",
+   "duration": 28.566667,
+   "ep": "EP60_Landscape",
+   "mb": 8.208259,
+   "readme_v": 2,
+   "series": "cardboard-reels",
+   "sig": [
+    3,
+    "d179fce5604edb9b07631c188dc9583d0dc07ab0",
+    "a88cf268c2ad606bcdabd0ca72cccd1455b725cd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-cardboard-reels/EP60_Landscape.mp4"
+  },
   "clay-reels/EP01_Food": {
    "asset": "EP01_Food.mp4",
    "dir": "EP01 Food",
