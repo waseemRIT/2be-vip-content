@@ -8535,6 +8535,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP58_Free_Time.mp4"
   },
+  "marionette-reels/EP59_Come_and_Go": {
+   "asset": "EP59_Come_and_Go.mp4",
+   "dir": "EP59 Come and Go",
+   "duration": 28.6,
+   "ep": "EP59_Come_and_Go",
+   "mb": 8.540578,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "c9fd66f1ef4c7e593b71f67d022664249cd71ef3",
+    "4c545ce447f282dfd13de80a4673fe52267e3519"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP59_Come_and_Go.mp4"
+  },
+  "marionette-reels/EP60_Lock_and_Unlock": {
+   "asset": "EP60_Lock_and_Unlock.mp4",
+   "dir": "EP60 Lock and Unlock",
+   "duration": 28.6,
+   "ep": "EP60_Lock_and_Unlock",
+   "mb": 7.933331,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "da9401a5b5d9e7d826b55211f9f8258b0860d141",
+    "e21e02d13f37fcdd20d1cf189b2c4d75699d833d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP60_Lock_and_Unlock.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
