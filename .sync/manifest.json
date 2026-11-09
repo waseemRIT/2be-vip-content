@@ -10545,6 +10545,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP64_At_the_Clinic.mp4"
   },
+  "papiermache-reels/EP65_Tools": {
+   "asset": "EP65_Tools.mp4",
+   "dir": "EP65 Tools",
+   "duration": 28.566667,
+   "ep": "EP65_Tools",
+   "mb": 5.203197,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "e3f22f1bbb515f36dfc60c3c2aa5484be0c63a3a",
+    "964e4ed0b8f563888857373047060497a4ca964a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP65_Tools.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
