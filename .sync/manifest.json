@@ -1875,6 +1875,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP64_Face.mp4"
   },
+  "clay-reels/EP65_Garden": {
+   "asset": "EP65_Garden.mp4",
+   "dir": "EP65 Garden",
+   "duration": 28.566667,
+   "ep": "EP65_Garden",
+   "mb": 5.518135,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "b4f66a70fcb49a1c7d8196c57b05a120c10ae7c9",
+    "c662f58b8d3c92c7731c42cada209df1131ccba9"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP65_Garden.mp4"
+  },
+  "clay-reels/EP66_Birds": {
+   "asset": "EP66_Birds.mp4",
+   "dir": "EP66 Birds",
+   "duration": 28.566667,
+   "ep": "EP66_Birds",
+   "mb": 5.906557,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "0353dadb03f0fb700be6428cb73052bc504f05c7",
+    "e3d6938a9a94af16e168e68207d1cfbe6efd33dc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP66_Birds.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
