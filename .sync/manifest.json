@@ -7605,6 +7605,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP57_Computer_Desk.mp4"
   },
+  "lowpoly-reels/EP58_Home_Machines": {
+   "asset": "EP58_Home_Machines.mp4",
+   "dir": "EP58 Home Machines",
+   "duration": 28.6,
+   "ep": "EP58_Home_Machines",
+   "mb": 4.612337,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "ef281663f5e14e9809e54fe12accd5148863f654",
+    "887da685abacdefa8ab85861e9f1b0f072105e90"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP58_Home_Machines.mp4"
+  },
   "lowpoly-reels/EP59_Buildings": {
    "asset": "EP59_Buildings.mp4",
    "dir": "EP59 Buildings",
