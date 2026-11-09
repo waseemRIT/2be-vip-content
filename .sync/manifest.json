@@ -6945,6 +6945,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP62_Travel.mp4"
   },
+  "knitted-reels/EP63_Fast_Food": {
+   "asset": "EP63_Fast_Food.mp4",
+   "dir": "EP63 Fast Food",
+   "duration": 28.566667,
+   "ep": "EP63_Fast_Food",
+   "mb": 9.345723,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "5f827581b70cef460d38b1324056ea4ece351f82",
+    "1646ed5af1f54e7fe7926dbe8ddf5184728c0d81"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP63_Fast_Food.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
