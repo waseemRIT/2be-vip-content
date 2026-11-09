@@ -10515,6 +10515,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP62_On_the_Water.mp4"
   },
+  "papiermache-reels/EP63_Tea_Time": {
+   "asset": "EP63_Tea_Time.mp4",
+   "dir": "EP63 Tea Time",
+   "duration": 28.566667,
+   "ep": "EP63_Tea_Time",
+   "mb": 5.516368,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "7992b40aebc3a1cc47cd85d36cf385898a58ed0a",
+    "fc7f206dd099eeaac35d8420d58d8022c29d68b3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP63_Tea_Time.mp4"
+  },
+  "papiermache-reels/EP64_At_the_Clinic": {
+   "asset": "EP64_At_the_Clinic.mp4",
+   "dir": "EP64 At the Clinic",
+   "duration": 28.566667,
+   "ep": "EP64_At_the_Clinic",
+   "mb": 5.226891,
+   "readme_v": 2,
+   "series": "papiermache-reels",
+   "sig": [
+    3,
+    "d2bd5c3d9db40774f0c227fcf5b03b3b65c05fa7",
+    "5509cb455c4fff4d9fffe79d0459d7f263785c7d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-papiermache-reels/EP64_At_the_Clinic.mp4"
+  },
   "sami-family/EP02 The Recipe": {
    "asset": "EP02_The_Recipe.mp4",
    "dir": "EP02 The Recipe",
