@@ -7005,6 +7005,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP66_My_Face.mp4"
   },
+  "knitted-reels/EP67_Office": {
+   "asset": "EP67_Office.mp4",
+   "dir": "EP67 Office",
+   "duration": 28.566667,
+   "ep": "EP67_Office",
+   "mb": 9.560939,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "2e697d13ea6c646a6ee059da4e71dbd73fce1fbb",
+    "1e2b8e47401385d90d77718f302657517925c0a3"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP67_Office.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
