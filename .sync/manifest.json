@@ -9720,6 +9720,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP64_Gulf_Heritage.mp4"
   },
+  "origami-reels/EP65_Buildings": {
+   "asset": "EP65_Buildings.mp4",
+   "dir": "EP65 Buildings",
+   "duration": 28.6,
+   "ep": "EP65_Buildings",
+   "mb": 3.876946,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "e386f08c46b04f2a626f9c86bd69b1a16514c9cd",
+    "979f188d07b6142893207b80c11280f13b2006ea"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP65_Buildings.mp4"
+  },
+  "origami-reels/EP66_City_Street": {
+   "asset": "EP66_City_Street.mp4",
+   "dir": "EP66 City Street",
+   "duration": 28.6,
+   "ep": "EP66_City_Street",
+   "mb": 3.628873,
+   "readme_v": 2,
+   "series": "origami-reels",
+   "sig": [
+    3,
+    "4702f09511883e8f02664ffc02585db83179dd6e",
+    "4e3f4493d2ac529e03bc5487c69bc674989b4bcb"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-origami-reels/EP66_City_Street.mp4"
+  },
   "papiermache-reels/EP01_Celebrations": {
    "asset": "EP01_Celebrations.mp4",
    "dir": "EP01 Celebrations",
