@@ -15246,6 +15246,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP66_Farm_Friends.mp4"
   },
+  "woodtoy-reels/EP67_Office_Desk": {
+   "asset": "EP67_Office_Desk.mp4",
+   "dir": "EP67 Office Desk",
+   "duration": 28.6,
+   "ep": "EP67_Office_Desk",
+   "mb": 3.127892,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "b06ce5207c48b152921e1c0e424f7d746166f4af",
+    "484bd4fbc951feba0a46fafbdf1b81bfcada6c09"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP67_Office_Desk.mp4"
+  },
+  "woodtoy-reels/EP68_Art_Box": {
+   "asset": "EP68_Art_Box.mp4",
+   "dir": "EP68 Art Box",
+   "duration": 28.6,
+   "ep": "EP68_Art_Box",
+   "mb": 3.135147,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "16bc22c72f99d30f429352f565e4b9b6b538f484",
+    "d64cc86171416eaa1d67be69e0398950339e90cc"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP68_Art_Box.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
