@@ -15276,6 +15276,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP68_Art_Box.mp4"
   },
+  "woodtoy-reels/EP69_Classroom": {
+   "asset": "EP69_Classroom.mp4",
+   "dir": "EP69 Classroom",
+   "duration": 28.6,
+   "ep": "EP69_Classroom",
+   "mb": 3.512978,
+   "readme_v": 2,
+   "series": "woodtoy-reels",
+   "sig": [
+    3,
+    "759c55b8db71d7d3c3c9c1030b726342b0aba663",
+    "7cb0aa01c42c1230ddbda133d61a84b629990317"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-woodtoy-reels/EP69_Classroom.mp4"
+  },
   "woven-stories/EP01 Long Ago": {
    "asset": "EP01_Long_Ago.mp4",
    "dir": "EP01 Long Ago",
