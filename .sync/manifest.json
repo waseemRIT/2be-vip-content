@@ -8520,6 +8520,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP57_Jobs.mp4"
   },
+  "marionette-reels/EP58_Free_Time": {
+   "asset": "EP58_Free_Time.mp4",
+   "dir": "EP58 Free Time",
+   "duration": 28.6,
+   "ep": "EP58_Free_Time",
+   "mb": 7.702667,
+   "readme_v": 2,
+   "series": "marionette-reels",
+   "sig": [
+    3,
+    "e3f4d419ff3de4b265f7ec94673aa4c38e00ffc4",
+    "6a2b3f46ccec962ae7086b1fc0088a19b4173962"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-marionette-reels/EP58_Free_Time.mp4"
+  },
   "origami-reels/EP01_Animals": {
    "asset": "EP01_Animals.mp4",
    "dir": "EP01 Animals",
