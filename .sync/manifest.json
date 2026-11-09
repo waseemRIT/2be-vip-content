@@ -6720,6 +6720,36 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP59_Polar_Animals.mp4"
   },
+  "knitted-reels/EP60_Headwear": {
+   "asset": "EP60_Headwear.mp4",
+   "dir": "EP60 Headwear",
+   "duration": 28.566667,
+   "ep": "EP60_Headwear",
+   "mb": 8.213078,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "18e8ce5d6d77c3beb6382ac5754ceea18cf103aa",
+    "1ee2249e9d165b3753c5d6b269e12b0231167003"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP60_Headwear.mp4"
+  },
+  "knitted-reels/EP61_Camping": {
+   "asset": "EP61_Camping.mp4",
+   "dir": "EP61 Camping",
+   "duration": 28.566667,
+   "ep": "EP61_Camping",
+   "mb": 8.671797,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "775f82fb2fa093ddf82658fec444c18b89c30aca",
+    "7da8e373661d363de937949b0b6e9a069dd8f7d5"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP61_Camping.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
