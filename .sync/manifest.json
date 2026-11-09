@@ -7635,6 +7635,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP59_Buildings.mp4"
   },
+  "lowpoly-reels/EP60_Places_in_Town": {
+   "asset": "EP60_Places_in_Town.mp4",
+   "dir": "EP60 Places in Town",
+   "duration": 28.6,
+   "ep": "EP60_Places_in_Town",
+   "mb": 4.561836,
+   "readme_v": 2,
+   "series": "lowpoly-reels",
+   "sig": [
+    3,
+    "a4a94693384e4f5ee20f5cb5726c00783a6951d1",
+    "55a5f61cb08007a8c207fdc71e5dd5ea0abd148e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-lowpoly-reels/EP60_Places_in_Town.mp4"
+  },
   "marionette-reels/EP01_Actions": {
    "asset": "EP01_Actions.mp4",
    "dir": "EP01 Actions",
