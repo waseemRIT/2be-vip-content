@@ -6705,6 +6705,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP58_Forest.mp4"
   },
+  "knitted-reels/EP59_Polar_Animals": {
+   "asset": "EP59_Polar_Animals.mp4",
+   "dir": "EP59 Polar Animals",
+   "duration": 28.566667,
+   "ep": "EP59_Polar_Animals",
+   "mb": 8.49946,
+   "readme_v": 2,
+   "series": "knitted-reels",
+   "sig": [
+    3,
+    "022b6378377ce799e533eb377f7d187b0bf1d6e6",
+    "40708059a23b9b6acdfe9db3f3844378bc6f7e40"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-knitted-reels/EP59_Polar_Animals.mp4"
+  },
   "lowpoly-reels/EP01_Space": {
    "asset": "EP01_Space.mp4",
    "dir": "EP01 Space",
