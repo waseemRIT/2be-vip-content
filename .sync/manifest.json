@@ -1845,6 +1845,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP62_Vehicles.mp4"
   },
+  "clay-reels/EP63_Clothes": {
+   "asset": "EP63_Clothes.mp4",
+   "dir": "EP63 Clothes",
+   "duration": 28.566667,
+   "ep": "EP63_Clothes",
+   "mb": 5.743575,
+   "readme_v": 2,
+   "series": "clay-reels",
+   "sig": [
+    3,
+    "394352c2c33318de8d6ce1edcc15af717e9a3fbb",
+    "5803586f01cd8f016c2c635119e50a0636dc7b10"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-clay-reels/EP63_Clothes.mp4"
+  },
   "felt-songs/EP01 Family": {
    "asset": "EP01_Family.mp4",
    "dir": "EP01 Family",
