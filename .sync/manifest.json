@@ -720,6 +720,51 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP47_TV_Tour.mp4"
   },
+  "brag-reels/EP48_Undo_the_Mistake": {
+   "asset": "EP48_Undo_the_Mistake.mp4",
+   "dir": "EP48 Undo the Mistake",
+   "duration": 19.1,
+   "ep": "EP48_Undo_the_Mistake",
+   "mb": 1.344946,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "590214767d7b03fd90c7c447f36e46d1d14df1e9",
+    "a01e559a0ef0a674b46aabfa6d78359bcb3f06dd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP48_Undo_the_Mistake.mp4"
+  },
+  "brag-reels/EP49_FAQ_Speedrun": {
+   "asset": "EP49_FAQ_Speedrun.mp4",
+   "dir": "EP49 FAQ Speedrun",
+   "duration": 19.33,
+   "ep": "EP49_FAQ_Speedrun",
+   "mb": 7.08346,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "a8e4adf3b173a6272c26d7a1e0a58297abb87f5f",
+    "95202e0dab8bbba733d47194a3c863a0daab7d78"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP49_FAQ_Speedrun.mp4"
+  },
+  "brag-reels/EP50_One_Button_Every_Device": {
+   "asset": "EP50_One_Button_Every_Device.mp4",
+   "dir": "EP50 One Button Every Device",
+   "duration": 18.0,
+   "ep": "EP50_One_Button_Every_Device",
+   "mb": 3.726232,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "b167864137ea37abcf4daf7489116b5118468014",
+    "8326d6b2fc5f804ff86d086f4614896e79847b21"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP50_One_Button_Every_Device.mp4"
+  },
   "cardboard-reels/EP01_Transport": {
    "asset": "EP01_Transport.mp4",
    "dir": "EP01 Transport",
