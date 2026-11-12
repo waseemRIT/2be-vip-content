@@ -1,5 +1,185 @@
 {
  "episodes": {
+  "brag-reels/EP00_Request_Teacher": {
+   "asset": "EP00_Request_Teacher.mp4",
+   "dir": "EP00 Request Teacher",
+   "duration": 21.0,
+   "ep": "EP00_Request_Teacher",
+   "mb": 2.429197,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "35470ed6e751f883ad1b489636f0cdd2acd3d788",
+    "4f6e696b650da1fa7b784f2b8a97b422f1172f92"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP00_Request_Teacher.mp4"
+  },
+  "brag-reels/EP01_Lock_Screen_Pile_Up": {
+   "asset": "EP01_Lock_Screen_Pile_Up.mp4",
+   "dir": "EP01 Lock Screen Pile Up",
+   "duration": 20.0,
+   "ep": "EP01_Lock_Screen_Pile_Up",
+   "mb": 3.114461,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "e161cf3880a382952c63ebce0f4e849659a72c15",
+    "ca520319128f5be8f6130bbc2fd6486b18e535b8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP01_Lock_Screen_Pile_Up.mp4"
+  },
+  "brag-reels/EP02_Departures_Board": {
+   "asset": "EP02_Departures_Board.mp4",
+   "dir": "EP02 Departures Board",
+   "duration": 20.366667,
+   "ep": "EP02_Departures_Board",
+   "mb": 2.978609,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "0672e7f16ea9cfa04867cd23a4f0c5fa85ec9d2d",
+    "547c328e4704efbda2b25d9c045c816d70ac0b5e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP02_Departures_Board.mp4"
+  },
+  "brag-reels/EP03_Price_Scanner_Beep": {
+   "asset": "EP03_Price_Scanner_Beep.mp4",
+   "dir": "EP03 Price Scanner Beep",
+   "duration": 21.83,
+   "ep": "EP03_Price_Scanner_Beep",
+   "mb": 1.698021,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "573aa4c0c368dd5652be596c1644f03a8c3c2e13",
+    "425f3ed280286675e0105802771e2bdf7dcc855a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP03_Price_Scanner_Beep.mp4"
+  },
+  "brag-reels/EP04_Drag_to_11_PM": {
+   "asset": "EP04_Drag_to_11_PM.mp4",
+   "dir": "EP04 Drag to 11 PM",
+   "duration": 19.85,
+   "ep": "EP04_Drag_to_11_PM",
+   "mb": 1.173213,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "f2b0a30c26f2fb24d47c9fc30814d2fd0e67f109",
+    "2a7e9da6963638256b8fa283e5323b7db8f8949b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP04_Drag_to_11_PM.mp4"
+  },
+  "brag-reels/EP05_Wrist_Buzz": {
+   "asset": "EP05_Wrist_Buzz.mp4",
+   "dir": "EP05 Wrist Buzz",
+   "duration": 20.19,
+   "ep": "EP05_Wrist_Buzz",
+   "mb": 2.622299,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "9e397cfa93a3414c8870b020ca85decd285a04f9",
+    "ce599f7aad89699635dbb5e3fe5bec3b1b33302b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP05_Wrist_Buzz.mp4"
+  },
+  "brag-reels/EP06_Search_Bar_Backspace": {
+   "asset": "EP06_Search_Bar_Backspace.mp4",
+   "dir": "EP06 Search Bar Backspace",
+   "duration": 20.0,
+   "ep": "EP06_Search_Bar_Backspace",
+   "mb": 2.371207,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "541a3acb033a1b4921e3fccc98e27450be6a10b5",
+    "cd3a6e80e675a057913511ff3a6cc3e983a3de91"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP06_Search_Bar_Backspace.mp4"
+  },
+  "brag-reels/EP07_Pick_Up_Where_You_Stopped": {
+   "asset": "EP07_Pick_Up_Where_You_Stopped.mp4",
+   "dir": "EP07 Pick Up Where You Stopped",
+   "duration": 19.33,
+   "ep": "EP07_Pick_Up_Where_You_Stopped",
+   "mb": 1.972631,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "587c4ec70a393536b4b3361b76ce3b63ac6284ef",
+    "4d9f12e0cded86cb0a75cb1bc5ea8538d21f2928"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP07_Pick_Up_Where_You_Stopped.mp4"
+  },
+  "brag-reels/EP08_The_Code_Email": {
+   "asset": "EP08_The_Code_Email.mp4",
+   "dir": "EP08 The Code Email",
+   "duration": 20.19,
+   "ep": "EP08_The_Code_Email",
+   "mb": 1.667695,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "3a12b63112f2a95ba1827fb626c77fc696150968",
+    "5a45b8e491e1aa54b3a6e54504d1b292f45106bd"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP08_The_Code_Email.mp4"
+  },
+  "brag-reels/EP09_60_Tabs": {
+   "asset": "EP09_60_Tabs.mp4",
+   "dir": "EP09 60 Tabs",
+   "duration": 19.33,
+   "ep": "EP09_60_Tabs",
+   "mb": 2.051144,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "39c64714516aee96667ed4a61638b1a20b437b27",
+    "44704015c3157ecaead45f667822ae5ac3dd6c8f"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP09_60_Tabs.mp4"
+  },
+  "brag-reels/EP10_Close_Your_Rings": {
+   "asset": "EP10_Close_Your_Rings.mp4",
+   "dir": "EP10 Close Your Rings",
+   "duration": 19.1,
+   "ep": "EP10_Close_Your_Rings",
+   "mb": 1.393003,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "79d7b55500b7cec87e5b02071fbdccd8e6aa2f41",
+    "11c8c28edab81dded7d46f5822357405692d85ea"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP10_Close_Your_Rings.mp4"
+  },
+  "brag-reels/EP11_Channel_Surf": {
+   "asset": "EP11_Channel_Surf.mp4",
+   "dir": "EP11 Channel Surf",
+   "duration": 19.466667,
+   "ep": "EP11_Channel_Surf",
+   "mb": 2.445336,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "95eb994dbdcd27955aa54cbb53c1f71453d12328",
+    "24caec255fd5b1f715e8700eccc7a78ed652b0ad"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP11_Channel_Surf.mp4"
+  },
   "cardboard-reels/EP01_Transport": {
    "asset": "EP01_Transport.mp4",
    "dir": "EP01 Transport",
@@ -15458,6 +15638,7 @@
   }
  },
  "sample_src": {
+  "brag-reels": "brag-reels/EP00_Request_Teacher",
   "cardboard-reels": "cardboard-reels/EP01_Transport",
   "clay-reels": "clay-reels/EP01_Food",
   "felt-songs": "felt-songs/EP01 Family",
@@ -15475,6 +15656,7 @@
   "youssef-stick-figures": "youssef-stick-figures/EP01 Open The Light"
  },
  "samples": {
+  "brag-reels": "sample.gif",
   "cardboard-reels": "sample.gif",
   "clay-reels": "sample.gif",
   "felt-songs": "sample.gif",
