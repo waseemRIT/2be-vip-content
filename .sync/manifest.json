@@ -180,6 +180,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP11_Channel_Surf.mp4"
   },
+  "brag-reels/EP12_Photo_Memories": {
+   "asset": "EP12_Photo_Memories.mp4",
+   "dir": "EP12 Photo Memories",
+   "duration": 19.85,
+   "ep": "EP12_Photo_Memories",
+   "mb": 3.531093,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "7849993d5ab575675b9dfb071dad1d182469f4f4",
+    "a9e9d9af0840ae1eb6fc87fcd64a97d940182149"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP12_Photo_Memories.mp4"
+  },
+  "brag-reels/EP13_Pay_Your_Way": {
+   "asset": "EP13_Pay_Your_Way.mp4",
+   "dir": "EP13 Pay Your Way",
+   "duration": 20.73,
+   "ep": "EP13_Pay_Your_Way",
+   "mb": 1.743318,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "4db1998cd4c6dac0a55a74b6623de8bc9fd4eabb",
+    "2d6409e6943e169cc9b200953811c0fbb7b442ae"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP13_Pay_Your_Way.mp4"
+  },
+  "brag-reels/EP14_Keyboard_Switch": {
+   "asset": "EP14_Keyboard_Switch.mp4",
+   "dir": "EP14 Keyboard Switch",
+   "duration": 19.85,
+   "ep": "EP14_Keyboard_Switch",
+   "mb": 1.276542,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "6221bddfd2863f88a9cc01f35219544effd43b15",
+    "16155ed963d44ef2ed007d537507145a8232f1ce"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP14_Keyboard_Switch.mp4"
+  },
+  "brag-reels/EP15_Stuck_on_a_Word": {
+   "asset": "EP15_Stuck_on_a_Word.mp4",
+   "dir": "EP15 Stuck on a Word",
+   "duration": 20.19,
+   "ep": "EP15_Stuck_on_a_Word",
+   "mb": 2.195413,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "d80fc6e95741ee206617f759e0fb343d40a21d51",
+    "caf0ed97c7c13137156152065d585ad12f92b415"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP15_Stuck_on_a_Word.mp4"
+  },
+  "brag-reels/EP16_Menu_Tablet": {
+   "asset": "EP16_Menu_Tablet.mp4",
+   "dir": "EP16 Menu Tablet",
+   "duration": 19.966667,
+   "ep": "EP16_Menu_Tablet",
+   "mb": 1.951265,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "924f12f9235e1981b7949708eb5f30c97513f206",
+    "90c0c1e5489f5ccc8d19c42318786340ae819951"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP16_Menu_Tablet.mp4"
+  },
+  "brag-reels/EP17_Hotel_Kiosk": {
+   "asset": "EP17_Hotel_Kiosk.mp4",
+   "dir": "EP17 Hotel Kiosk",
+   "duration": 19.86,
+   "ep": "EP17_Hotel_Kiosk",
+   "mb": 1.275999,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "f3476b2c93e6d57ae1c3562b9a9d5fd4a573950e",
+    "023aba11930c4b49678eb73b85ef11646fb071f8"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP17_Hotel_Kiosk.mp4"
+  },
+  "brag-reels/EP18_Loading_English": {
+   "asset": "EP18_Loading_English.mp4",
+   "dir": "EP18 Loading English",
+   "duration": 20.19,
+   "ep": "EP18_Loading_English",
+   "mb": 2.070986,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "c7c1f75f6f2c50a8dd486c0141721ac9d9d2b81c",
+    "3a22b78840a9a04bdccf36e4b728bd9dcec3ab39"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP18_Loading_English.mp4"
+  },
+  "brag-reels/EP19_Receipt_Printer": {
+   "asset": "EP19_Receipt_Printer.mp4",
+   "dir": "EP19 Receipt Printer",
+   "duration": 19.86,
+   "ep": "EP19_Receipt_Printer",
+   "mb": 1.499221,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "101a558ade6f50bc27497ed30da5d57df633eb6e",
+    "edc4b3ba27393b1d9ed97124154fea0f3aae6eca"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP19_Receipt_Printer.mp4"
+  },
+  "brag-reels/EP20_540_Days": {
+   "asset": "EP20_540_Days.mp4",
+   "dir": "EP20 540 Days",
+   "duration": 20.19,
+   "ep": "EP20_540_Days",
+   "mb": 1.58343,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "b7e63e7c3142853fa6aae0e2eadfe3441bdf89eb",
+    "e1b0896fc243d4557b872ed84a4ec029621bfe93"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP20_540_Days.mp4"
+  },
+  "brag-reels/EP21_Group_Grid": {
+   "asset": "EP21_Group_Grid.mp4",
+   "dir": "EP21 Group Grid",
+   "duration": 19.966667,
+   "ep": "EP21_Group_Grid",
+   "mb": 2.279038,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "727eeaf25ecfc4c2e05e60f1366a0adf1c31df36",
+    "e897a0439bffa7884ea092daf94d9e43ab7e44b4"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP21_Group_Grid.mp4"
+  },
+  "brag-reels/EP22_Just_You_Two": {
+   "asset": "EP22_Just_You_Two.mp4",
+   "dir": "EP22 Just You Two",
+   "duration": 19.85,
+   "ep": "EP22_Just_You_Two",
+   "mb": 2.071942,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "12dcaa52d4c98259840f4b25b8eb3431c88665c8",
+    "42200d46ec53c894fbe087c2eb66622d7f11a12d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP22_Just_You_Two.mp4"
+  },
+  "brag-reels/EP23_Verified_Teacher": {
+   "asset": "EP23_Verified_Teacher.mp4",
+   "dir": "EP23 Verified Teacher",
+   "duration": 19.1,
+   "ep": "EP23_Verified_Teacher",
+   "mb": 1.629726,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "8ffee939ae3f0a9b0c9428554971b0983c0ab7fb",
+    "2c28faad04b6dcb0f5352dd939047cdeb0e83883"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP23_Verified_Teacher.mp4"
+  },
   "cardboard-reels/EP01_Transport": {
    "asset": "EP01_Transport.mp4",
    "dir": "EP01 Transport",
