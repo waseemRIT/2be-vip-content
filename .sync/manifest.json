@@ -540,6 +540,186 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP35_Lunch_Break.mp4"
   },
+  "brag-reels/EP36_Forecast_Confident": {
+   "asset": "EP36_Forecast_Confident.mp4",
+   "dir": "EP36 Forecast Confident",
+   "duration": 18.966667,
+   "ep": "EP36_Forecast_Confident",
+   "mb": 1.455591,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "9a8b42d1814ab7c75fd469c6aad422f3d3cf7e91",
+    "c8e0a1805d6935c8b6008c544977c00b38b45126"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP36_Forecast_Confident.mp4"
+  },
+  "brag-reels/EP37_Level_Unlocked": {
+   "asset": "EP37_Level_Unlocked.mp4",
+   "dir": "EP37 Level Unlocked",
+   "duration": 18.8,
+   "ep": "EP37_Level_Unlocked",
+   "mb": 5.163576,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "cbcb3772b9cdcaeabcc12477821abdc64adb3f3e",
+    "2c27e0d539c0d54da383e34537ff000a648c0479"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP37_Level_Unlocked.mp4"
+  },
+  "brag-reels/EP38_Book_Opens_Into_Screen": {
+   "asset": "EP38_Book_Opens_Into_Screen.mp4",
+   "dir": "EP38 Book Opens Into Screen",
+   "duration": 18.55,
+   "ep": "EP38_Book_Opens_Into_Screen",
+   "mb": 2.146958,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "68da9c266b2621843f8b689cec965ea6aac1b11e",
+    "924d1c60589819bdac40030890d9f73224f5312b"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP38_Book_Opens_Into_Screen.mp4"
+  },
+  "brag-reels/EP39_Charging": {
+   "asset": "EP39_Charging.mp4",
+   "dir": "EP39 Charging",
+   "duration": 18.29,
+   "ep": "EP39_Charging",
+   "mb": 1.81186,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "d93c5816556968b87e0ccf87f5afa2856097291b",
+    "75dedf6136b3d7d9e4b2fc40f72a3ec49631b096"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP39_Charging.mp4"
+  },
+  "brag-reels/EP40_Incoming_Teacher": {
+   "asset": "EP40_Incoming_Teacher.mp4",
+   "dir": "EP40 Incoming Teacher",
+   "duration": 18.55,
+   "ep": "EP40_Incoming_Teacher",
+   "mb": 3.484855,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "fdf9dd7d6b5ebc63236b3b59aa76fa80166fe5c3",
+    "819d8e8fd9cb3e46695574ab90c7fda69bf73915"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP40_Incoming_Teacher.mp4"
+  },
+  "brag-reels/EP41_Repeat_Button": {
+   "asset": "EP41_Repeat_Button.mp4",
+   "dir": "EP41 Repeat Button",
+   "duration": 19.466667,
+   "ep": "EP41_Repeat_Button",
+   "mb": 2.335388,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "7f5e5551763719e5e9ac3bf29737c6ec4a04c978",
+    "22b7b5499f204d6d79ac8fd4cc2bdeeeaa4ac28e"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP41_Repeat_Button.mp4"
+  },
+  "brag-reels/EP42_Seat_Picker": {
+   "asset": "EP42_Seat_Picker.mp4",
+   "dir": "EP42 Seat Picker",
+   "duration": 18.8,
+   "ep": "EP42_Seat_Picker",
+   "mb": 1.87453,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "b49b551c52af58ee60159b6ce2b952b3fadf99cc",
+    "a4964fdb0e883b7de94b1012d52a4a6901811d00"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP42_Seat_Picker.mp4"
+  },
+  "brag-reels/EP43_Your_Lesson_Your_Pick": {
+   "asset": "EP43_Your_Lesson_Your_Pick.mp4",
+   "dir": "EP43 Your Lesson Your Pick",
+   "duration": 19.1,
+   "ep": "EP43_Your_Lesson_Your_Pick",
+   "mb": 1.704159,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "65e4401baa8efa244f176c7cfe7c01e33cce1801",
+    "f4f5a8db63ee55cd3486c6b0afd9a39ae5386179"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP43_Your_Lesson_Your_Pick.mp4"
+  },
+  "brag-reels/EP44_Group_Chat_Share": {
+   "asset": "EP44_Group_Chat_Share.mp4",
+   "dir": "EP44 Group Chat Share",
+   "duration": 18.8,
+   "ep": "EP44_Group_Chat_Share",
+   "mb": 2.277925,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "32514e622e4fcdb33d5da190eab13dfbd864a012",
+    "e6e55112b97c3de1129aba9b8598f43551ed236d"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP44_Group_Chat_Share.mp4"
+  },
+  "brag-reels/EP45_Laptop_Reveal": {
+   "asset": "EP45_Laptop_Reveal.mp4",
+   "dir": "EP45 Laptop Reveal",
+   "duration": 19.1,
+   "ep": "EP45_Laptop_Reveal",
+   "mb": 2.809844,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "f560d67b0a1dfcdc507a4dd9b923c8ce6e456d6d",
+    "8c67ac5d69a7495201ba01c7f7333bf30f35e09a"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP45_Laptop_Reveal.mp4"
+  },
+  "brag-reels/EP46_Billboard_Lens": {
+   "asset": "EP46_Billboard_Lens.mp4",
+   "dir": "EP46 Billboard Lens",
+   "duration": 19.966667,
+   "ep": "EP46_Billboard_Lens",
+   "mb": 2.565106,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "46983f9af4e60353659fdab8fc367b4f435ac086",
+    "1a27f3992a8d025c1eddd25e380a5f050d7d04ce"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP46_Billboard_Lens.mp4"
+  },
+  "brag-reels/EP47_TV_Tour": {
+   "asset": "EP47_TV_Tour.mp4",
+   "dir": "EP47 TV Tour",
+   "duration": 20.366667,
+   "ep": "EP47_TV_Tour",
+   "mb": 2.847461,
+   "readme_v": 2,
+   "series": "brag-reels",
+   "sig": [
+    3,
+    "00eb869bfd829c5e9aca206c15f2f7da416b2c87",
+    "8af285f99647c7e52c99e0c45193b1c20ef48471"
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-brag-reels/EP47_TV_Tour.mp4"
+  },
   "cardboard-reels/EP01_Transport": {
    "asset": "EP01_Transport.mp4",
    "dir": "EP01 Transport",
