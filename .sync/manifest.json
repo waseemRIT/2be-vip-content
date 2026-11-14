@@ -3135,6 +3135,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP17_The_Restaurant_Menu.mp4"
   },
+  "hamada-shadow-puppet/EP18 The Sewing Machine": {
+   "asset": "EP18_The_Sewing_Machine.mp4",
+   "dir": "EP18 The Sewing Machine",
+   "duration": 64.566667,
+   "ep": "EP18 The Sewing Machine",
+   "mb": 3.770891,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "dd3d7c5f005de1beca9cdbbbedfd1001a79f2e81",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP18_The_Sewing_Machine.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
