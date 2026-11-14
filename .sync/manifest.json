@@ -3090,6 +3090,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP14_The_Cold_Oven.mp4"
   },
+  "hamada-shadow-puppet/EP15 The Grandson's Video Call": {
+   "asset": "EP15_The_Grandson_s_Video_Call.mp4",
+   "dir": "EP15 The Grandson's Video Call",
+   "duration": 64.405,
+   "ep": "EP15 The Grandson's Video Call",
+   "mb": 6.888193,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "f3526466de964ed4d4d4d7635eb17ba0759f0d7a",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP15_The_Grandson_s_Video_Call.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
