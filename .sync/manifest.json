@@ -3105,6 +3105,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP15_The_Grandson_s_Video_Call.mp4"
   },
+  "hamada-shadow-puppet/EP16 The Football Trial": {
+   "asset": "EP16_The_Football_Trial.mp4",
+   "dir": "EP16 The Football Trial",
+   "duration": 64.405,
+   "ep": "EP16 The Football Trial",
+   "mb": 8.281479,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "84a6aaa9802878c5b7643736d57be358a7b41a74",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP16_The_Football_Trial.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
