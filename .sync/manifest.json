@@ -3075,6 +3075,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP13_The_Call_Centre.mp4"
   },
+  "hamada-shadow-puppet/EP14 The Cold Oven": {
+   "asset": "EP14_The_Cold_Oven.mp4",
+   "dir": "EP14 The Cold Oven",
+   "duration": 64.066667,
+   "ep": "EP14 The Cold Oven",
+   "mb": 7.563941,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "0b29f02b518e5f684aeb21e1ae4c8b3c01289e39",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP14_The_Cold_Oven.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
