@@ -3120,6 +3120,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP16_The_Football_Trial.mp4"
   },
+  "hamada-shadow-puppet/EP17 The Restaurant Menu": {
+   "asset": "EP17_The_Restaurant_Menu.mp4",
+   "dir": "EP17 The Restaurant Menu",
+   "duration": 64.5,
+   "ep": "EP17 The Restaurant Menu",
+   "mb": 4.367362,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "faff0fb7bd69377344e70d6ec487c13eb8a641df",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP17_The_Restaurant_Menu.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
