@@ -3030,6 +3030,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP10_The_Leaflet.mp4"
   },
+  "hamada-shadow-puppet/EP11 The Wedding Speech": {
+   "asset": "EP11_The_Wedding_Speech.mp4",
+   "dir": "EP11 The Wedding Speech",
+   "duration": 62.5,
+   "ep": "EP11 The Wedding Speech",
+   "mb": 5.67427,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "68525bc02d2756d494411dcef3348394fe394f45",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP11_The_Wedding_Speech.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
