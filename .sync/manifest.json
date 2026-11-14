@@ -3060,6 +3060,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP12_The_Lost_Tourist.mp4"
   },
+  "hamada-shadow-puppet/EP13 The Call Centre": {
+   "asset": "EP13_The_Call_Centre.mp4",
+   "dir": "EP13 The Call Centre",
+   "duration": 64.512,
+   "ep": "EP13 The Call Centre",
+   "mb": 6.859554,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "88f43e80e3b6d2bc86229c2b0a8ff24f30eead68",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP13_The_Call_Centre.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
