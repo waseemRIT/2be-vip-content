@@ -3045,6 +3045,21 @@
    ],
    "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP11_The_Wedding_Speech.mp4"
   },
+  "hamada-shadow-puppet/EP12 The Lost Tourist": {
+   "asset": "EP12_The_Lost_Tourist.mp4",
+   "dir": "EP12 The Lost Tourist",
+   "duration": 64.81,
+   "ep": "EP12 The Lost Tourist",
+   "mb": 4.853919,
+   "readme_v": 2,
+   "series": "hamada-shadow-puppet",
+   "sig": [
+    3,
+    "4d6a2b0fbb54e2f03bb34213db795a8f1bf9cdc3",
+    null
+   ],
+   "video_url": "https://github.com/waseemRIT/2be-vip-content/releases/download/media-hamada-shadow-puppet/EP12_The_Lost_Tourist.mp4"
+  },
   "handwriting/EP01_Fruits": {
    "asset": "EP01_Fruits.mp4",
    "dir": "EP01 Fruits",
