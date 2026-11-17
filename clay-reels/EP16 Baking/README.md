@@ -15,8 +15,6 @@ Flour = طحين · Sugar = سكر · Mixing bowl = وعاء الخلط · Oven 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
 
-Music: "Life of Riley" Kevin MacLeod (incompetech.com) — CC BY 4.0
-
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```
 
@@ -40,8 +38,6 @@ Flour = طحين · Sugar = سكر · Mixing bowl = وعاء الخلط · Oven 
 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
-
-Music: "Life of Riley" Kevin MacLeod (incompetech.com) — CC BY 4.0
 
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```

@@ -15,8 +15,6 @@ Basket = سلة · Blanket = بطانية · Thermos = ترمس · Lunchbox = ع
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
 
-Music: "Run Amok" Kevin MacLeod (incompetech.com) — CC BY 4.0
-
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```
 
@@ -40,8 +38,6 @@ Basket = سلة · Blanket = بطانية · Thermos = ترمس · Lunchbox = ع
 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
-
-Music: "Run Amok" Kevin MacLeod (incompetech.com) — CC BY 4.0
 
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```

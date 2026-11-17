@@ -15,8 +15,6 @@ Fridge = ثلاجة · Oven = فرن · Kettle = غلاية · Blender = خلا�
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
 
-Music: "Funky Chunk" Kevin MacLeod (incompetech.com) — CC BY 4.0
-
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```
 
@@ -40,8 +38,6 @@ Fridge = ثلاجة · Oven = فرن · Kettle = غلاية · Blender = خلا�
 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
-
-Music: "Funky Chunk" Kevin MacLeod (incompetech.com) — CC BY 4.0
 
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```

@@ -15,8 +15,6 @@ Popcorn = فشار · Crackers = مقرمشات · Peanut = فول سوداني 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
 
-Music: "Maple Leaf Rag" Kevin MacLeod (incompetech.com) — CC BY 4.0
-
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```
 
@@ -40,8 +38,6 @@ Popcorn = فشار · Crackers = مقرمشات · Peanut = فول سوداني 
 
 تعلّم الإنجليزي مع 2Be.vip — الرابط في البايو 🔗
 Learn English with 2Be.vip — link in bio
-
-Music: "Maple Leaf Rag" Kevin MacLeod (incompetech.com) — CC BY 4.0
 
 #2Be #2BeVIP #تعلم_الانجليزي #LearnEnglish #English
 ```

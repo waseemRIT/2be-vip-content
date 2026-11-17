@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 📞 معلّمك يتصل… اسحب للرد، وحصتك الفردية تبدأ على درسك أنت: A1 · الوحدة 2. دعم مرتبط بالدرس الذي تختاره، 5 حصص فردية أو 20 جماعية، ومعلّمون تتم مراجعة مؤهلاتهم CELTA/TEFL. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 📞 معلّمك يتصل… اسحب للرد، وحصتك الفردية تبدأ على درسك أنت: A1 · الوحدة 2. دعم مرتبط بالدرس الذي تختاره، 5 حصص فردية أو 20 جماعية، ومعلّمون تتم مراجعة مؤهلاتهم CELTA/TEFL. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

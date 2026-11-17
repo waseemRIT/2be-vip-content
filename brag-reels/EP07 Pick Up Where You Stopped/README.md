@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 أغلقت الهاتف في منتصف الدرس؟ افتح بوابة الطالب وتابع درسك من حيث توقفت 💻 أو أعِد الدرس، أو ابدأ من جديد. 60 درساً بمنهج كامبريدج متاحة طوال مدة الوصول. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 أغلقت الهاتف في منتصف الدرس؟ افتح بوابة الطالب وتابع درسك من حيث توقفت 💻 أو أعِد الدرس، أو ابدأ من جديد. 60 درساً بمنهج كامبريدج متاحة طوال مدة الوصول. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

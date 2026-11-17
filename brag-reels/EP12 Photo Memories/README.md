@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 ذكرياتك… بالإنجليزي 📸 تعرّف بنفسك، اطلب قهوتك، رتّب يومك، واسأل وافهم — إنجليزية تستخدمها في حياتك، بـ60 درساً بمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 ذكرياتك… بالإنجليزي 📸 تعرّف بنفسك، اطلب قهوتك، رتّب يومك، واسأل وافهم — إنجليزية تستخدمها في حياتك، بـ60 درساً بمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

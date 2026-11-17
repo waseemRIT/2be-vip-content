@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 «كود التفعيل الخاص بك» يصلك بالبريد 📩 انسخه، وفعّله على Cambridge One، فتنفتح وحداتك الـ12: ستون درساً بمنهج كامبريدج، كلها مفتوحة من اليوم الأول ولمدة 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 «كود التفعيل الخاص بك» يصلك بالبريد 📩 انسخه، وفعّله على Cambridge One، فتنفتح وحداتك الـ12: ستون درساً بمنهج كامبريدج، كلها مفتوحة من اليوم الأول ولمدة 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 نسخ… لصق… نسخ… لصق 🔁 كل مرة نفس الجملة في المترجم. تعلّمها مرة، واستخدمها دايماً: 60 درساً بمنهج كامبريدج، من أوّل كلمة إلى حوار بثقة، وكل الدروس مفتوحة من أوّل يوم. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 نسخ… لصق… نسخ… لصق 🔁 كل مرة نفس الجملة في المترجم. تعلّمها مرة، واستخدمها دايماً: 60 درساً بمنهج كامبريدج، من أوّل كلمة إلى حوار بثقة، وكل الدروس مفتوحة من أوّل يوم. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

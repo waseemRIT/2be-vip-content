@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 الساعة 2:00 والشاشة صارت داكنة… والدرس ما زال مفتوحاً 🌙 60 درساً بمنهج كامبريدج مفتوحة لك 18 شهراً، ادرس ذاتياً متى شئت، وحصصك مع المعلّم حسب توفّر المعلّمين. التسجيل مجاني، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 الساعة 2:00 والشاشة صارت داكنة… والدرس ما زال مفتوحاً 🌙 60 درساً بمنهج كامبريدج مفتوحة لك 18 شهراً، ادرس ذاتياً متى شئت، وحصصك مع المعلّم حسب توفّر المعلّمين. التسجيل مجاني، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

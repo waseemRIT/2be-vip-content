@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 إشعار واحد يكفي: درسك المجاني جاهز 📲 سجّل مجاناً بدون شراء دورة، واختر موعداً يناسبك لحصتك المجانية مع معلّم — بمنهج كامبريدج. الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 إشعار واحد يكفي: درسك المجاني جاهز 📲 سجّل مجاناً بدون شراء دورة، واختر موعداً يناسبك لحصتك المجانية مع معلّم — بمنهج كامبريدج. الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

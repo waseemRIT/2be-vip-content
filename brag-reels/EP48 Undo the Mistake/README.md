@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 كتبت «I is happy»؟ تراجع… والمعلّم يشرح لك السبب: «I am happy». مع 2Be الدعم مرتبط بالدرس الذي تختاره — 5 حصص فردية أو 20 جماعية حسب توفّر المعلّم، بمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 كتبت «I is happy»؟ تراجع… والمعلّم يشرح لك السبب: «I am happy». مع 2Be الدعم مرتبط بالدرس الذي تختاره — 5 حصص فردية أو 20 جماعية حسب توفّر المعلّم، بمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

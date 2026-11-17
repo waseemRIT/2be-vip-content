@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 المنيو كله إنجليزي، والطابور وراك؟ 😅 تعلّم إنجليزيتك على وقتك بمنهج كامبريدج: 60 درساً وحصص مع معلّم (5 فردية أو 20 جماعية)، والتسجيل مجاني مع حصة تجريبية مجانية. الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 المنيو كله إنجليزي، والطابور وراك؟ 😅 تعلّم إنجليزيتك على وقتك بمنهج كامبريدج: 60 درساً وحصص مع معلّم (5 فردية أو 20 جماعية)، والتسجيل مجاني مع حصة تجريبية مجانية. الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

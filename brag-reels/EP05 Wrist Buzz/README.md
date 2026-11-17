@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 ساعتك ترنّ: معلّم متاح الآن ⌚ اضغط، وابدأ حصتك على نفس الدرس الذي وصلت إليه. الحصص الفورية حسب توفّر المعلّمين، ومعلّمون تُراجع مؤهلاتهم قبل الانضمام. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 ساعتك ترنّ: معلّم متاح الآن ⌚ اضغط، وابدأ حصتك على نفس الدرس الذي وصلت إليه. الحصص الفورية حسب توفّر المعلّمين، ومعلّمون تُراجع مؤهلاتهم قبل الانضمام. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

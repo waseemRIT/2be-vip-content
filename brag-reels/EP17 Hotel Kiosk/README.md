@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 Name? Nights? Passport? ثلاثة أسئلة على شاشة الفندق وتوقّفت؟ ابدأ من الوحدة 1: التعريف بنفسك، بمنهج كامبريدج، و60 درساً كلها مفتوحة من اليوم الأول. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 Name? Nights? Passport? ثلاثة أسئلة على شاشة الفندق وتوقّفت؟ ابدأ من الوحدة 1: التعريف بنفسك، بمنهج كامبريدج، و60 درساً كلها مفتوحة من اليوم الأول. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

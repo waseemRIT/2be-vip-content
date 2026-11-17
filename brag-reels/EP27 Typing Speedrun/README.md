@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 اكتب بسرعة… أو على مهلك: الـ60 درساً كلّها مفتوحة من اليوم الأول ⌨️ منهج كامبريدج A1 في 12 وحدة × 5 دروس، ومعك معلّم: 5 حصص فردية أو 20 جماعية، والوصول 18 شهراً. التسجيل مجاني، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 اكتب بسرعة… أو على مهلك: الـ60 درساً كلّها مفتوحة من اليوم الأول ⌨️ منهج كامبريدج A1 في 12 وحدة × 5 دروس، ومعك معلّم: 5 حصص فردية أو 20 جماعية، والوصول 18 شهراً. التسجيل مجاني، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

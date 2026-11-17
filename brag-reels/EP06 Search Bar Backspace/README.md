@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 «كيف أقول…» للمرة العاشرة اليوم؟ 🔍 امسحها واكتب 2Be.vip: التسجيل مجاني ولا يلزم شراء دورة للتسجيل، وتجرّب حصة مجانية مع معلّم بمنهج كامبريدج قبل أن تقرّر. الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 «كيف أقول…» للمرة العاشرة اليوم؟ 🔍 امسحها واكتب 2Be.vip: التسجيل مجاني ولا يلزم شراء دورة للتسجيل، وتجرّب حصة مجانية مع معلّم بمنهج كامبريدج قبل أن تقرّر. الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

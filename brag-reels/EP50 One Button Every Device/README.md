@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 زر واحد على كل شاشة: جرّب درساً مجاناً. التسجيل مجاني، والدرس التجريبي مع معلّم بموعد يناسبك حسب التوفّر — بمنهج كامبريدج (60 درساً). خطوتك التالية تبدأ هنا، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 زر واحد على كل شاشة: جرّب درساً مجاناً. التسجيل مجاني، والدرس التجريبي مع معلّم بموعد يناسبك حسب التوفّر — بمنهج كامبريدج (60 درساً). خطوتك التالية تبدأ هنا، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

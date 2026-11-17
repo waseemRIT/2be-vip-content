@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 فعّل الإنجليزية 🔛 منهج كامبريدج (60 درساً) · دعم معلّم (5 حصص فردية أو 20 جماعية) · على وقتك (الدروس مفتوحة 18 شهراً). كل شيء ON. سجّل مجاناً ثم جرّب حصة مجانية مع معلّم، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 فعّل الإنجليزية 🔛 منهج كامبريدج (60 درساً) · دعم معلّم (5 حصص فردية أو 20 جماعية) · على وقتك (الدروس مفتوحة 18 شهراً). كل شيء ON. سجّل مجاناً ثم جرّب حصة مجانية مع معلّم، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

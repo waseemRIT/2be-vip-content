@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 استراحة الغداء: 15:00 دقيقة ⏱️ تفتح اللابتوب، تكمّل درسك من الوحدة 5 «روتينك وأوقات فراغك»… وتأكل. على وقتك: 60 درساً بمنهج كامبريدج مفتوحة لك 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 استراحة الغداء: 15:00 دقيقة ⏱️ تفتح اللابتوب، تكمّل درسك من الوحدة 5 «روتينك وأوقات فراغك»… وتأكل. على وقتك: 60 درساً بمنهج كامبريدج مفتوحة لك 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

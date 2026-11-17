@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 صفّك يكتمل، والمعلّم وصل 👨‍🏫 باقة A1 فيها 20 حصة جماعية مع معلّم (أو 5 حصص فردية)، مع 60 درساً بمنهج كامبريدج ووصول 18 شهراً. التسجيل مجاني وجرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 صفّك يكتمل، والمعلّم وصل 👨‍🏫 باقة A1 فيها 20 حصة جماعية مع معلّم (أو 5 حصص فردية)، مع 60 درساً بمنهج كامبريدج ووصول 18 شهراً. التسجيل مجاني وجرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 اختر وقت حصتك كأنك تختار مقعدك في السينما 🎟️ وقت متاح، ضغطة، وتذكرتك جاهزة: حصة تجريبية مجانية بـ $0.00 — والموعد حسب توفّر المعلّم. التسجيل مجاني، والمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 اختر وقت حصتك كأنك تختار مقعدك في السينما 🎟️ وقت متاح، ضغطة، وتذكرتك جاهزة: حصة تجريبية مجانية بـ $0.00 — والموعد حسب توفّر المعلّم. التسجيل مجاني، والمنهج كامبريدج. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 9" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

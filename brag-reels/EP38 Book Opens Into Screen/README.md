@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 كان كتاباً… وصار درسك أونلاين 📖➜💻 منهج كامبريدج EVOLVE Digital على 2Be: 12 وحدة × 5 دروس = 60 درساً، كلها مفتوحة من اليوم الأول ولمدة 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 كان كتاباً… وصار درسك أونلاين 📖➜💻 منهج كامبريدج EVOLVE Digital على 2Be: 12 وحدة × 5 دروس = 60 درساً، كلها مفتوحة من اليوم الأول ولمدة 18 شهراً. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

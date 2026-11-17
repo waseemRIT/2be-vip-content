@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 «ما عرفت أنطق comfortable» 🤔 اسأل معلّمك في حصة فورية حسب توفّر المعلّمين: تسمع النطق، تعرف النبرة، وتجرّب جملة. 5 حصص فردية أو 20 جماعية مع معلّمين تُراجَع شهاداتهم CELTA / TEFL. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 «ما عرفت أنطق comfortable» 🤔 اسأل معلّمك في حصة فورية حسب توفّر المعلّمين: تسمع النطق، تعرف النبرة، وتجرّب جملة. 5 حصص فردية أو 20 جماعية مع معلّمين تُراجَع شهاداتهم CELTA / TEFL. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

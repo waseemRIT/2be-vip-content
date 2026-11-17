@@ -10,7 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 درس الإنجليزي الساعة 9 الصبح؟ لا. 11 بالليل أنسب 😌 الـ60 درساً متاحة طوال مدة الوصول، تتابع وتعيد وتبدأ من جديد متى ما ناسبك — جدول يبدأ من وقتك، وليس العكس. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -29,7 +28,6 @@ Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 درس الإنجليزي الساعة 9 الصبح؟ لا. 11 بالليل أنسب 😌 الـ60 درساً متاحة طوال مدة الوصول، تتابع وتعيد وتبدأ من جديد متى ما ناسبك — جدول يبدأ من وقتك، وليس العكس. جرّب درساً مجاناً، الرابط في البايو.
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 ماذا تحصل بـ $216؟ 🧾 باقة A1 بمنهج كامبريدج: وصول 18 شهراً، 60 درساً مفتوحة من اليوم الأول، و5 حصص فردية أو 20 جماعية مع معلّم. بأقل من نصف دولار يومياً (متوسط تكلفة الباقة على 18 شهراً، وليس دفعاً يومياً). سجّل مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 ماذا تحصل بـ $216؟ 🧾 باقة A1 بمنهج كامبريدج: وصول 18 شهراً، 60 درساً مفتوحة من اليوم الأول، و5 حصص فردية أو 20 جماعية مع معلّم. بأقل من نصف دولار يومياً (متوسط تكلفة الباقة على 18 شهراً، وليس دفعاً يومياً). سجّل مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 11" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

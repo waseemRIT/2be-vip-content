@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 توقعات الأسبوع: ثقة ☀️ مستوى A1 متاح الآن، وباقي المستويات قريباً. 60 درساً بمنهج كامبريدج، 18 شهراً، وحصص مع معلّمك. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney
 
 ```text
 توقعات الأسبوع: ثقة ☀️ مستوى A1 متاح الآن، وباقي المستويات قريباً. 60 درساً بمنهج كامبريدج، 18 شهراً، وحصص مع معلّمك. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 1" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

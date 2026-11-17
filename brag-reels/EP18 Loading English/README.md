@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 إنجليزيتك عالقة على 3% من سنين؟ 3 خطوات فقط: سجّل مجاناً، جرّب حصة مجانية، واشترِ عندما تكون مستعدّاً. منهج كامبريدج و60 درساً على وقتك. الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 إنجليزيتك عالقة على 3% من سنين؟ 3 خطوات فقط: سجّل مجاناً، جرّب حصة مجانية، واشترِ عندما تكون مستعدّاً. منهج كامبريدج و60 درساً على وقتك. الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 10" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>

@@ -10,8 +10,6 @@ Part of **[2Be Brag Reels](../README.md)**.
 
 ```text
 افتح اللابتوب… وتعرّف على 2Be في 15 ثانية: إنجليزيتك على وقتك، بمنهج كامبريدج (60 درساً)، باقة A1 بـ $216 — بأقل من نصف دولار يومياً كمتوسط على 18 شهراً، والتسجيل والدرس التجريبي مجانيان. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 ---
@@ -30,8 +28,6 @@ Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenne
 
 ```text
 افتح اللابتوب… وتعرّف على 2Be في 15 ثانية: إنجليزيتك على وقتك، بمنهج كامبريدج (60 درساً)، باقة A1 بـ $216 — بأقل من نصف دولار يومياً كمتوسط على 18 شهراً، والتسجيل والدرس التجريبي مجانيان. جرّب درساً مجاناً، الرابط في البايو.
-
-Music: "Happy Beats / Business Moves vol 12" by ende.app (CC BY 4.0). SFX: Kenney (CC0). Visuals: 2Be.vip site.
 ```
 
 </div>
