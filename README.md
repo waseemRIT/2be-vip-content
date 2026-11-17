@@ -2,6 +2,14 @@
 
 Free English-learning posts from the 2Be.vip community: songs, stories, handwriting reels and slideshows for Arabic speakers.
 
+## Latest content — download from here
+
+Newest ready-to-post videos, with the video file, cover and caption in each post folder:
+
+- **[2Be Songs](https://github.com/waseemRIT/2be-vip-songs)**: 176 English songs in 8 handmade styles, plus the Felt Songs
+- **[2Be Stories](https://github.com/waseemRIT/2be-vip-stories)**: Sami Family, Youssef, Hamada, Haj Idrees
+- **[2Be Reels](https://github.com/waseemRIT/2be-vip-reels)**: handwriting reels, slideshows, brag reels
+
 ## Series
 
 | | Series | Posts |
@@ -34,6 +42,12 @@ Made for **[2Be.vip](https://www.2be.vip)**
 # 2Be.vip — تعلّم الإنجليزي
 
 منشورات مجانية لتعلّم الإنجليزي من مجتمع 2Be.vip: أغانٍ وحكايات وريلز كتابة وشرائح للناطقين بالعربية.
+
+## أحدث المحتوى — حمّل من هنا
+
+- **[أغاني 2Be](https://github.com/waseemRIT/2be-vip-songs)**
+- **[قصص 2Be](https://github.com/waseemRIT/2be-vip-stories)**
+- **[ريلز 2Be](https://github.com/waseemRIT/2be-vip-reels)**
 
 ## السلاسل
 
